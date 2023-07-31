@@ -1,0 +1,28 @@
+{"away": ["CHEM 1A - General Chemistry (3.00)", "CHEM 1AL - General Chemistry Laboratory (2.00)"], "home": [["Articulates as a Series Only"]]}
+{"away": ["CHEM 1A - General Chemistry (3.00)", "CHEM 1AL - General Chemistry Laboratory (2.00)", "CHEM 1B - General Chemistry (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["BIOLOGY 1A - General Biology Lecture (Cells, Genetics, Animal Form & Function) (3.00)", "BIOLOGY 1AL - General Biology Laboratory (2.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIOLOGY 1A - General Biology Lecture (Cells, Genetics, Animal Form & Function) (3.00)", "BIOLOGY 1AL - General Biology Laboratory (2.00)", "BIOLOGY 1B - General Biology (Plant Form & Function, Ecology, Evolution) (4.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["BIOLOGY 1B - General Biology (Plant Form & Function, Ecology, Evolution) (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 53 - Multivariable Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)", "MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 54 - Linear Algebra and Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)", "MATH 2B - Linear Algebra (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)", "MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["PHYSICS 7A - Physics for Scientists and Engineers (4.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYSICS 7B - Physics for Scientists and Engineers (4.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)", "PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYSICS 7A - Physics for Scientists and Engineers (4.00)", "PHYSICS 7B - Physics for Scientists and Engineers (4.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["PHYSICS 7A - Physics for Scientists and Engineers (4.00)", "PHYSICS 7B - Physics for Scientists and Engineers (4.00)", "PHYSICS 7C - Physics for Scientists and Engineers (4.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["ENGLISH R1A - Reading and Composition (4.00)"], "home": [["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"]]}
+{"away": ["ENGLISH R1B - Reading and Composition (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}
+{"away": ["COMPSCI 61A - The Structure and Interpretation of Computer Programs (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGIN 7 - Introduction to Computer Programming for Scientists and Engineers (MATLAB) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CIV ENG 11 - Engineered Systems and Sustainability (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CIV ENG C30 - Introduction to Solid Mechanics (3.00) Same-As: MEC ENG C85"], "home": [["No Course Articulated"]]}
+{"away": ["MEC ENG C85 - Introduction to Solid Mechanics (3.00) Same-As: CIV ENG C30"], "home": [["No Course Articulated"]]}
+{"away": ["CIV ENG 60 - Structure and Properties of Civil Engineering Materials (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CIV ENG 70 - Engineering Geology (3.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["EECS 16A - Designing Information Devices and Systems I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EECS 16B - Designing Information Devices and Systems II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGIN 26 - Three-Dimensional Modeling for Design (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGIN 29 - Manufacturing and Design Communication (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT SCI 45 - Properties of Materials (3.00)", "MAT SCI 45L - Properties of Materials Laboratory (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MEC ENG 40 - Thermodynamics (3.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,24 @@
+{"away": ["MUSIC 40B - History of European Music: From the Renaissance through the Baroque (4.00)", "MUSIC 40C - History of European Music: Hasse to Mahler (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 40D - Twentieth-Century Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 51 - Music Technology and Computers (4.00)"], "home": [["MUSI 51 - Introduction to Electronic Music (3.00)"]]}
+{"away": ["MUSIC 4 - Introduction to Opera (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 8 - The Beatles and the Sixties (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 9 - Rock: The Early Years (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 41 - Major Composer (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 42 - Music and Gender (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 44 - Classical Music in Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 45 - History of Film Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 78 - History of Jazz (4.00)"], "home": [["MUSI 1B - Music Appreciation: Jazz Styles (4.00)"]]}
+{"away": ["MUSIC 82A - Pish Radif: Introduction to Classical Persian Music (4.00)"], "home": [["No Course Articulated The Department of Music offers two degrees: The Bachelor of Arts in Music (B.A.) and the Bachelor of Music (B.Mus.). The B.A. in Music program enables students to study music theory, music history, composition and performance; the B.Mus. program allows students to specialize in piano performance, vocal performance, instrumental performance (flute, oboe, clarinet, bassoon, horn, trumpet, trombone, tuba, percussion, violin, viola, violoncello, and double bass), jazz studies (piano, saxophone, trombone, trumpet, bass, and percussion), and guitar and lute performance. All Music applicants, regardless of degree objective, must apply to the B.A. degree program and audition in late January/early February with an instrument or voice, prior to the fall quarter when entrance is anticipated; admission to the B.Mus. degree program is by a second audition later after"]]}
+{"away": ["matriculation."], "home": [["Transfer applicants who perform at a sufficiently high level in the entrance audition, have the requisite background in music theory and musicianship, and wish to earn the B.Mus. rather than B.A. degree, will be offered the opportunity to change their degree objective from B.A. to B.Mus. upon"]]}
+{"away": ["matriculation at the University. Please visit the Music Department website:"], "home": [["http://music.arts.uci.edu/ for more information."]]}
+{"away": ["It is recommended"], "home": [["that transfer students enter the major with college-level private instrumental or voice instruction; two years of music theory; the history of western music; ear-training; sight-singing; sight-reading; and piano. One year of individual vocal or instrumental instruction to be taken at the community college."]]}
+{"away": ["One year of ensemble or repertory to be taken at the community college."], "home": [["."]]}
+{"away": ["NOTE"], "home": [[": In fulfillment of the requirements below, a single course may be used only once."]]}
+{"away": ["For information regarding the AP and IB examination"], "home": [["credit policies refer to the UCI General Catalogue."]]}
+{"away": ["MUSIC 82B - Pish Radif: Introduction to Classical Persian Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 82C - Pish Radif: Introduction to Classical Persian Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 41 - Major Composer (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 42 - Music and Gender (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 44 - Classical Music in Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSIC 45 - History of Film Music (4.00)"], "home": [["No Course Articulated"]]}

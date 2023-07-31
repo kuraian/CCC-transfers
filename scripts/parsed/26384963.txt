@@ -1,0 +1,4 @@
+{"away": ["TDAC 1 - Introduction to Acting (4.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"]]}
+{"away": ["TDDM 1 - Introduction to Dance Making (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDDE 1 - Introduction to Design for the Theatre (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDPR 6 - Theatre Practicum (4.00 - 6.00)"], "home": [["No Course Articulated"]]}

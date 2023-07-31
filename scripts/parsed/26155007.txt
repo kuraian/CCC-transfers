@@ -1,0 +1,36 @@
+{"away": ["PSYCH 10 - Introductory Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PSYCH 85 - Introduction to Cognitive Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3A - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3B - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated Students are advised to complete the Program in Computing courses as soon as possible. Transfer students may complete the equivalent of UCLA's Com Sci 31, 32, 33 and M51A courses to satisfy the programming requirement for Cognitive Science. Completion of the equivalent of UCLA's CS 31 + CS 32 will transfer as Computing 10ABC, while completion of the equivalent of CS 33 or CS M51A can be used to satisfy one of the two additional computing courses needed in addition to Program in Computing 10A ."]]}
+{"away": ["MATH 3C - Ordinary Differential Equations with Linear Algebra for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["LIFESCI 7A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["LIFESCI 15 - Life: Concepts and Issues (5.00)"], "home": [["BIOL 10 - Introductory Biology (5.00)"]]}
+{"away": ["PHYSCI 3 - Introduction to Human Physiology (5.00)"], "home": [["BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)", "BIOL 40C - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["One Introductory Chemistry Course"], "home": [["CHEM 10 - Introductory Chemistry (5.00)"]]}
+{"away": ["CHEM 17 - Chemical Principles (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)"]]}
+{"away": ["LING 1 - Introduction to Study of Language (5.00)"], "home": [["LING 1 - Introduction to Linguistics (4.00)"]]}
+{"away": ["LING 20 - Introduction to Linguistics Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHYSICS 10 - Physics (4.00)"], "home": [["PHYS 10 - Concepts of Physics (5.00)"], ["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 11 - Revolutions in Physics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHYSICS 5A - Physics for Life Sciences Majors: Mechanics, and Energy (5.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 1A - Physics for Scientists and Engineers: Mechanics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHILOS 7 - Introduction to Philosophy of Mind (5.00)"], "home": [["PHIL 1 - Introduction to Philosophy (4.00)"]]}
+{"away": ["PHILOS 8 - Introduction to Philosophy of Science (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 9 - Principles of Critical Reasoning (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 23 - Meaning and Communication (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 31 - Logic, First Course (5.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"]]}
+{"away": ["COMPTNG 10A - Introduction to Programming(C++) (5.00)"], "home": [["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 22A - Beginning Programming Methodologies in C++ (4.50)", "CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"]]}
+{"away": ["COMPTNG 10B - Intermediate Programming(C++) (5.00)"], "home": [["CIS 28 - Object Oriented Analysis and Design (4.50)"]]}
+{"away": ["COMPTNG 10C - Advanced Programming (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 15 - Introduction to LISP and Symbolic Computation (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 16A - Python with Applications I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 20A - Principles of Java Language with Applications (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 40A - Introduction to Programming for Internet (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYCH 20A - Matlab Programming for Behavioral Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYCH 20B - Advanced Topics in Matlab Programming for Behavioral Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYCH 30 - Web Programming for Psychology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 20 - Introduction to Statistical Programming with R. (4.00)"], "home": [["CIS 44H - R Programming (4.50)"]]}
+{"away": ["STATS 21 - Python and Other Technologies for Data Science (4.00)"], "home": [["No Course Articulated"]]}

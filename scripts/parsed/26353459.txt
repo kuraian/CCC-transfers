@@ -1,0 +1,5 @@
+{"away": ["MUSC 11A - Introduction to Western Classical Music (5.00)"], "home": [["MUSI 1A - Music Appreciation: Music in Western Cultures (4.00)"]]}
+{"away": ["MUSC 11D - Introduction to World Music (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 30A - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 30B - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 30C - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}

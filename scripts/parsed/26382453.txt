@@ -1,0 +1,27 @@
+{"away": ["LIAB 1A - Arabic Conversation (2.50)", "LIAB 1AX - Analysis of Arabic (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIAB 1B - Arabic Conversation (2.50)", "LIAB 1BX - Analysis of Arabic (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIAB 1C - Arabic Conversation (2.50)", "LIAB 1CX - Analysis of Arabic (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIAB 1D - Arabic Conversation (2.50)", "LIAB 1DX - Analysis of Arabic (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LISL 1A - American Sign Language Conversation (2.50)", "LISL 1AX - Analysis of American Sign Language (2.50)"], "home": [["SIGN 1 - Elementary American Sign Language (First Quarter) (5.00)"]]}
+{"away": ["LISL 1B - American Sign Language Conversation (2.50)", "LISL 1BX - Analysis of American Sign Language (2.50)"], "home": [["SIGN 2 - Elementary American Sign Language (Second Quarter) (5.00)"]]}
+{"away": ["LISL 1C - American Sign Language Conversation (2.50)", "LISL 1CX - Analysis of American Sign Language (2.50)"], "home": [["SIGN 3 - Elementary American Sign Language (Third Quarter) (5.00)"]]}
+{"away": ["LISL 1D - American Sign Language Conversation (2.50)", "LISL 1DX - Analysis of American Sign Language (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIFR 1A - French Conversation (2.50)", "LIFR 1AX - Analysis of French (2.50)"], "home": [["FREN 1 - Elementary French (First Quarter) (5.00)"]]}
+{"away": ["LIFR 1B - French Conversation (2.50)", "LIFR 1BX - Analysis of French (2.50)"], "home": [["FREN 2 - Elementary French (Second Quarter) (5.00)"]]}
+{"away": ["LIFR 1C - French Conversation (2.50)", "LIFR 1CX - Analysis of French (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIFR 1D - French Conversation (2.50)", "LIFR 1DX - Analysis of French (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIGM 1A - German Conversation (2.50)", "LIGM 1AX - Analysis of German (2.50)"], "home": [["GERM 1 - Elementary German (First Quarter) (5.00)"]]}
+{"away": ["LIGM 1B - German Conversation (2.50)", "LIGM 1BX - Analysis of German (2.50)"], "home": [["GERM 2 - Elementary German (Second Quarter) (5.00)"]]}
+{"away": ["LIGM 1C - German Conversation (2.50)", "LIGM 1CX - Analysis of German (2.50)"], "home": [["GERM 3 - Elementary German (Third Quarter) (5.00)"]]}
+{"away": ["LIGM 1D - German Conversation (2.50)", "LIGM 1DX - Analysis of German (2.50)"], "home": [["GERM 4 - Intermediate German (First Quarter) (5.00)"]]}
+{"away": ["LIIT 1A - Italian Conversation (2.50)", "LIIT 1AX - Analysis of Italian (2.50)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)"]]}
+{"away": ["LIIT 1B - Italian Conversation (2.50)", "LIIT 1BX - Analysis of Italian (2.50)"], "home": [["ITAL 2 - Elementary Italian (Second Quarter) (5.00)"]]}
+{"away": ["LIIT 1C - Italian Conversation (2.50)", "LIIT 1CX - Analysis of Italian (2.50)"], "home": [["ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["LIIT 1D - Italian Conversation (2.50)", "LIIT 1DX - Analysis of Italian (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIPO 1A - Portuguese Conversation (2.50)", "LIPO 1AX - Analysis of Portuguese (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIPO 1B - Portuguese Conversation (2.50)", "LIPO 1BX - Analysis of Portuguese (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIPO 1C - Portuguese Conversation (2.50)", "LIPO 1CX - Analysis of Portuguese (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIPO 1D - Portuguese Conversation (2.50)", "LIPO 1DX - Analysis of Portuguese (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LISP 1A - Spanish Conversation (2.50)", "LISP 1AX - Analysis of Spanish (2.50)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)"]]}
+{"away": ["LISP 1B - Spanish Conversation (2.50)", "LISP 1BX - Analysis of Spanish (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LISP 1C - Spanish Conversation (2.50)", "LISP 1CX - Analysis of Spanish (2.50)"], "home": [["SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}

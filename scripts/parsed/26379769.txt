@@ -1,0 +1,3 @@
+{"away": ["CHIN 10AN - First-Year Chinese I (5.00)"], "home": [["", "MAND 1 - Elementary Mandarin (First Quarter) (5.00)"]]}
+{"away": ["CHIN 10BN - First-Year Chinese II (5.00)", "CHIN 10CN - First-Year Chinese III (5.00)"], "home": [["", "MAND 2 - Elementary Mandarin (Second Quarter) (5.00) MAND 3 - Elementary Mandarin (Third Quarter) (5.00)"]]}
+{"away": ["CHIN 20AN - Second-Year Chinese I (4.00)"], "home": [["", "MAND 4 - Intermediate Mandarin (First Quarter) (5.00)"]]}

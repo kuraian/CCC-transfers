@@ -1,0 +1,16 @@
+{"away": ["VIS 11 - Introduction to Visual Culture (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["VIS 30 - Introduction to Speculative Design (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["VIS 41 - Design Communication (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 1 - Introduction to Art-Making: Two-Dimensional Practices (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 2 - Introduction to Art-Making: Motion and Time Based Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 3 - Introduction to Art-Making: Three-Dimensional Practices (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 60 - Introduction to Digital Photography (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 70N - Introduction to Media (6.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["VIS 80 - Intro to the Studio Major (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["COGS 10 - Cognitive Consequences of Technology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 1 - History of U.S. Urban Communities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 2 - Urban World System (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 3 - The City and Social Theory (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 10 - Computing in the Arts Lecture Series (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["VIS 22 - Formations of Modern Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 31 - Undead Media, All Things Zombie (4.00)"], "home": [["No Course Articulated"]]}

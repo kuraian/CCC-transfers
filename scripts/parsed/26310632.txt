@@ -1,0 +1,11 @@
+{"away": ["DRA 021A - Fundamentals of Acting (4.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)", "THEA 20B - Theory and Technique of Acting (Modern Period) (4.00)"]]}
+{"away": ["DRA 040A - Beginning Modern Dance (2.00)"], "home": [["DANC 23A - Theory and Technique of Contemporary (Modern) Dance I (1.00)", "DANC 23B - Theory and Technique of Contemporary (Modern) Dance II (1.00)"]]}
+{"away": ["DRA 040B - Intermediate Modern Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 042A - Beginning Ballet (2.00)"], "home": [["DANC 22K - Theory and Technique of Ballet I (1.00)"]]}
+{"away": ["DRA 042B - Intermediate Ballet (2.00)"], "home": [["DANC 22L - Theory and Technique of Ballet II (1.00)"]]}
+{"away": ["DRA 024 - Visual Aspects of Dramatic Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 028 - Entertainment Engineering & Management: Stagecraft to Stage Management (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 055 - Contemporary Local, National & Global Theatre, Dance & Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 056A - History of Theatre & Dance I: Myth, Magic & Madness (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 056B - History of Theatre & Dance II: Romance, Revenge & Rebellion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 056C - History of Theatre & Dance III: Sex, Society & the State (4.00)"], "home": [["No Course Articulated"]]}

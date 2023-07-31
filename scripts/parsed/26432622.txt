@@ -1,0 +1,15 @@
+{"away": ["CRWT 56 - Intro to Creative Writing (4.00)"], "home": [["EWRT 30 - Introduction to Creative Writing (5.00)"]]}
+{"away": ["CRWT 46 - Craft of Writing: Survey in Contemporary Fiction (4.00)"], "home": [["EWRT 40 - Fiction Writing (5.00)"]]}
+{"away": ["CRWT 47 - Craft of Writing: Survey in Contemporary Poetry (4.00)"], "home": [["EWRT 41 - Poetry Writing (5.00)"]]}
+{"away": ["CRWT 48 - Craft of Writing: Survey in Contemporary Nonfiction (4.00)"], "home": [["EWRT 42 - Introduction to Creative Nonfiction and Memoir Writing (5.00)"]]}
+{"away": ["CRWT 57A - Intro to Fiction (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRWT 57B - Intro to Poetry (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRWT 57C - Intro to Creative Nonfiction (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRWT 12 - The Writer in Writing (4.00) Same-As: CPLT 12"], "home": [["No Course Articulated"]]}
+{"away": ["CRWT 40 - Fiction and Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRWT 41 - Poetry and Fiction: A Reading Course for Writers (4.00)"], "home": [["EWRT 40 - Fiction Writing (5.00)", "EWRT 41 - Poetry Writing (5.00)"]]}
+{"away": ["CRWT 43 - Creative Writing and Ancestry (4.00)"], "home": [["EWRT 42 - Introduction to Creative Nonfiction and Memoir Writing (5.00)"]]}
+{"away": ["CRWT 44 - Ghosts, Gods, and Monsters: Children's Literature for Writers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRWT 45 - The Prose Poem and the \"Short-Short\" Story (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 14 - Major American Writers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 15 - Modern Literature (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}

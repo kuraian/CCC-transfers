@@ -1,0 +1,2 @@
+{"away": ["ENGL 20A - Intro to British Literary Tradition (5.00)"], "home": [["ELIT 46A - Major British Writers (Medieval and Renaissance) (4.00)"], ["ELIT 46B - Major British Writers (Neo-Classical and Romantic) (4.00)"], ["ELIT 46C - Major British Writers (Victorian and Modern) (4.00)"]]}
+{"away": ["ENGL 20B - Intro to American Literary Traditions (5.00)"], "home": [["ELIT 48A - Major American Writers (Colonial and Romantic, 1620- 1865) (4.00)"], ["ELIT 48B - Major American Writers (The Advent of Realism, 1865- 1914) (4.00)"]]}

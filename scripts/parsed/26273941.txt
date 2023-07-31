@@ -1,0 +1,4 @@
+{"away": ["ANTHRO 1 - Introduction to Biological Anthropology (4.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"]]}
+{"away": ["ANTHRO 2 - Introduction to Archaeology (4.00)"], "home": [["ANTH 4 - World Prehistory (4.00)"]]}
+{"away": ["ANTHRO 3 - Introduction to Social and Cultural Anthropology (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00) - If possible, complete the 3 lower division courses (Anthro 1, 2, & 3) at your transfer institutions."]]}
+{"away": ["- Plan to complete any remaining prerequisites during your first"], "home": [["semester at Berkeley."]]}

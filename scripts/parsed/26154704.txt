@@ -1,0 +1,46 @@
+{"away": ["I A STD 1 - Introduction to International and Area Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["C&EE ST 91 - Culture and Society in Central and Eastern Europe (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 1C - World Literature: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2CW - Survey of Literature: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4CW - Literature and Writing: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DUTCH  10 - Contemporary Dutch Society and Culture: Beyond Rembrandt, Cheese, and Wooden Shoes (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FRNCH 12 - Introduction to French and Francophone Literature (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FRNCH 14 - Introduction to French Culture and Civilization in English (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FRNCH 14W - Introduction to French Culture and Civilization in English (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GERMAN 50B - Great Works of German Literature in Translation: Romanticism to Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 1C - Introduction to Western Civilization: Circa 1715 to Present (5.00)"], "home": [["HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"]]}
+{"away": ["HIST 97C - Introduction to Historical Practice: Variable Topics in European History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 40 - Introduction to Europe (5.00)"], "home": [["No Course Articulated Two years of a modern foreign language other than English.  The language requirement can also be fulfilled in part or in total by taking a placement examination given through the appropriate language department at UCLA."]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["ITALIAN 46 - Italian Cinema and Culture in English (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITALIAN 50B - Masterpieces of Italian Literature in English: Enlightenment to Postmodernity (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 25 - Great Russian Novel (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 90B - Russian Civilization in 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 42 - Iberian Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GERMAN 59 - Holocaust in Film and Literature (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GERMAN 61A - Modern Metropolis: Berlin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 40A - Portuguese, Brazilian, and African Literature in Translation: Portuguese and Portuguese-African Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ROMANIA 90 - Introduction to Romanian Civilization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 30 - Russian Literature and World Cinema (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 31 - Introduction to Russian Film (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 32 - Russia and Asia: Cultural Dialogues (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 90BW - Russian Civilization in 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SCAND 50 - Introduction to Scandinavian Literatures and Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SLAVC 90 - Introduction to Slavic Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 1 - Principles of Economics(Microeconomics) (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics(Macroeconomics) (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["GEOG 4 - Globalization: Regional Development and World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 6 - World Regions: Concepts and Contemporary Issues (5.00)"], "home": [["GEO 10 - World Regional Geography (4.00)"]]}
+{"away": ["POL SCI 50 - Introduction to Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL SCI 50R - Introduction to Comparative Politics--Research Version (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["COM LIT 1D - Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2DW - Survey of Literature: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4DW - Literature and Writing: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETHNMUS 5 - Music Around World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETHNMUS M25 - Global Pop (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 3 - Cultural Geography (5.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["HIST 2B - Social Knowledge and Social Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 22 - Contemporary World History, 1760 to Present (5.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["WL ARTS 20 - Culture: Introduction (5.00)"], "home": [["No Course Articulated"]]}

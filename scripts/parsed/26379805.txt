@@ -1,0 +1,9 @@
+{"away": ["LTWL 19A - Introduction to the Ancient Greeks and Romans (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTWL 19B - Introduction to the Ancient Greeks and Romans (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTWL 19C - Introduction to the Ancient Greeks and Romans (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTLA 1 - Beginning Latin (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTLA 2 - Intermediate Latin I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTLA 3 - Intermediate Latin II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGK 1 - Beginning Greek (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGK 2 - Intermediate Greek I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGK 3 - Intermediate Greek II (4.00)"], "home": [["No Course Articulated"]]}

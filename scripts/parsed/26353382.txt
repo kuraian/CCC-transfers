@@ -1,0 +1,4 @@
+{"away": ["SOCY 1 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCY 10 - Issues and Problems in American Society (5.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["SOCY 3A - The Evaluation of Evidence (5.00)"], "home": [["SOC 14 - The Process of Social Research (4.00)"]]}
+{"away": ["SOCY 3B - Statistical Methods (5.00)"], "home": [["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"]]}

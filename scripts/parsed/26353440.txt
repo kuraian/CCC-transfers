@@ -1,0 +1,12 @@
+{"away": ["CSE 12 - Computer Systems and Assembly Language and Lab (7.00)"], "home": [["CIS 21JA - Introduction to x86 Processor Assembly Language and Computer Architecture (4.50)"], ["CIS 21JB - Advanced x86 Processor Assembly Programming (4.50)"]]}
+{"away": ["CSE 13S - Computer Systems and C Programming (7.00)"], "home": [["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"]]}
+{"away": ["ECE 13 - Computer Systems and C Programming (7.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CSE 16 - APPLIED DISCRETE MATHEMATICS (5.00)"], "home": [["MATH 22 - Discrete Mathematics (5.00)"], ["MATH 22H - Discrete Mathematics - HONORS (5.00)"]]}
+{"away": ["CSE 20 - Beginning Programming in Python (5.00)"], "home": [["CIS 40 - Introduction to Programming in Python (4.50)"], ["CIS 41A - Python Programming (4.50)"]]}
+{"away": [""], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": ["AM 10 - Mathematical Methods for Engineers I (5.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MATH 21 - Linear Algebra (5.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MATH 11A - Calculus with Applications (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 11B - Calculus with Applications (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19B - Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}

@@ -1,0 +1,24 @@
+{"away": ["MUS 4 - Introduction to Western Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 6 - Electronic Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 7 - Music, Science, and Computers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 13 - Worlds of Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 14 - Contemporary Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 1A - Fundamentals of Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 2A - Basic Musicianship (4.00)"], "home": [["MUSI 3A - Comprehensive Musicianship (First Quarter) (4.00)"]]}
+{"away": ["MUS 5 - Sound in Time (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 1B - Fundamentals of Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 2B - Basic Musicianship (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 4 - Introduction to Western Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 6 - Electronic Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 7 - Music, Science, and Computers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 14 - Contemporary Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CSE 11 - Introduction to Programming and Computational Problem Solving - Accelerated Pace (4.00)"], "home": [["CIS 35A - Java Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["CSE 8A - Introduction to Programming and Computational Problem Solving I (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)"], ["CIS 40 - Introduction to Programming in Python (4.50)"]]}
+{"away": ["CSE 8B - Introduction to Programming and Computational Problem Solving II (4.00)"], "home": [["CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["CSE 20 - Discrete Mathematics (4.00) Same-As: MATH 15A"], "home": [["MATH 22 - Discrete Mathematics (5.00)"], ["MATH 22H - Discrete Mathematics - HONORS (5.00)"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 10A - Calculus I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10B - Calculus II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10C - Calculus III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 41 - Design Communication (4.00)"], "home": [["No Course Articulated"]]}

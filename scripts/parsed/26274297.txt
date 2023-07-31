@@ -1,0 +1,20 @@
+{"away": ["RUSSIAN 1 - Elementary Russian (5.00)"], "home": [["RUSS 1 - Elementary Russian (First Quarter) (5.00)", "RUSS 2 - Elementary Russian (Second Quarter) (5.00)"]]}
+{"away": ["RUSSIAN 2 - Elementary Russian (5.00)"], "home": [["RUSS 2 - Elementary Russian (Second Quarter) (5.00)", "RUSS 3 - Elementary Russian (Third Quarter) (5.00)"]]}
+{"away": ["RUSSIAN 3 - Intermediate Russian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSIAN 4 - Intermediate Russian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SLAVIC 45 - Nineteenth-Century Russian Literature (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SLAVIC 46 - Twentieth-Century Russian Literature (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSIAN 1 - Elementary Russian (5.00)"], "home": [["RUSS 1 - Elementary Russian (First Quarter) (5.00)", "RUSS 2 - Elementary Russian (Second Quarter) (5.00)"]]}
+{"away": ["RUSSIAN 2 - Elementary Russian (5.00)"], "home": [["RUSS 2 - Elementary Russian (Second Quarter) (5.00)", "RUSS 3 - Elementary Russian (Third Quarter) (5.00)"]]}
+{"away": ["RUSSIAN 3 - Intermediate Russian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSIAN 4 - Intermediate Russian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BOSCRSR 27A - Introductory Bosnian / Croatian / Serbian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BOSCRSR 27B - Introductory Bosnian / Croatian / Serbian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CZECH 26A - Introductory Czech (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CZECH 26B - Introductory Czech (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HUNGARI 1A - Introductory Hungarian (3.00 - 4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HUNGARI 1B - Introductory Hungarian (3.00 - 4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLISH 25A - Introductory Polish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLISH 25B - Introductory Polish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARMENI 1A - Introductory Armenian (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARMENI 1B - Introductory Armenian (3.00)"], "home": [["No Course Articulated"]]}

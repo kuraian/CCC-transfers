@@ -1,0 +1,2 @@
+{"away": ["ETHN 1 - Introduction to Ethnic Studies: Land and Labor (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETHN 2 - Introduction to Ethnic Studies: Circulations of Difference (4.00)"], "home": [["No Course Articulated"]]}

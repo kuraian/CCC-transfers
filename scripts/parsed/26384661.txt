@@ -1,0 +1,4 @@
+{"away": ["LTRU 1A - First-Year Russian (5.00)"], "home": [["", "RUSS 1 - Elementary Russian (First Quarter) (5.00)"]]}
+{"away": ["LTRU 1B - First-Year Russian (5.00)"], "home": [["", "RUSS 2 - Elementary Russian (Second Quarter) (5.00)"]]}
+{"away": ["LTRU 1C - First-Year Russian (5.00)"], "home": [["", "RUSS 3 - Elementary Russian (Third Quarter) (5.00)"]]}
+{"away": ["LTRU 2A - Second-Year Russian (5.00)"], "home": [["", "No Course Articulated"]]}

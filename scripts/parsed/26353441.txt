@@ -1,0 +1,4 @@
+{"away": ["CHIN 1 - First-Year Chinese (5.00)"], "home": [["MAND 1 - Elementary Mandarin (First Quarter) (5.00)", "MAND 2 - Elementary Mandarin (Second Quarter) (5.00)", "MAND 3 - Elementary Mandarin (Third Quarter) (5.00)"]]}
+{"away": ["JAPN 1 - First-Year Japanese (5.00)"], "home": [["JAPN 1 - Elementary Japanese (First Quarter) (5.00)", "JAPN 2 - Elementary Japanese (Second Quarter) (5.00)", "JAPN 3 - Elementary Japanese (Third Quarter) (5.00)"]]}
+{"away": ["HIS 40A - Early Modern East Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 40B - The Making of Modern East Asia (5.00)"], "home": [["No Course Articulated"]]}

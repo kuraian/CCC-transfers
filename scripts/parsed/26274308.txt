@@ -1,0 +1,3 @@
+{"away": ["S ASIAN 1A - Introduction to the Civilization of Early India (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["S ASIAN 1B - Introduction to the Civilization of Medieval and Modern India (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 10A - Introduction to the Civilization of Southeast Asia (Mainland Southeast Asia) (4.00)"], "home": [["No Course Articulated"]]}

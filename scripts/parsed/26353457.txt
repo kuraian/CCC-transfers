@@ -1,0 +1,2 @@
+{"away": ["SPAN 1 - First-Year Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPAN 2 - First-Year Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}

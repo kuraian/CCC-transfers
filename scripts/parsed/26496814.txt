@@ -1,0 +1,48 @@
+{"away": ["CGS 001 - Introduction to Cognitive Science (4.00) Same-As: PHI 010"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 020 - Discrete Mathematics For Computer Science (4.00)"], "home": [["MATH 22 - Discrete Mathematics (5.00)"], ["MATH 22H - Discrete Mathematics - HONORS (5.00)"]]}
+{"away": ["ECS 032A - Introduction to Programming (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 032B - Introduction to Data Structures (4.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": ["ECS 034 - Software Development in UNIX & C++ (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["ECS 036A - Programming & Problem Solving (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"], ["CIS 26B - Advanced C Programming (4.50)"], ["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 35A - Java Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)"]]}
+{"away": ["ECS 036B - Software Development & Object-Oriented Programming in C++ (4.00)"], "home": [["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 29 - Advanced C++ Programming (4.50)"], ["CIS 35A - Java Programming (4.50)"], ["CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["ECS 036C - Data Structures, Algorithms, & Programming (4.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": [""], "home": [["LING 1 - Introduction to Linguistics (4.00)"]]}
+{"away": ["LIN 001Y - Introduction to Linguistics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017C - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 022A - Linear Algebra (3.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MAT 022AL - Linear Algebra Computer Laboratory (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 027A - Linear Algebra with Applications to Biology (4.00) Same-As: BIS 027A"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 012 - Introduction to Symbolic Logic (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PHI 013G - Minds, Brains, & Computers with Discussion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PSC 001Y - General Psychology (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["PSC 041 - Research Methods in Psychology (4.00)"], "home": [["PSYC 2 - Research Methods in Psychology (6.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["CGS 001 - Introduction to Cognitive Science (4.00) Same-As: PHI 010"], "home": [["No Course Articulated"]]}
+{"away": ["LIN 001 - Introduction to Linguistics (4.00)"], "home": [["LING 1 - Introduction to Linguistics (4.00)"]]}
+{"away": ["LIN 001Y - Introduction to Linguistics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017C - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHI 013G - Minds, Brains, & Computers with Discussion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007C - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 009A - Classical Physics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHY 009B - Classical Physics (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHY 009C - Classical Physics (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PSC 001Y - General Psychology (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["PSC 041 - Research Methods in Psychology (4.00)"], "home": [["PSYC 2 - Research Methods in Psychology (6.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}

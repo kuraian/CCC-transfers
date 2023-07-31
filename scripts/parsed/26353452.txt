@@ -1,0 +1,14 @@
+{"away": ["LING 50 - Introduction to Linguistics (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["CHIN 1 - First-Year Chinese (5.00)"], "home": [["MAND 1 - Elementary Mandarin (First Quarter) (5.00)", "MAND 2 - Elementary Mandarin (Second Quarter) (5.00)", "MAND 3 - Elementary Mandarin (Third Quarter) (5.00)"]]}
+{"away": ["FREN 1 - First-Year French (5.00)"], "home": [["FREN 1 - Elementary French (First Quarter) (5.00)", "FREN 2 - Elementary French (Second Quarter) (5.00)", "FREN 3 - Elementary French (Third Quarter) (5.00)"]]}
+{"away": ["FREN 2 - First-Year French (5.00)"], "home": [["FREN 1 - Elementary French (First Quarter) (5.00)", "FREN 2 - Elementary French (Second Quarter) (5.00)", "FREN 3 - Elementary French (Third Quarter) (5.00)"]]}
+{"away": ["FREN 3 - First-Year French (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GERM 1 - First-Year German (5.00)"], "home": [["GERM 1 - Elementary German (First Quarter) (5.00)", "GERM 2 - Elementary German (Second Quarter) (5.00)", "GERM 3 - Elementary German (Third Quarter) (5.00)"]]}
+{"away": ["GERM 2 - First-Year German (5.00)"], "home": [["GERM 1 - Elementary German (First Quarter) (5.00)", "GERM 2 - Elementary German (Second Quarter) (5.00)", "GERM 3 - Elementary German (Third Quarter) (5.00)"]]}
+{"away": ["ITAL 1 - First-Year Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)", "ITAL 2 - Elementary Italian (Second Quarter) (5.00)", "ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["ITAL 2 - First-Year Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)", "ITAL 2 - Elementary Italian (Second Quarter) (5.00)", "ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["JAPN 1 - First-Year Japanese (5.00)"], "home": [["JAPN 1 - Elementary Japanese (First Quarter) (5.00)", "JAPN 2 - Elementary Japanese (Second Quarter) (5.00)", "JAPN 3 - Elementary Japanese (Third Quarter) (5.00)"]]}
+{"away": ["PORT 1 - First-Year Portuguese (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORT 2 - First-Year Portuguese (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 1 - First-Year Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPAN 2 - First-Year Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}

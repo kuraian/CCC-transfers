@@ -1,0 +1,21 @@
+{"away": ["Complete six courses including the following three"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 40 - Microeconomics for Public Affairs (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 60 - Using Data to Learn about Society: An Introduction to Empirical Research and Statistics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 80 - How Environments Shape Human Development (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 10 - Social Problems and Social Change (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 20 - Power, Politics, and Policy Change (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 30 - Comparative Analysis of Wealth, Policy and Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 50 - Foundations and Debates in Public Thought (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Listed below are the lower division preparation courses for the major."], "home": [["To be competitive for admission, it is strongly recommended that students complete four (4) major preparation courses including Microeconomics and Introduction to Statistical Reasoning by the end of"]]}
+{"away": ["the fall prior to transfer."], "home": [["Students must take all major prep courses for a letter grade and receive a B grade or better in these courses to be competitive. Additional major prep should be completed by the end of the spring before to transfer. While AP Exams maybe be beneficial for transfer credit, they will NOT be acceptable to satisfy major preparation for students applying for fall 2020 and later. To be considered for admission, applicants to the Public Affairs pre-major must have a minimum cumulative 3.2 GPA in all transferable coursework at the end of the fall. Students must attain junior level standing (at least 60 semester/90 quarter transferable units) by the end of spring prior to transfer. You must be admitted directly as a Public Affairs premajor. You will not be able to change into this major after admission to"]]}
+{"away": ["UCLA."], "home": [["California Community College students are strongly encouraged to complete IGETC; all other transfer students are encouraged to make progress toward completion of the Luskin School's general education requirements. For more information regarding this major and UCLA's"]]}
+{"away": ["transfer selection process, visit https://luskin.ucla.edu/undergraduate-program"], "home": [["and https:// admission.ucla.edu. PLEASE NOTE:  the community college courses listed below have been approved to satisfy preparation for this major at UCLA, but they"]]}
+{"away": ["may not be exact equivalents of the UCLA courses listed."], "home": [["For transfer applicants, the following courses and substitutions can be used as major prep admission . All additional major prep with the exception of PA 10 and PA 70 should be completed by the end of the spring term prior to transfer."]]}
+{"away": ["PA 10"], "home": [[": Social Problems and Social Change>no equivalency, students will take this at UCLA"]]}
+{"away": ["PA 20:"], "home": [["Power, Politics, and Policy Change in U.S> Students should look for the equivalency of UCLA's POLSCI 40 ( Introduction to American"]]}
+{"away": ["Politics) PA 30"], "home": [[": Comparative Analysis of Wealth, Policy, and Power> Students should look for the equivalent of  UCLA's POLSCI 50. (Introduction to"]]}
+{"away": ["Comparative Politics) PA 40"], "home": [[": Microeconomics for Public Affairs> Students should look for the equivalent of UCLA's Econ 1 or Econ 11 (Microeconomics)"]]}
+{"away": ["PA 50"], "home": [[": Foundations and Debates in Public Thought>Students should look for the equivalent of UCLA\u2019s POLISCI 10 (Introduction to Political"]]}
+{"away": ["Theory) PA 60:"], "home": [["Using Data to Learn about Society: An Introduction to Empirical Research and Statistics> Students should look for the equivalent of"]]}
+{"away": ["Statistics 10 (Introduction to Statistical Reasoning) PA 70:"], "home": [["Information, Evidence, and Persuasion> no equivalency, students will take this at UCLA"]]}
+{"away": ["PA 80"], "home": [[": How Social Environments Shape Human Development. Students should look for a course focused on lifespan human development"]]}

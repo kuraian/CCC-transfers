@@ -1,0 +1,21 @@
+{"away": ["AHS 15 - Arts of Asia (4.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"]]}
+{"away": ["AST 22 - Introduction to Japanese Film (4.00) Same-As: MCS 22, JPN 22"], "home": [["No Course Articulated"]]}
+{"away": ["AST 23 - Modern Japan and Personal Narrative (4.00) Same-As: CPLT 23, JPN 23"], "home": [["No Course Articulated"]]}
+{"away": ["AST 30 - Intro to Chinese Civilization (5.00) Same-As: CHN 30"], "home": [["No Course Articulated"]]}
+{"away": ["AST 34 - Introduction to Classical Japanese Literature (4.00) Same-As: JPN 34"], "home": [["No Course Articulated"]]}
+{"away": ["AST 45E - Premodern China and Japan (4.00) Same-As: HIST 45E"], "home": [["HIST 19A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: ASAM 42A"]]}
+{"away": ["AST 45F - Contemporary China (4.00) Same-As: HIST 45F"], "home": [["HIST 19B - History of Asian Civilization: China and Japan (19th - 21st Centuries) (4.00) Same-As: ASAM 42B"]]}
+{"away": ["AST 45G - India in Western Imagination (4.00) Same-As: HIST 45G"], "home": [["No Course Articulated"]]}
+{"away": ["AST 46 - Responses to Political Repression in Modern Chinese Literature and Film (4.00) Same-As: CHN 46"], "home": [["No Course Articulated"]]}
+{"away": ["AST 47 - Intro to Korean Film (4.00) Same-As: MCS 47, KOR 47"], "home": [["ASAM 41 - Introduction to Korean Popular Culture (4.00) Same-As: HUMI 13"]]}
+{"away": ["AST 56 - Cultures of the Japanese Empire (4.00) Same-As: CPLT 56, JPN 56"], "home": [["No Course Articulated"]]}
+{"away": ["AST 62 - Intro to Southeast Asian Literature (4.00) Same-As: CPLT 62, SEAS 62"], "home": [["No Course Articulated"]]}
+{"away": ["AST 64 - Introduction to Vietnamese and Diasporic Film Culture (4.00) Same-As: MCS 49, VNM 64, SEAS 64"], "home": [["No Course Articulated"]]}
+{"away": ["AST 63 - Reading Southeast Asian Stories (4.00) Same-As: CPLT 63, SEAS 63"], "home": [["No Course Articulated"]]}
+{"away": ["CPLT 29 - The Arts: Approach, Comparison, and Culture (4.00)"], "home": [["HUMI 15 - Discussion on the Arts (4.00)"], ["HUMI 16 - Arts, Ideas and Values (4.00)"]]}
+{"away": ["CHN 40 - Masterworks of Chinese Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETST 5 - Intro to Asian American Studies in Comparative Perspective (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["HIST 30 - Themes and Personalities in History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 44 - Gods, Ghosts, and Grandparents (4.00) Same-As: RLST 44"], "home": [["No Course Articulated"]]}
+{"away": ["JPN 35 - Intor To Japanese Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOR 42 - Korean Culture and Society (4.00)"], "home": [["ASAM 41 - Introduction to Korean Popular Culture (4.00) Same-As: HUMI 13"]]}

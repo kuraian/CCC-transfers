@@ -1,0 +1,33 @@
+{"away": ["AAS 010 - African-American Culture & Society (4.00)"], "home": [["AFAM 10 - An Introduction to African American Studies (4.00)"]]}
+{"away": ["AAS 012 - Introduction to African Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["AAS 017 - Women in African Societies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 018 - Introduction to Caribbean Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 050 - Black Popular Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 051 - History of Afro American Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 052 - African Traditional Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 080 - Introduction to Black Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 002 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["ASA 001 - Historical Experience of Asian Americans (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["ASA 002 - Contemporary Issues of Asian Americans (4.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["AMS 010 - Introduction to American Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 010 - Introduction to Chicana/o Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"]]}
+{"away": ["GSW 050 - Introduction to Critical Gender Studies (4.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["NAS 001 - Introduction to Native American Studies (4.00)"], "home": [["NAIS 12 - Ethnic Studies and the Historical Experiences of Native Americans (4.00)"]]}
+{"away": ["NAS 010 - Native American Experience (4.00)"], "home": [["NAIS 11 - Native American Contemporary Society (4.00)"]]}
+{"away": ["HIS 015A - Africa to 1900 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 015B - Africa Today (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 017A - History of the United States (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}
+{"away": ["HIS 017B - History of the United States (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)", "HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"]]}
+{"away": ["AAS 016 - Verbal & Performance Arts in Africa (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 051 - History of Afro American Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 041A - Beginning Jazz Dance (2.00)"], "home": [["DANC 37A - Theory and Technique of Jazz Dance I (1.00)", "DANC 37B - Theory and Technique of Jazz Dance II (1.00)"]]}
+{"away": ["DRA 041B - Intermediate Jazz Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 044A - Beginning Hip Hop Dance (2.00)"], "home": [["DANC 23L - Theory and Technique of Hip-Hop I (Popular American Dance) (1.00)"]]}
+{"away": ["DRA 044B - Intermediate Hip Hop Dance (2.00)"], "home": [["DANC 23M - Theory and Technique of Hip-Hop II (Popular American Dance II) (1.00)"]]}

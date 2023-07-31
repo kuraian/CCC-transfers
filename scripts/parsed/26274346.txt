@@ -1,0 +1,8 @@
+{"away": ["CHEM 1A - General Chemistry (3.00)", "CHEM 1AL - General Chemistry Laboratory (2.00)"], "home": [["Articulates as a Series Only"]]}
+{"away": ["CHEM 1A - General Chemistry (3.00)", "CHEM 1AL - General Chemistry Laboratory (2.00)", "CHEM 1B - General Chemistry (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["PHYSICS 7A - Physics for Scientists and Engineers (4.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYSICS 7B - Physics for Scientists and Engineers (4.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)", "PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYSICS 7A - Physics for Scientists and Engineers (4.00)", "PHYSICS 7B - Physics for Scientists and Engineers (4.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["PHYSICS 7A - Physics for Scientists and Engineers (4.00)", "PHYSICS 7B - Physics for Scientists and Engineers (4.00)", "PHYSICS 7C - Physics for Scientists and Engineers (4.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}

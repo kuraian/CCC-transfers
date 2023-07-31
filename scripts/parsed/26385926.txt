@@ -1,0 +1,6 @@
+{"away": ["GSS 20 - Introduction to Global South Studies (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["GSS 21 - Literatures of the Global South - African literature (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["GSS 22 - LatinAm Carib History Culture (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["GSS 23 - China EastAsia History Culture (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["GSS 25 - South Asia History & Culture (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["GSS 26 - South Asia History & Culture (4.00)"], "home": [["", "No Course Articulated"]]}

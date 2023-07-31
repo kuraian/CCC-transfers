@@ -1,0 +1,2 @@
+{"away": ["ETH STD 11AC - Introduction to Ethnic Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NATAMST 20A - Introduction to Native American Studies (4.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,5 @@
+{"away": ["FRE 001 - Elementary French (5.00)"], "home": [["FREN 1 - Elementary French (First Quarter) (5.00)"]]}
+{"away": ["FRE 002 - Elementary French (5.00)"], "home": [["FREN 2 - Elementary French (Second Quarter) (5.00)"]]}
+{"away": ["FRE 003 - Elementary French (5.00)"], "home": [["FREN 3 - Elementary French (Third Quarter) (5.00)"]]}
+{"away": ["FRE 021 - Intermediate French (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FRE 022 - Intermediate French (5.00)"], "home": [["No Course Articulated"]]}

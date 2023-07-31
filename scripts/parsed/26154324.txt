@@ -1,0 +1,4 @@
+{"away": ["Russian 6 or 20 or equivalent"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 25 - Great Russian Novel (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 90A - Introduction to Russian Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 90B - Russian Civilization in 20th Century (5.00)"], "home": [["No Course Articulated"]]}

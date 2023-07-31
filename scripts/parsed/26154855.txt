@@ -1,0 +1,20 @@
+{"away": ["The Equivalent of Intermediate level (6, 6A, 10 or equivalent ) in an Asian language, i.e. Chinese, Japanese, Korean, Hindi-Urdu, Filipino, Indonesian and Vietnamese or placement exam."], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN 30 - Languages and Cultures of Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN M60-Introduction To Buddhism (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN M61 - Introduction to Zen Buddhism (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 30 - Chinese Language, Society, and Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 40 - Popular Culture in Modern Chinese Societies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 50 - Chinese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN M60 - Introduction to Chinese Religions (5.00) Same-As: RELIGN M60B"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 70 - Introduction to Traditional Chinese Literature (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 80 - Chinese Cinema: Pictures, Prisms, Products, Projections (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 50 - Japanese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 70 - Images of Japan: Literature and Film (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 75 - Anime (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 40 - Korean Wave: Globalization of South Korean Popular Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 50 - History of Korean Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA M60 - Introduction to Korean Religions (5.00) Same-As: RELIGN M60C"], "home": [["No Course Articulated"]]}
+{"away": ["S ASIAN M60 - Religion in Classical India: Introduction (5.00) Same-As: RELIGN M60D"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN M60 - Religious Traditions in Southeast Asia (4.00) Same-As: RELIGN M60E"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 70 - Modern Southeast Asian Literature (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIETMSE 40 - War in Vietnamese Popular Culture (5.00)"], "home": [["No Course Articulated PLEASE NOTE: the community college courses listed below have been approved to satisfy the preparation for this major at UCLA, but"]]}

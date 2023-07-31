@@ -1,0 +1,17 @@
+{"away": ["CRD 001 - The Community (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["ECS 015 - Introduction to Computers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 021 - Application of Computers in Technology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 032 - Gateway to Statistical Data Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 003 - Major Works of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 004 - Major Works of the Contemporary World (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}
+{"away": ["CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["ENL 003 - Introduction to Literature (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": ["NAS 005 - Introduction to Native American Literature (4.00)"], "home": [["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": ["UWP 001 - Introduction to Academic Literacies (4.00)"], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1AS - Intensive Composition and Reading Stretch: First Quarter (5.00)", "EWRT 1AT - Intensive Composition and Reading Stretch: Second Quarter (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}

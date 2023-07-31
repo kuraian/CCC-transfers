@@ -1,0 +1,49 @@
+{"away": ["ENV S 1 - Introduction to Environmental Studies (4.00)"], "home": [["E S 1 - Introduction to Environmental Studies (4.00)"], ["E S 2 - Introduction to Sustainability (4.00)"]]}
+{"away": ["ENV S 2 - Introduction to Environmental Science (4.00)"], "home": [["ESCI 1 - Environmental Science (4.00)"], ["ESCI 19 - Environmental Biology (5.00)"]]}
+{"away": ["ENV S 3 - Introduction to the Social and Cultural Environment (4.00)"], "home": [["No Course Articulated All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["www.es.ucsb.edu"]]}
+{"away": ["PREPARATION FOR THE MAJOR : Environmental Studies 1 and 2 and 3 Environmental Studies 40 Environmental Studies 60, or MCDB 1A-1LL plus EEMB 2 One course from: Economics 1, 2, 9; Environmental Studies 30 One course from: Earth Science 2, 4, 20; Geography 3, 4"], "home": [["One course from: Black Studies 4; Feminist Studies 50; Linguistics 50; Philosophy 4; Political Science 1 One course from: Anthropology 2; Geography 5; Global Studies 1, 2; Psychology 1; Religious Studies 1, 14; Sociology 1"]]}
+{"away": ["One course from: History 5, 7; Political Science 6, 7, 12 One course from: PSTAT 5A, 5LS; Economics 5 Mathematics 3A or 34A Environmental Studies 25 or Mathematics 3B or 34B Chemistry 1A-1AL-1B or Environmental Studies 15A-15B-15BL ENV S 40 - Critical Thinking and Evidence-Based Reasoning for the Environment (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENV S 60 - Applied Ecology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCDB 1A - Introductory Biology I (4.00)", "MCDB 1LL - Introductory Biology Laboratory I (1.50)", "EEMB 2 - Introductory Biology II - Ecology and Evolution (3.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["ECON 1 - Principles of Economics-Micro (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics-Macro (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 9 - Introduction to Economics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENV S 30 - Introduction to Environmental Economics (4.00)"], "home": [["ECON 3 - Environmental Economics (4.00)"], ["ECON 3H - Environmental Economics - HONORS (4.00)"]]}
+{"away": ["EARTH 2 - Principles of Physical Geology (4.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["EARTH 4 - Introduction to Oceanography (4.00)"], "home": [["GEOL 20 - General Oceanography (4.00)"]]}
+{"away": ["EARTH 20 - Geological Catastrophes (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 3 - Oceans and Atmosphere (4.00)"], "home": [["MET 10 - Weather and Climate Processes (5.00)"]]}
+{"away": ["GEOG 4 - Land, Water and Life (4.00)"], "home": [["GEO 1 - Physical Geography (4.00)"]]}
+{"away": ["BL ST 4 - Critical Introduction to Race and Racism (4.00)"], "home": [["CETH 11 - Race and Ethnicity: Belonging and Exclusion in the U.S. (4.00)"]]}
+{"away": ["FEMST 50 - Global Feminisms and Social Justice (4.00)"], "home": [["WMST 24 - Women and Gender in Global Perspectives (4.00)"]]}
+{"away": ["LING 50 - Language and Power (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHIL 4 - Introduction to Ethics (4.00)"], "home": [["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["POL S 1 - Introduction to Political Philosophy (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["ANTH 2 - Introductory Cultural Anthropology (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["GEOG 5 - People, Place and Environment (4.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["GLOBL 1 - Global History, Culture and Ideology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["INTL 5 - Contemporary Global Issues (4.00)"]]}
+{"away": ["PSY 1 - Introduction to Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["RG ST 1 - Introduction to the Study of Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 14 - Introduction to Native American Religious Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["HIST 5 - The History of the Present (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 7 - Great Issues in the History of Public Policy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL S 6 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL S 7 - Introduction to International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL S 12 - American Government and Politics (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["PSTAT 5A - Understanding Data (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["MATH 23 - Engineering Statistics (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["PSTAT 5LS - Statistics for Life Sciences (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 5 - Statistics for Economics (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["MATH 3A - Calculus with Applications, First Course (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 34A - Calculus for Social and Life Sciences (4.00)"], "home": [["MATH 12 - Introductory Calculus for Business and Social Science (5.00)"]]}
+{"away": ["ENV S 25 - Quantitative Thinking in Environmental Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3B - Calculus with Applications, Second Course (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 34B - Calculus for Social and Life Sciences (4.00)"], "home": [["MATH 12 - Introductory Calculus for Business and Social Science (5.00)"]]}
+{"away": ["CHEM 1A - General Chemistry (3.00)", "CHEM 1AL - General Chemistry Laboratory (2.00)", "CHEM 1B - General Chemistry (3.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["ENV S 15A - Environmental Chemistry 1 (4.00)", "ENV S 15B - Environmental Chemistry 2 (4.00)", "ENV S 15BL - Environmental Chemistry Lab (1.00)"], "home": [["No Course Articulated"]]}

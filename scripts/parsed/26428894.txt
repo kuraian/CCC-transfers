@@ -1,0 +1,26 @@
+{"away": [], "home": [["All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams. The Department of Theater and Dance offers two theater degrees at the undergraduate level: a Bachelor of Fine Arts in Theater-Acting"]]}
+{"away": ["Emphasis, and a Bachelor of Arts in Theater"], "home": [[". Both programs require completion of core courses in dramatic literature. The B.F.A. program prepares students for professional theater, professional conservatory programs, and Master of Fine Arts programs. Students must audition for admittance"]]}
+{"away": ["to the highly selective B.F.A. program"], "home": [["and are continually reevaluated on their demonstrated ability, commitment, and potential talent. The B.A. in Theater is a more broadly based degree, with a liberal arts orientation that allows students greater curricular choices . B.A. students will choose a concentration in Design, Directing, Playwriting, Theater and Community, or Theater and Performance Studies. Consult the Department of Theater and Dance website concerning additional requirements for the concentrations: www.theaterdance.ucsb.edu/academics/undergrad/degrees/theater-concentrations The Department of Theater and Dance evaluates transfer work to determine completion of lower division requirements for each major."]]}
+{"away": ["For more information, please see the department website:"], "home": [["www.theaterdance.ucsb.edu"]]}
+{"away": ["PREPARATION FOR THE MAJOR : Theater 1 Two courses from: Theater 2A-B-C-D Theater 5 or 19 Theater 7, 9, 22*, 23*, 25*, or 40 One unit Theater 29D and two additional units from 29A-B-C Theater 49** Theater 95 THTR 1 - Play Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 2A - Performance in Global Contexts: Africa and the Caribbean (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 2B - Performance in Global Contexts: Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 2C - Performance in Global Contexts: Europe (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 2D - Performance in Global Contexts: Latin America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 5 - Introduction to Acting (3.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"]]}
+{"away": ["THTR 19 - Design Fundamentals for Dance and Theatre (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 9 - Introduction to Dramatic Writing (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 22 - Scenic Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 23 - Stage Lighting Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 25 - Costume Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 40 - Theater Games (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29D - Run Crew Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29A - Scenic Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29B - Lighting Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29C - Costume Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 49 - Theater Workshop (1.00 - 6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 95 - Introduction to Stage Management (2.00)"], "home": [["No Course Articulated"]]}

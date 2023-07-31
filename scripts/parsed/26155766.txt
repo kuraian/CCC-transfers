@@ -1,0 +1,13 @@
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31AL - Differential and Integral Calculus Laboratory (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 32A - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)"]]}
+{"away": ["MATH 32B - Calculus of Several Variables (4.00)"], "home": [["MATH 1D - Calculus (5.00)"]]}
+{"away": ["MATH 33A - Linear Algebra and Applications (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"]]}
+{"away": ["MATH 33B - Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)"]]}
+{"away": ["MATH 42 - Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything (4.00)"], "home": [["No Course Articulated Additional requirements for the Mathematics major can"]]}
+{"away": ["be found at: https://math.ucla.edu."], "home": [["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 22A - Beginning Programming Methodologies in C++ (4.50)", "CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"]]}
+{"away": ["STATS 10 - Introduction to Statistical Reasoning (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["STATS 12 - Introduction to Statistical Methods for Geography and Environmental Studies (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["STATS 13 - Introduction to Statistical Methods for Life and Health Sciences (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["STATS 20 - Introduction to Statistical Programming with R. (4.00)"], "home": [["CIS 44H - R Programming (4.50)"]]}

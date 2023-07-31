@@ -1,0 +1,5 @@
+{"away": ["RUS 001 - Elementary Russian (5.00)"], "home": [["RUSS 1 - Elementary Russian (First Quarter) (5.00)"]]}
+{"away": ["RUS 002 - Elementary Russian (5.00)"], "home": [["RUSS 2 - Elementary Russian (Second Quarter) (5.00)"]]}
+{"away": ["RUS 003 - Elementary Russian (5.00)"], "home": [["RUSS 3 - Elementary Russian (Third Quarter) (5.00)"]]}
+{"away": ["RUS 004 - Intermediate Russian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUS 005 - Intermediate Russian (4.00)"], "home": [["No Course Articulated"]]}

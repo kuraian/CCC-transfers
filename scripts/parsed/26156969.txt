@@ -1,0 +1,13 @@
+{"away": ["Completion of an Intermediate level (6) Southeast Asian Language in Filipino, Indonesian, Thai or Vietnamese."], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 50 - Southeast Asian Societies and Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN 30 - Languages and Cultures of Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN M60W - Introduction to Buddhism (5.00) Same-As: RELIGN M60A, RELIGN M60W"], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN M61 - Introduction to Zen Buddhism (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["S ASIAN M60 - Religion in Classical India: Introduction (5.00) Same-As: RELIGN M60D"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN M60 - Religious Traditions in Southeast Asia (4.00) Same-As: RELIGN M60E"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 70 - Modern Southeast Asian Literature (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIETMSE 40 - War in Vietnamese Popular Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Listed below are the lower division preparation courses for this major"], "home": [["To be considered for this major, you must complete the following"]]}
+{"away": ["courses by the end of spring term before transfer:"], "home": [["at minimum one year of a college level Asian language  OR  one year of high school in which the primary language of instruction was an Asian language.  Completion of two years of  college foreign language is strongly"]]}
+{"away": ["preferred/recommended. All courses must be taken for a letter grade."], "home": [["For more information regarding this major and UCLA's transfer selection process, visit"]]}
+{"away": ["www.alc.ucla.edu and https:// ad mission.ucla.edu ."], "home": [["PLEASE NOTE: the community college courses listed below have been approved to satisfy the preparation for this major at UCLA, but"]]}

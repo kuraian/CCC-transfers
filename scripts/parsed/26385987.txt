@@ -1,0 +1,30 @@
+{"away": ["HDS 1 - Introduction to Human Developmental Sciences (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["HDS 60 - Introduction to Statistical Analysis (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["ANTH 2 - Human Origins (4.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"], ["ANTH 1H - Physical Anthropology - HONORS (4.00)"]]}
+{"away": ["BILD 1 - The Cell (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 2 - Multicellular Life (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 3 - Organismic and Evolutionary Biology (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 12 - Neurobiology and Behavior (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BILD 20 - Human Genetics in Modern Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BILD 26 - Human Physiology (4.00)"], "home": [["BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)", "BIOL 40C - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["COGS 17 - Neurobiology of Cognition (4.00)"], "home": [["PSYC 24 - Introduction to Psychobiology (4.00)"]]}
+{"away": ["MATH 10A - Calculus I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10B - Calculus II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10C - Calculus III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20C - Calculus and Analytic Geometry for Science and Engineering (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)", "MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["CSE 8A - Introduction to Programming and Computational Problem Solving I (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)"], ["CIS 40 - Introduction to Programming in Python (4.50)"]]}
+{"away": ["CSE 11 - Introduction to Programming and Computational Problem Solving - Accelerated Pace (4.00)"], "home": [["CIS 35A - Java Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["ANTH 1 - Introduction to Culture (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ANTH 3 - World Prehistory (4.00)"], "home": [["ANTH 4 - World Prehistory (4.00)"]]}
+{"away": ["COMM 10 - Introduction to Communication (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["COGS 1 - Introduction to Cognitive Science (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["HILD 7A - Race and Ethnicity in the United States (4.00)"], "home": [["AFAM 12A - African American History to 1865 (4.00) Same-As: HIST 18A"], ["AFAM 12B - African American History Since 1865 (4.00) Same-As: HIST 18B"]]}
+{"away": ["HILD 7B - Race and Ethnicity in the United States (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"], ["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["HILD 7C - Race and Ethnicity in the United States (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYC 1 - Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PSYC 2 - General Psychology: Biological Foundations (4.00)"], "home": [["PSYC 24 - Introduction to Psychobiology (4.00)"]]}
+{"away": ["PSYC 3 - General Psychology: Cognitive Foundations (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCI 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCI 20 - Social Change in the Modern World (4.00)"], "home": [["SOC 5 - Sociology of Globalization and Social Change (4.00) Same-As: INTL 8"]]}

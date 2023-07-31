@@ -1,0 +1,1 @@
+{"away": ["MUS 30A - Harmony (4.00)", "MUS 30B - Harmony (4.00)", "MUS 30C - Harmony (4.00)"], "home": [["No Course Articulated"]]}

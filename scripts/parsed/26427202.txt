@@ -1,0 +1,28 @@
+{"away": [], "home": [["Unlike the BS majors, all AB majors in the College of Biological Sciences have a foreign language requirement. Transfer students pursuing this major"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00) who do not certify IGETC must complete a college graduation requirement in a foreign language. See the College of Biological Sciences and check with"]]}
+{"away": ["CBS Dean\u2019s Office advisors located in the Biology Academic Success Center"], "home": [["for more information."]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 004A - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 004B - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 004C - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)", "CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 118A - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118B - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118C - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12C - Organic Chemistry (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017C - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHY 001A - Principles of Physics (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 001B - Principles of Physics (3.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007C - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}

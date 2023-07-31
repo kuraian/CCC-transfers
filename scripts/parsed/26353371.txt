@@ -1,0 +1,11 @@
+{"away": ["POLI 1 - Politics: Power, Principle, Process, and Policy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 3 - Keywords: Concepts in Politics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 4 - Citizenship and Action (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 17 - U.S. and the World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 20 - American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POLI 21 - Governing the Golden State (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 45 - Music and Politics in Contemporary Society (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 46 - Africa in Global Perspective (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 60 - Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POLI 61 - Politics of Social Policy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 65 - Introduction to International Relations (5.00)"], "home": [["No Course Articulated"]]}

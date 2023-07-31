@@ -1,0 +1,13 @@
+{"away": ["EPS SCI 1 - Introduction to Earth Science (5.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["EPS SCI 51 - Mineralogy: Earth and Planetary Materials (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EPS SCI 61 - Geologic Maps (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EPS SCI M71 - Introduction to Computing for Geoscientists (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)", "CHEM 20B - Chemical Energetics and Change (4.00)", "CHEM 20L - General Chemistry Laboratory (3.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["LIFESCI 7B - Genetics, Evolution, and Ecology (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["MATH 3A - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3B - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3C - Ordinary Differential Equations with Linear Algebra for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)", "MATH 31B - Integration and Infinite Series (4.00)", "MATH 32A - Calculus of Several Variables (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"]]}
+{"away": ["PHYSICS 5A - Physics for Life Sciences Majors: Mechanics, and Energy (5.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 5B - Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics (5.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 1A - Physics for Scientists and Engineers: Mechanics (5.00)", "PHYSICS 1B - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields (5.00)", "PHYSICS 4AL - Physics Laboratory for Scientists and Engineers: Mechanics (2.00)", "PHYSICS 4BL - Physics Laboratory for Scientists and Engineers: Electricity and Magnetism (2.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)", "PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}

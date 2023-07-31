@@ -1,0 +1,29 @@
+{"away": ["ENGLISH R1A - Reading and Composition (4.00)"], "home": [["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"]]}
+{"away": ["ENGLISH R1B - Reading and Composition (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}
+{"away": ["MATH 16A - Analytic Geometry and Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 16B - Analytic Geometry and Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["STAT 20 - Introduction to Probability and Statistics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STAT 21 - Introductory Probability and Statistics for Business (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 1A - General Chemistry (3.00)", "CHEM 1AL - General Chemistry Laboratory (2.00)"], "home": [["Articulates as a Series Only"]]}
+{"away": ["CHEM 1A - General Chemistry (3.00)", "CHEM 1AL - General Chemistry Laboratory (2.00)", "CHEM 1B - General Chemistry (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 3A - Chemical Structure and Reactivity (3.00)", "CHEM 3AL - Organic Chemistry Laboratory (2.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)", "CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["CHEM 3A - Chemical Structure and Reactivity (3.00)", "CHEM 3AL - Organic Chemistry Laboratory (2.00)", "CHEM 3B - Chemical Structure and Reactivity (3.00)", "CHEM 3BL - Organic Chemistry Laboratory (2.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["EPS 50 - The Planet Earth (includes lab) (4.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["GEOG 40 - Introduction to Earth System Science (4.00)"], "home": [["GEO 1 - Physical Geography (4.00)"]]}
+{"away": [""], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIOLOGY 1A - General Biology Lecture (Cells, Genetics, Animal Form & Function) (3.00)", "BIOLOGY 1AL - General Biology Laboratory (2.00)", "BIOLOGY 1B - General Biology (Plant Form & Function, Ecology, Evolution) (4.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["ECON C3 - Introduction to Environmental Economics and Policy (4.00) Same-As: ENVECON C1"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"]]}
+{"away": ["ECON 1 - Introduction to Economics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)", "ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Introduction to Economics, Lecture Format (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM 2 - The Biosphere (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM 6 - Environmental Biology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM C10 - Environmental Issues (4.00) Same-As: LNS C30V"], "home": [["ESCI 19 - Environmental Biology (5.00)"]]}
+{"away": ["ESPM 15 - Introduction to Environmental Sciences (3.00)"], "home": [["ESCI 1 - Environmental Science (4.00)"]]}
+{"away": ["ESPM C46 - Climate Change and the Future of California (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM C11 - Americans and the Global Forest (4.00) Same-As: LNS C30U"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM C22AC - Fire: Past, Present and Future Interactions with the People and Ecosystems of California (4.00) Same-As: ANTHRO C12AC"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM 50AC - Introduction to Culture and Natural Resource Management (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM 52 - History of Native American Land, Colonialism, and Heritage Preservation (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM 60 - Environmental Policy, Administration, and Law (4.00)"], "home": [["E S 6 - Introduction to Environmental Law (4.00)"]]}

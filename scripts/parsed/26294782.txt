@@ -1,0 +1,18 @@
+{"away": ["DRAMA 10 - Introduction to Production Theory (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 15 - Performance Now (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 20A - Culture in Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 20B - Culture in Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 20C - Culture in Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 30A - Acting (4.00)", "DRAMA 30B - Acting (4.00)", "DRAMA 30C - Acting (4.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)", "THEA 20B - Theory and Technique of Acting (Modern Period) (4.00)", "THEA 20C - Theory and Technique of Acting (Classic Period) (4.00)"]]}
+{"away": ["DRAMA 40A - Development of Drama (4.00)", "DRAMA 40B - Development of Drama (4.00)", "DRAMA 40C - Development of Drama (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50A - Introduction to Costume Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50B - Introduction to Scenic Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50C - Introduction to Lighting Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50D - Introduction to Sound Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50E - Introduction to Stage Management (4.00)"], "home": [["No Course Articulated New students are not admitted directly into the Music Theatre, B.F.A. program. Students interested in the Music Theatre, B.F.A. must enter UCI as a declared Drama major first. Admission to the Music Theatre, B.F.A. requires an audition; transfer students may audition as early as their second"]]}
+{"away": ["quarter in residence at UCI."], "home": [["This major does not require completion of prerequisites for admission as a transfer student."]]}
+{"away": ["NOTE:"], "home": [["If not completed prior to transfer, Drama 10, and 1 course chosen from Drama 50A, 50B, 50C, 50D, 50E must be completed the first year in residence at UCI. It is recommended that Drama 40A, 40B, 40C be completed as soon as possible after transfer to UCI."]]}
+{"away": [". NOTE"], "home": [[": In fulfillment of the requirements below, a single course may be used only once."]]}
+{"away": ["For information regarding the AP and IB examination"], "home": [["credit policies refer to the UCI General Catalogue."]]}
+{"away": ["Two courses in Ballet Dance"], "home": [["No Course Articulated"]]}
+{"away": ["One course in Jazz Dance"], "home": [["No Course Articulated"]]}

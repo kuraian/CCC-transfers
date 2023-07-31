@@ -1,0 +1,9 @@
+{"away": ["SPAN 25 - Advanced Spanish Composition (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 27 - Advanced Spanish Composition for Heritage Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 42 - Iberian Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 44 - Latin American Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 25 - Advanced Portuguese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 26 - Language and Popular Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 27 - Writing Studies: Afro-Luso-Brazilian World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN M35 - Nature of Language (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 46 - Brazil and Portuguese-Speaking World (5.00)"], "home": [["No Course Articulated"]]}

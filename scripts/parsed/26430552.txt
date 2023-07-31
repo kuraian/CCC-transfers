@@ -1,0 +1,1 @@
+{"away": ["PHIL 7 - Intro to Critical Thinking (4.00)"], "home": [["PHIL 4 - Critical Thinking (4.00)"]]}

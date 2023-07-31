@@ -1,0 +1,28 @@
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021D - Vector Analysis (4.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 022A - Linear Algebra (3.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MAT 022B - Differential Equations (3.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["PHY 009A - Classical Physics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHY 009B - Classical Physics (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHY 009C - Classical Physics (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHY 009D - Modern Physics (4.00)"], "home": [["PHYS 4D - Physics for Scientists and Engineers: Modern Physics (6.00)"]]}
+{"away": ["PHY 009HA - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HB - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HC - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HD - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HE - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["PHY 040 - Introduction to Physics Computation (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 036A - Programming & Problem Solving (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"], ["CIS 26B - Advanced C Programming (4.50)"], ["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 35A - Java Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)"]]}
+{"away": ["", "ECS 036B - Software Development & Object-Oriented Programming in C++ (4.00)"], "home": [["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 29 - Advanced C++ Programming (4.50)"], ["CIS 35A - Java Programming (4.50)"], ["CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["ECS 036C - Data Structures, Algorithms, & Programming (4.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": ["ENG 017 - Circuits I (4.00)"], "home": [["ENGR 37 - Introduction to Circuit Analysis (5.00)"]]}
+{"away": ["PHY 040 - Introduction to Physics Computation (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 080 - Experimental Techniques (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 040 - Introduction to Physics Computation (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 040 - Introduction to Physics Computation (4.00)"], "home": [["No Course Articulated"]]}

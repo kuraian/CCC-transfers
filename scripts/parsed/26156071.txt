@@ -1,0 +1,27 @@
+{"away": ["RELIGN M4 - Introduction to History of Religions (5.00) Same-As: HIST M4"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN 11 - Religion in Los Angeles (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 10W - Jerusalem: Holy City (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["ASIAN M60W - Introduction to Buddhism (5.00) Same-As: RELIGN M60A, RELIGN M60W"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 1A - Introduction to Western Civilization: Ancient Civilizations, Prehistory to Circa A.D. 843 (5.00)"], "home": [["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00) HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIST 1B - Introduction to Western Civilization: Circa A.D. 843 to Circa 1715 (5.00)"], "home": [["HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"]]}
+{"away": ["HIST 1C - Introduction to Western Civilization: Circa 1715 to Present (5.00)"], "home": [["HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"]]}
+{"away": ["HIST 9A - Introduction to Asian Civilizations: History of India (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9C - Introduction to Asian Civilizations: History of Japan (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9D - Introduction to Asian Civilizations: History of Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9E - Introduction to Asian Civilizations: Southeast Asian Crossroads (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST M10A - History of Africa To 1800 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 10B - History of Africa, 1800 to Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 11A - History of China: To 1000 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 11B - History of China, circa 1000 to 2000 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 2 - Introduction to Philosophy of Religion (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 21 - Skepticism and Rationality (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M10 - Introduction to Judaism (5.00) Same-As: JEWISH M10"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M50 - Origins of Judaism, Christianity, and Islam (5.00) Same-As: M E STD M50B, AN N E A M50B"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M60A - Introduction to Buddhism (5.00) Same-As: RELIGN M60W, ASIAN M60W"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M60B - Introduction to Chinese Religions (5.00) Same-As: CHIN M60"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M60C - Introduction to Korean Religions (5.00) Same-As: KOREA M60"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M60D - Religion in Classical India: Introduction (5.00) Same-As: S ASIAN M60"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M60E - Religious Traditions in Southeast Asia (4.00) Same-As: SEASIAN M60"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M60W - Introduction to Buddhism (5.00) Same-As: RELIGN M60A, ASIAN M60W"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M61 - Introduction to Zen Buddhism (5.00)"], "home": [["No Course Articulated"]]}

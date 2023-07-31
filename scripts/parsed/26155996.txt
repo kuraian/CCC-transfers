@@ -1,0 +1,24 @@
+{"away": ["LBR & WS  10 - Introduction to Labor and Workplace Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AF AMER 1 - Introduction to Black Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL M5 - Social Organization of Black Communities (5.00) Same-As: AF AMER M5"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 10 - History of Asian Americans (5.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"], ["NAIS 31 - Ethnic Studies: Native Hawaiian and Pacific Islander Experiences (4.00)"]]}
+{"away": ["ASIA AM 20 - Contemporary Asian American Communities (5.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["ASIA AM 40 - Asian American Movement (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 50 - Asian American Women (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHICANO 10B - Introduction to Chicana/Chicano Studies: Social Structure and Contemporary Conditions (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GENDER 10 - Introduction to Gender Studies (5.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["GEOG 4 - Globalization: Regional Development and World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 2B - Social Knowledge and Social Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8B - Modern Latin America (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12A - Inequality: History of Mass Imprisonment (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12B - Inequality: History of Neoliberalism (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12C - Inequality: Global History of Anti-Colonial Thought and Struggle (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HNRS 82 - Community and Labor Development from Ground Up (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL SCI 60 - Ethics and Governance (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB PLC 10A - Introduction to Public Policy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB PLC 10B - California Policy Issues (4.00)"], "home": [["No Course Articulated . By critically analyzing the theory and practice of current workplace issues, students develop a deeper understanding of the relationships between their education and society at large and how they, as college graduates, can transform"]]}
+{"away": ["the nature of work."], "home": [["PLEASE NOTE: the community college courses listed below have been approved to satisfy the preparation for this major at UCLA, but"]]}
+{"away": ["they may not be exact equivalents of the UCLA courses.", "SPAN 44 - Latin American Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLUSTER M24A - Work, Labor, and Social Justice in U.S. (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLUSTER 24B - Work, Labor, and Social Justice (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLUSTER 24C - Work, Labor and Social Justice (6.00)"], "home": [["No Course Articulated"]]}

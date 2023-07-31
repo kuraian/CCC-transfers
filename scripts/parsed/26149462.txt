@@ -1,0 +1,6 @@
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["One Introductory Statistics Course"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 23 - Engineering Statistics (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["POL SCI 6 - Introduction to Data Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 10 - Introduction to Statistical Reasoning (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["STATS 13 - Introduction to Statistical Methods for Life and Health Sciences (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["SOCIOL 20 - Introduction to Sociological Research Methods (5.00)"], "home": [["SOC 14 - The Process of Social Research (4.00)"]]}

@@ -1,0 +1,15 @@
+{"away": ["ANT 004 - Introduction to Anthropological Linguistics (4.00)"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["LIN 001 - Introduction to Linguistics (4.00)"], "home": [["LING 1 - Introduction to Linguistics (4.00)"]]}
+{"away": [""], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["CMN 003 - Interpersonal Communication Competence (4.00)"], "home": [["COMM 16 - Interpersonal Communication (5.00)"], ["COMM 16H - Interpersonal Communication - HONORS (5.00)"]]}
+{"away": ["CMN 003V - Interpersonal Communication Competence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CMN 003Y - Interpersonal Communication Competence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CMN 005 - Global English & Communication (4.00) Same-As: LIN 005"], "home": [["No Course Articulated"]]}
+{"away": ["CMN 010V - Introduction to Communication (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CMN 010Y - Introduction to Communication (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 015 - Introduction to Computers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 012 - Introduction to Symbolic Logic (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 056 - Introduction to Social Statistics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}

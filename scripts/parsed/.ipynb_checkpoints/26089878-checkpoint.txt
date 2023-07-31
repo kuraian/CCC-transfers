@@ -1,0 +1,14 @@
+{"away": ["ENGCOMP 3 - English Composition, Rhetoric, and Language (5.00)"], "home": [["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"]]}
+{"away": ["One additional course in English composition"], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["PHIL 3 - Critical Thinking and Writing (5.00)"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)", "CHEM 20B - Chemical Energetics and Change (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["CHEM 30A - Organic Chemistry I: Structure and Reactivity (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["LIFESCI 7A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["LIFESCI 7C - Physiology and Human Biology (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"]]}
+{"away": ["PHYSCI 3 - Introduction to Human Physiology (5.00)"], "home": [["BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)", "BIOL 40C - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["PHYSCI 13 - Introduction to Human Anatomy (5.00)"], "home": [["BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)", "BIOL 40C - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["COMM  1 - Principles of Oral Communication (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"]]}
+{"away": ["COMM  10 - Introduction to Communication Studies (5.00)"], "home": [["Course(s) Denied: COMM 10;"]]}
+{"away": ["MATH 3A - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["PSYCH 10 - Introductory Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["MIMG 10 - Medical Microbiology for Nursing Students (4.00)"], "home": [["BIOL 26 - Introductory Microbiology (6.00)"]]}

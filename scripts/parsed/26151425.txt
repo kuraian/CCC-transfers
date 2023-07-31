@@ -1,0 +1,16 @@
+{"away": ["COM LIT 1A - World Literature: Antiquity to Middle Ages (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 1B - World Literature: Middle Ages to 17th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 1C - World Literature: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 1D - Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2AW - Survey of Literature: Antiquity to Middle Ages (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2BW - Survey of Literature: Middle Ages to 17th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2CW - Survey of Literature: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2DW - Survey of Literature: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4AW - Literature and Writing: Antiquity to Middle Ages (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4BW - Literature and Writing: Middle Ages to 17th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4CW - Literature and Writing: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 10A - Literatures in English to 1700 (5.00)"], "home": [["ELIT 46A - Major British Writers (Medieval and Renaissance) (4.00)"], ["ELIT 46AH - Major British Writers (Medieval and Renaissance) - HONORS (4.00)"], ["ELIT 46B - Major British Writers (Neo-Classical and Romantic) (4.00)"]]}
+{"away": ["ENGL 10B - Literatures in English, 1700 to 1850 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 10C - Literatures in English, 1850 to Present (5.00)"], "home": [["ELIT 46C - Major British Writers (Victorian and Modern) (4.00)"], ["ELIT 46CH - Major British Writers (Victorian and Modern) - HONORS (4.00)"]]}
+{"away": ["One Writing I course"], "home": [["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"]]}
+{"away": ["One Writing II Course:"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"], ["PHIL 3 - Critical Thinking and Writing (5.00)"], ["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}

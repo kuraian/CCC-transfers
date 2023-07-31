@@ -1,0 +1,9 @@
+{"away": ["ECS 017 - Data, Logic, & Computing (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 032A - Introduction to Programming (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 032B - Introduction to Data Structures (4.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 022A - Linear Algebra (3.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["STA 035A - Statistical Data Science I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 035B - Statistical Data Science II (4.00)"], "home": [["No Course Articulated"]]}

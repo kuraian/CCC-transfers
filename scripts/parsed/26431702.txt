@@ -1,0 +1,23 @@
+{"away": ["AHS 13 - Arts and Architecture of the Islamic World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 15 - Arts of Asia (4.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"]]}
+{"away": ["AHS 16 - Introduction to the Body in Western Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 17A - Western Art: Prehistory to Byzantine (4.00)"], "home": [["ARTS 2A - History of Art: Europe from Prehistory through Early Christianity (4.00)"]]}
+{"away": ["AHS 17B - Western Art: Early Medieval (4.00)"], "home": [["ARTS 2B - History of Art: Europe During the Middle Ages and the Renaissance (4.00)"]]}
+{"away": ["AHS 27 - Art of Pre-Columbian America (4.00) Same-As: ANTH 27, LNST 27"], "home": [["ARTS 2H - History of Art: Native Arts of Mesoamerica and the Andes (4.00) Same-As: INTL 21"]]}
+{"away": ["AHS 30 - Rome: The Ancient City (4.00) Same-As: CLA 17, HIST 27"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 13 - Arts and Architecture of the Islamic World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 15 - Arts of Asia (4.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"]]}
+{"away": ["AHS 16 - Introduction to the Body in Western Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 17B - Western Art: Early Medieval (4.00)"], "home": [["ARTS 2B - History of Art: Europe During the Middle Ages and the Renaissance (4.00)"]]}
+{"away": ["AHS 17C - Western Art: Baroque to Modern (4.00)"], "home": [["ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00)"]]}
+{"away": ["AHS 23 - Intro to American Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 28 - Art and Architecture of Latin America (4.00) Same-As: LNST 28"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 8 - MODERN WESTERN VISUAL CULTURE (4.00)"], "home": [["ARTS 2D - History of Art: Europe and the United States from Post- Impressionism to the Present (4.00)"], ["ARTS 3TE - Today's Art Scene (4.00)"]]}
+{"away": ["AHS 17C - Western Art: Baroque to Modern (4.00)"], "home": [["ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00)"]]}
+{"away": ["AHS 20 - Intro to Media Art (4.00) Same-As: MCS 23"], "home": [["F/TV 10 - Introduction to Electronic Media (4.00)"]]}
+{"away": ["AHS 21 - Intro to Architechture and Urbanism (4.00) Same-As: URST 21"], "home": [["ARTS 1B - Architecture Past and Present (4.00)"]]}
+{"away": ["AHS 23 - Intro to American Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHS 28 - Art and Architecture of Latin America (4.00) Same-As: LNST 28"], "home": [["No Course Articulated"]]}
+{"away": ["BUS 10 - Introduction to Business (4.00)"], "home": [["BUS 10 - Introduction to Business (5.00)"]]}
+{"away": ["BUS 20 - Financial Accounting and Reporting (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)"]]}
+{"away": ["STAT 8 - Statistics for Business (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}

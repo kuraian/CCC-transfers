@@ -1,0 +1,6 @@
+{"away": ["MATH 18 - Linear Algebra (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20C - Calculus and Analytic Geometry for Science and Engineering (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)", "MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["ECON 1 - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 3 - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}

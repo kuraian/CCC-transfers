@@ -1,0 +1,8 @@
+{"away": ["COMPSCI 61A - The Structure and Interpretation of Computer Programs (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPSCI 61B - Data Structures (4.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"], ["CIS 26B - Advanced C Programming (4.50)"]]}
+{"away": ["COMPSCI 61C - Machine Structures (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPSCI 70 - Discrete Mathematics and Probability Theory (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 53 - Multivariable Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)", "MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 54 - Linear Algebra and Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)", "MATH 2B - Linear Algebra (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)", "MATH 2BH - Linear Algebra - HONORS (5.00)"]]}

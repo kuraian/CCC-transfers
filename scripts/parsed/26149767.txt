@@ -1,0 +1,58 @@
+{"away": ["SOC GEN 5 - Integrated Approaches to Human Biology and Society (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC GEN M71A - Biotechnology and Society (6.00) Same-As: CLUSTER M71A, CLUSTER M71B"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL M72A - Sex from Biology to Gendered Society (6.00) Same-As: SOC GEN M72A, COMM  M72A, CLUSTER M72A"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 1 - HUMAN EVOLUTION (5.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)"]]}
+{"away": ["LIFESCI 7A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["LIFESCI 7B - Genetics, Evolution, and Ecology (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["LIFESCI 7C - Physiology and Human Biology (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"]]}
+{"away": ["STATS 10 - Introduction to Statistical Reasoning (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["STATS 13 - Introduction to Statistical Methods for Life and Health Sciences (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["AF AMER 1 - Introduction to Black Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL M5 - Social Organization of Black Communities (5.00) Same-As: AF AMER M5"], "home": [["No Course Articulated"]]}
+{"away": ["AF AMER 6 - Trends in Black Intellectual Thought (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AM IND M10 - Introduction to American Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["ASIA AM 10 - History of Asian Americans (5.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"], ["NAIS 31 - Ethnic Studies: Native Hawaiian and Pacific Islander Experiences (4.00)"]]}
+{"away": ["ASIA AM 10W - History of Asian Americans (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 20 - Contemporary Asian American Communities (5.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["ASIA AM 20W - Contemporary Asian American Communities (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 40 - Asian American Movement (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 40W - Asian American Movement (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 50 - Asian American Women (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 50W - Asian American Women (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHICANO 10A - Introduction to Chicana/Chicano Studies: History and Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHICANO 10B - Introduction to Chicana/Chicano Studies: Social Structure and Contemporary Conditions (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Clusters M1A through 80CW"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL M30 - Environmental Literature and Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENVIRON M30 - Environmental Literature and Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GENDER 10 - Introduction to Gender Studies (5.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["GEOG 3 - Cultural Geography (5.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["HIST 3A - History of Science: Renaissance to 1800 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 3B - History of Science: Enlightenment to 1900 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 3C - History of Science: 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 3D - History of Modern Medicine (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12A - Inequality: History of Mass Imprisonment (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12B - Inequality: History of Neoliberalism (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12C - Inequality: Global History of Anti-Colonial Thought and Struggle (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HNRS 70A - Genetic Engineering in Medicine, Agriculture, and Law (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LBR STD M1A - Work, Labor, and Social Justice in U.S. (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LBR STD M1B - Work, Labor, and Social Justice in U.S. (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LBR STD M1CW - Work, Labor, and Social Justice in U.S.: Special Topics (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LBR STD 10 - Introduction to Labor and Workplace Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCD BIO 50 - Stem Cell Biology, Politics, and Ethics: Teasing Apart Issues (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCD BIO 60 - Biomedical Ethics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 3 - Historical Introduction to Philosophy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 4 - Philosophical Analysis of Contemporary Moral Issues (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 6 - Introduction to Political Philosophy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 7 - Introduction to Philosophy of Mind (5.00)"], "home": [["PHIL 1 - Introduction to Philosophy (4.00)"]]}
+{"away": ["PHILOS 8 - Introduction to Philosophy of Science (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 22 - Introduction to Ethical Theory (5.00)"], "home": [["PHIL 8 - Ethics (4.00)"]]}
+{"away": ["PHILOS 22W - Introduction to Ethical Theory (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL SCI 10 - Introduction to Political Theory (5.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL SCI 40 - Introduction to American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"]]}
+{"away": ["PUB AFF 10 - Social Problems and Social Change (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 20 - Power, Politics, and Policy Change (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 30 - Comparative Analysis of Wealth, Policy and Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 80 - How Environments Shape Human Development (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}

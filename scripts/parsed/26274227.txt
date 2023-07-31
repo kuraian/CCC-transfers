@@ -1,0 +1,3 @@
+{"away": ["ITALIAN 1 - Elementary Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)", "ITAL 2 - Elementary Italian (Second Quarter) (5.00)"]]}
+{"away": ["ITALIAN 2 - Elementary Italian (5.00)"], "home": [["ITAL 2 - Elementary Italian (Second Quarter) (5.00)", "ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["ITALIAN 3 - Intermediate Italian (5.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,2 @@
+{"away": ["MUS 2A - Basic Musicianship (4.00)", "MUS 2AK - Basic Keyboard (2.00)"], "home": [["MUSI 3A - Comprehensive Musicianship (First Quarter) (4.00) MUSI 12A - Class Piano I (1.50)"]]}
+{"away": ["MUS 2B - Basic Musicianship (4.00)", "MUS 2BK - Basic Keyboard (2.00)"], "home": [["MUSI 3B - Comprehensive Musicianship (Second Quarter) (4.00) MUSI 12B - Class Piano II (1.50)"]]}

@@ -1,0 +1,4 @@
+{"away": ["CELTIC 15 - Elementary Modern Irish (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CELTIC 85 - Intermediate Modern Irish (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CELTIC 16 - Introduction to Modern Welsh (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CELTIC 86 - Intermediate Modern Welsh (4.00)"], "home": [["No Course Articulated"]]}

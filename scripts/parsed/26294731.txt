@@ -1,0 +1,33 @@
+{"away": ["BIO SCI 93 - DNA to Organisms (4.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["CHEM 1A - General Chemistry (4.00)", "CHEM 1B - General Chemistry (4.00)", "CHEM 1C - General Chemistry (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["BIO SCI 97 - Genetics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIO SCI E109 - Human Physiology (4.00)", "BIO SCI E112L - Physiology Laboratory (3.00)"], "home": [["BIOL 40C - Human Anatomy and Physiology (5.00) The Bachelor of Science degree program in Nursing Science prepares graduates to function as generalists in professional nursing practice and to collaborate with other health care providers in clinics, hospitals, and community health settings. The undergraduate curriculum is designed to provide theory and research-based clinical experiences that integrate critical thinking, compassion, and caring behaviors that build clinical expertise. Students who successfully complete the B.S. degree in Nursing Science are eligible to take the national licensing examination (NCLEX) to become a registered"]]}
+{"away": ["nurse. Required for admission:"], "home": [["One quarter/semester of foundational biology equivalent to UCI's BIO SCI 93, One year of general chemistry equivalent to UCI's CHEM 1A-B-C, One quarter/semester of genetics equivalent to UCI's BIO SCI 97, One quarter/semester of human physiology with laboratory equivalent to UCI's BIO SCI E109 and BIO SCI E112L or PHRMSCI 120 and PHRMSCI"]]}
+{"away": ["120L,"], "home": [["One quarter/semester of microbiology with laboratory equivalent to UCI's BIO SCI M122 and BIO SCI M118L or BIO SCI M115, One quarter/semester of human anatomy with laboratory equivalent to UCI's BIO SCI D170, One quarter/semester of philosophy equivalent to UCI's PHILOS 4 or PHILOS 5, One quarter/semester of psychology equivalent to UCI's PSYCH 7A or PSCI 9,"]]}
+{"away": ["One quarter/semester of public health equivalent to UCI's PUBHLTH 1,"], "home": [["One quarter/semester of statistics equivalent to UCI's PSYCH 10A or SOC SCI 10A or SOCIOL 10A or STATS 7 or STATS 8, and One quarter/semester of sociology equivalent to UCI's ANTHRO 2A or ANTHRO 2D or ANTHRO 41A or SOC SCI 1A or SOCIOL 1 or SOCIOL 2 or"]]}
+{"away": ["SOCIOL 3 or SOCIOL 31 or SOCIOL 44 or SOCIOL 62 Recommended:"], "home": [["One quarter/semester of lifespan/developmental psychology equivalent to UCI's NUR SCI 116"]]}
+{"away": ["One quarter/semester of nutrition equivalent to UCI's NUR SCI 50 Completion of prerequisite courses within the last 5 years PHRMSCI 120 - Human Physiology (4.00)", "PHRMSCI 120L - Human Physiology Lab (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIO SCI M122 - General Microbiology (4.00)", "BIO SCI M118L - Experimental Microbiology Laboratory (4.00)"], "home": [["BIOL 26 - Introductory Microbiology (6.00)"]]}
+{"away": ["BIO SCI M115 - Allied Health Microbiology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIO SCI D170 - Applied Human Anatomy (6.00)"], "home": [["BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["PHILOS 4 - Introduction to Ethics (4.00)"], "home": [["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PHILOS 5 - Contemporary Moral Problems (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYCH 7A - Introduction to Psychology (4.00) Same-As: PSCI 9"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PSCI 9 - Introduction to Psychology (4.00) Same-As: PSYCH 7A"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PUBHLTH 1 - Principles of Public Health (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYCH 10A - Probability and Statistics in Psychology I (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["SOC SCI 10A - Probability and Statistics in the Social Sciences I (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["SOCIOL 10A - Probability and Statistics (4.00) Same-As: ANTHRO 10A"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["STATS 7 - Basic Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["STATS 8 - Introduction to Biological Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["ANTHRO 2A - Introduction to Sociocultural Anthropology (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ANTHRO 2D - Introduction to Language and Culture (4.00) Same-As: LSCI 68"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["ANTHRO 41A - Global Cultures and Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC SCI 1A - Principles in the Social Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCIOL 2 - Global and International Sociology (4.00)"], "home": [["SOC 5 - Sociology of Globalization and Social Change (4.00) Same-As: INTL 8"]]}
+{"away": ["SOCIOL 3 - Introduction to Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["SOCIOL 31 - Introduction to Social Psychology (4.00) Same-As: PSYCH 78A"], "home": [["PSYC 8 - Introduction to Social Psychology (4.00)"]]}
+{"away": ["SOCIOL 44 - Population (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 62 - Marriage and Families (4.00)"], "home": [["SOC 35 - Marriage, Family and Intimate Relationships (4.00)"]]}
+{"away": ["NUR SCI 116 - Human Growth and Development through the Lifespan (4.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,11 @@
+{"away": ["AM 11A - Mathematical Methods for Economists I (5.00) Same-As: ECON 11A"], "home": [["MATH 12 - Introductory Calculus for Business and Social Science (5.00)"]]}
+{"away": [""], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["ECE 13 - Computer Systems and C Programming (7.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CSE 13S - Computer Systems and C Programming (7.00)"], "home": [["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"]]}
+{"away": ["CSE 20 - Beginning Programming in Python (5.00)"], "home": [["CIS 40 - Introduction to Programming in Python (4.50)"], ["CIS 41A - Python Programming (4.50)"]]}
+{"away": ["CSE 30 - Programming Abstractions: Python (7.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": ["PSYC 2 - Introduction to Psychological Statistics (5.00)"], "home": [["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"], ["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"]]}
+{"away": ["STAT 5 - Statistics (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STAT 7 - Statistical Methods for the Biological, Environmental, and Health Sciences (5.00)", "STAT 7L - Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYC 20 - Cognition: Fundamental Theories (5.00)"], "home": [["PSYC 3 - An Introduction to Cognitive Psychology (4.00)"]]}

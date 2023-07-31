@@ -1,0 +1,6 @@
+{"away": ["CHN 1 - First-Year Chinese (4.00)", "CHN 2 - First-Year Chinese (4.00)", "CHN 3 - First-Year Chinese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 4 - Second-Year Chinese (4.00)", "CHN 5 - Second-Year Chinese (4.00)", "CHN 6 - Second-Year Chinese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CPLT 1 - Intro to Close Reading (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 30 - Intro to Chinese Civilization (5.00) Same-As: AST 30"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 40 - Masterworks of Chinese Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 46 - Responses to Political Repression in Modern Chinese Literature and Film (4.00) Same-As: AST 46"], "home": [["No Course Articulated"]]}

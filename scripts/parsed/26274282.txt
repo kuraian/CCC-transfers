@@ -1,0 +1,25 @@
+{"away": ["BIOLOGY 1A - General Biology Lecture (Cells, Genetics, Animal Form & Function) (3.00)", "BIOLOGY 1AL - General Biology Laboratory (2.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIOLOGY 1B - General Biology (Plant Form & Function, Ecology, Evolution) (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIOLOGY 1A - General Biology Lecture (Cells, Genetics, Animal Form & Function) (3.00)", "BIOLOGY 1AL - General Biology Laboratory (2.00)", "BIOLOGY 1B - General Biology (Plant Form & Function, Ecology, Evolution) (4.00)"], "home": [["Articulates as Course-to-Course Only"]]}
+{"away": ["MCELLBI 32 - Introduction to Human Physiology (3.00)", "MCELLBI 32L - Introduction to Human Physiology Laboratory (2.00)"], "home": [["BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)", "BIOL 40C - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["MCELLBI 38 - Stem Cell Biology, Ethics and Societal Impact (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCELLBI 50 - The Immune System and Disease (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCELLBI 55 - Plagues and Pandemics (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCELLBI C61 - Brain, Mind, and Behavior (3.00) Same-As: PSYCH C61"], "home": [["PSYC 24 - Introduction to Psychobiology (4.00)"]]}
+{"away": ["NUSCTX 10 - Introduction to Human Nutrition (3.00)"], "home": [["NUTR 10 - Contemporary Nutrition (4.00)"]]}
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 10A - Methods of Mathematics: Calculus, Statistics, and Combinatorics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10B - Methods of Mathematics: Calculus, Statistics, and Combinatorics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 16A - Analytic Geometry and Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 16B - Analytic Geometry and Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["SOCIOL 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCIOL 3AC - Principles of Sociology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 5 - Evaluation of Evidence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 1 - Introduction to Economics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)", "ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Introduction to Economics, Lecture Format (4.00)"], "home": [[]]}
+{"away": ["ECON C3 - Introduction to Environmental Economics and Policy (4.00) Same-As: ENVECON C1"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"]]}
+{"away": ["ANTHRO 3 - Introduction to Social and Cultural Anthropology (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["POL SCI 2 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL SCI 4 - Introduction to Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["PSYCH 1 - General Psychology (3.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}

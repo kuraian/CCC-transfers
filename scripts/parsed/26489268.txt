@@ -1,0 +1,12 @@
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 004A - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 004B - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 004C - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}

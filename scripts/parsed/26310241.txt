@@ -1,0 +1,11 @@
+{"away": ["STS 001 - Introduction to Science, Technology & Medicine Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 030 - Introduction to Philosophy of Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 031 - Appraising Scientific Reasoning (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 032 - Understanding Scientific Change (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STS 002 - Introduction to the History of Science & Technology (4.00) Same-As: HIS 002"], "home": [["No Course Articulated"]]}
+{"away": ["STS 011 - Science on Trial: Law, Science, & Technology in the United States (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STS 016 - Sex, Science, & Society (4.00) Same-As: HIS 016"], "home": [["No Course Articulated"]]}
+{"away": ["STS 032 - Drugs, Science & Culture (4.00) Same-As: ANT 032"], "home": [["No Course Articulated"]]}
+{"away": ["STS 040A - Media History 1, Guttenberg to Oppenheimer (4.00) Same-As: CTS 040A"], "home": [["No Course Articulated"]]}
+{"away": ["STS 040B - Media History 2 1945-Present (4.00) Same-As: CTS 040B"], "home": [["No Course Articulated"]]}
+{"away": ["STS 050 - Ancient Science (4.00) Same-As: CLA 050"], "home": [["This Course is Never Articulated"]]}

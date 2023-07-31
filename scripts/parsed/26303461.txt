@@ -1,0 +1,39 @@
+{"away": ["CLA 001 - Ancient Near East & Early Greece: 3000-500 B.C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 002 - Ancient Greece & the Near East: 500-146 B.C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 003 - Rome & the Mediterranean: 800 B.C.E. -500 C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 004 - Late Antiquity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GRK 001 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GRK 002 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GRK 003 - Intermediate Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LAT 001 - Elementary Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LAT 002 - Elementary Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LAT 003 - Intermediate Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHI 001A - Ancient Mediterranean Art (4.00)"], "home": [["ARTS 2A - History of Art: Europe from Prehistory through Early Christianity (4.00)"]]}
+{"away": ["CLA 001 - Ancient Near East & Early Greece: 3000-500 B.C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 002 - Ancient Greece & the Near East: 500-146 B.C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 003 - Rome & the Mediterranean: 800 B.C.E. -500 C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 004 - Late Antiquity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 010 - Greek, Roman, & Near Eastern Mythology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 010Y - Greek, Roman, & Near Eastern Mythology\u2013Hybrid (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 015 - Women & Gender in Classical Antiquity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 020 - Pompeii AD 79 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 025 - The Classical Heritage in America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 030 - Greek & Latin Elements in English Vocabulary (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 030F - Greek & Latin Elements in English Vocabulary (3.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CLA 031 - Greek & Latin Elements in Technical Vocabulary (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 040 - Life & Economy in the Ancient Mediterranean World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 050 - Ancient Science (4.00) Same-As: STS 050"], "home": [["This Course is Never Articulated"]]}
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 021 - Philosophical Classics of the Ancient Era (4.00)"], "home": [["PHIL 20A - History of Western Philosophy: Ancient Greece (4.00)"]]}
+{"away": ["RST 021 - The Bible & Its Interpreters (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 040 - New Testament (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 001 - Ancient Near East & Early Greece: 3000-500 B.C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 002 - Ancient Greece & the Near East: 500-146 B.C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 003 - Rome & the Mediterranean: 800 B.C.E. -500 C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 004 - Late Antiquity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GRK 001 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GRK 002 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GRK 003 - Intermediate Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LAT 001 - Elementary Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LAT 002 - Elementary Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LAT 003 - Intermediate Latin (5.00)"], "home": [["No Course Articulated"]]}

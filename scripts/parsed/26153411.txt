@@ -1,0 +1,4 @@
+{"away": ["Intermediate Korean (completion of Korean 6, 6A, 10 or equivalent)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 40 - Korean Wave: Globalization of South Korean Popular Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 50 - History of Korean Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA M60 - Introduction to Korean Religions (5.00) Same-As: RELIGN M60C"], "home": [["No Course Articulated PLEASE NOTE: the community college courses listed below have been approved to satisfy the preparation for this major at UCLA, but"]]}

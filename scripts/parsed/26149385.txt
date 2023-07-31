@@ -1,0 +1,6 @@
+{"away": ["STATS 10 - Introduction to Statistical Reasoning (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["POL SCI 10 - Introduction to Political Theory (5.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL SCI 20 - World Politics (5.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL SCI 30 - Politics and Strategy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL SCI 40 - Introduction to American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"]]}
+{"away": ["POL SCI 50 - Introduction to Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}

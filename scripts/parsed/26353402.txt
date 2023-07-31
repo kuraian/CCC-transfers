@@ -1,0 +1,16 @@
+{"away": ["BME 80G - Bioethics in the 21st Century: Science, Business, and Society (5.00) Same-As: PHIL 80G"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 1A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 1B - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 1C - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 8A - Organic Chemistry (5.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHEM 8B - Organic Chemistry (5.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["BIOL 20A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19B - Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["AM 10 - Mathematical Methods for Engineers I (5.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["PHYS 5A - Introduction to Physics I (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 5B - Introduction to Physics II (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["BME 21L - Introduction to Basic Laboratory Techniques (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AM 20 - Mathematical Methods for Engineers II (5.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["CSE 16 - APPLIED DISCRETE MATHEMATICS (5.00)"], "home": [["MATH 22 - Discrete Mathematics (5.00)"], ["MATH 22H - Discrete Mathematics - HONORS (5.00)"]]}
+{"away": ["CSE 13S - Computer Systems and C Programming (7.00)"], "home": [["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"]]}

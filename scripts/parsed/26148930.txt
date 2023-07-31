@@ -1,0 +1,25 @@
+{"away": ["LIFESCI 7A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["LIFESCI 7B - Genetics, Evolution, and Ecology (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["LIFESCI 7C - Physiology and Human Biology (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"]]}
+{"away": ["LIFESCI 23L - Introduction to Laboratory and Scientific Methodology (3.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00) Calculus 32A is NOT required for admission into the premajor; this course can be completed after transfera to UCLA."]]}
+{"away": [""], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["MATH 3A - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3B - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3C - Ordinary Differential Equations with Linear Algebra for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIFESCI 40 - Statisitics of Biological Systems (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 13 - Introduction to Statistical Methods for Life and Health Sciences (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 32A - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)"]]}
+{"away": ["LIFESCI 40 - Statisitics of Biological Systems (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 13 - Introduction to Statistical Methods for Life and Health Sciences (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["LIFESCI 30A - Mathematics for Life Scientists (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIFESCI 30B - Mathematics for Life Scientists (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATISTICS 13"], "home": [["No Course Articulated"]]}
+{"away": ["LIFESCI 40 - Statisitics of Biological Systems (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHYSICS 5A - Physics for Life Sciences Majors: Mechanics, and Energy (5.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 5B - Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics (5.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 5C - Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics (5.00)"], "home": [["PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 1A - Physics for Scientists and Engineers: Mechanics (5.00)", "PHYSICS 1B - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields (5.00)", "PHYSICS 1C - Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (5.00)", "PHYSICS 4AL - Physics Laboratory for Scientists and Engineers: Mechanics (2.00)", "PHYSICS 4BL - Physics Laboratory for Scientists and Engineers: Electricity and Magnetism (2.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)", "PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)", "PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["CHEM 30A - Organic Chemistry I: Structure and Reactivity (4.00)", "CHEM 30B - Organic Chemistry II: Reactivity, Synthesis, and Spectroscopy (4.00)", "CHEM 30BL - Organic Chemistry Laboratory I (3.00)", "CHEM 30C - Organic Chemistry III: Reactivity, Synthesis, and Biomolecules (4.00)", "CHEM 30CL - Organic Chemistry Laboratory II (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)", "CHEM 12B - Organic Chemistry (5.00)", "CHEM 12C - Organic Chemistry (5.00)"]]}
+{"away": ["CHEM 153A - Biochemistry: Introduction to Structure, Enzymes, and Metabolism (4.00)", "CHEM 153L - Biochemical Methods I (4.00)"], "home": [["No Course Articulated"]]}

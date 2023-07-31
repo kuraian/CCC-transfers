@@ -1,0 +1,6 @@
+{"away": ["SPAN 25 - Advanced Spanish Composition (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 27 - Advanced Spanish Composition for Heritage Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 42 - Iberian Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 44 - Latin American Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN M35 - Nature of Language (5.00)"], "home": [["No Course Articulated PLEASE NOTE: the community college courses listed below have been approved to satisfy the preparation for this major at UCLA, but they may not be exact equivalents of the UCLA courses listed. In addition s ome language courses may be cross listed and available in"]]}
+{"away": ["different departments, however all"], "home": [["major preparation courses must be taken from the Spanish department."]]}

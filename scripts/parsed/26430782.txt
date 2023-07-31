@@ -1,0 +1,3 @@
+{"away": ["MUS 12 - Introduction to Music and Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 6 - Intro to World Music (4.00) Same-As: ANTH 6"], "home": [["MUSI 1C - Music Appreciation: World Music in America (4.00)"]]}
+{"away": ["MUS 8 - Popular Music Cultures of the United States (4.00)"], "home": [["No Course Articulated"]]}

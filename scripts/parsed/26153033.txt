@@ -1,0 +1,9 @@
+{"away": ["CLASSIC 10 - Discovering Greeks (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 20 - Discovering Romans (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GREEK 1 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GREEK 2 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GREEK 3 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GREEK 20 - Intermediate Greek (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LATIN 1 - Elementary Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LATIN 2 - Elementary Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LATIN 3 - Elementary Latin (5.00)"], "home": [["No Course Articulated PLEASE NOTE: The community college courses listed below have been approved to satisfy the preparation requirements for this major at"]]}

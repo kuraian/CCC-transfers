@@ -1,0 +1,8 @@
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 53 - Multivariable Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)", "MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 54 - Linear Algebra and Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)", "MATH 2B - Linear Algebra (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)", "MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["ECON 1 - Introduction to Economics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)", "ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON C3 - Introduction to Environmental Economics and Policy (4.00) Same-As: ENVECON C1"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"]]}
+{"away": ["ENGIN 7 - Introduction to Computer Programming for Scientists and Engineers (MATLAB) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPSCI 61A - The Structure and Interpretation of Computer Programs (4.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,3 @@
+{"away": ["LALS 1 - Introduction to Latin American and Latino Studies (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["SOCY 1 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCY 10 - Issues and Problems in American Society (5.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}

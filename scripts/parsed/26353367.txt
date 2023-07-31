@@ -1,0 +1,4 @@
+{"away": ["MUSC 13 - Beginning Theory & Musicianship I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 14 - Beginning Theory & Musicianship II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 15 - Preparatory Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 16 - Theoretical Foundations of Music (5.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,3 @@
+{"away": ["GERMAN 1 - Elementary German 1 (5.00)"], "home": [["GERM 1 - Elementary German (First Quarter) (5.00)", "GERM 2 - Elementary German (Second Quarter) (5.00)"]]}
+{"away": ["GERMAN 2 - Elementary German 2 (5.00)"], "home": [["GERM 3 - Elementary German (Third Quarter) (5.00)"]]}
+{"away": ["GERMAN 3 - Intermediate German I (5.00)"], "home": [["GERM 4 - Intermediate German (First Quarter) (5.00)", "GERM 5 - Intermediate German (Second Quarter) (5.00)"]]}

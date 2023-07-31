@@ -1,0 +1,2 @@
+{"away": ["CPLT 1 - Intro to Close Reading (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FREN 1 - Introduction to French (4.00)", "FREN 2 - Introduction to French (4.00)", "FREN 3 - Introduction to French (4.00)"], "home": [["FREN 1 - Elementary French (First Quarter) (5.00)", "FREN 2 - Elementary French (Second Quarter) (5.00)", "FREN 3 - Elementary French (Third Quarter) (5.00)"]]}

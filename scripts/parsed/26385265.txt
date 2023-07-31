@@ -1,0 +1,66 @@
+{"away": ["DATED"], "home": [["MATERIAL, SUBJECT TO CHANGE.  PLEASE CONSULT CURRENT UCSD GENERAL"]]}
+{"away": ["CATALOG FOR ANY ADDITIONAL INFORMATION. Special Advising Note:"], "home": [["Transfer students are strongly advised to complete as many preparatory courses for their major before enrolling at UC San Diego. Preparing well for the major helps students move efficiently toward"]]}
+{"away": ["graduation."], "home": [["For information about the Department of Literature, including checklists of lower-division and upper-division requirements for all of our majors, descriptions of current courses and current class schedules, please go"]]}
+{"away": ["to: http://literature.ucsd.edu/ ."], "home": [["Students electing the World Literature and Culture major can complete the majority of the lower-division requirements at most community colleges in California. A three-quarter lower-division literature sequence is required, and there are many sequence options (see below). As with all of the literature majors offered at UCSD, there is a secondary language and literature requirement (see choices of languages below). This entails required study in a language other than English and the attainment of proficiency in that language through the terminal course in that particular language sequence. For students choosing to concentrate in a foreign language within the major, English literature courses may be used to fulfill the secondary language and literature requirement.  For details on the secondary language & literature"]]}
+{"away": ["requirement, please go to http://literature.ucsd.edu/"], "home": [[".  Students can prepare for this requirement by taking lower-division courses (enough to reach fluency level, usually one to two years) in American Sign Language, French, German, Greek, Hebrew, Italian, Korena, Latin, Russian, Spanish, or English (for students concentrating"]]}
+{"away": ["on a foreign language within the major requirements)."], "home": [["World Literature and Culture majors are required to complete: 1)  A three-quarter lower-division sequence.  Examples of some options include:"]]}
+{"away": ["LTEN 21, 22, 23 LTEN 25, 26, 27, 28, 29 (any three) LTWL 4A, 4C, 4D, 4F, 4M (any three) LTWL 19A, 19B, 19C"], "home": [["LTCS 50, 52 and any one of the following: LTEN 25, 26, 27, 28, 29, LTWL 4A, 4C, 4D, 4F, 4M, 19A, 19B, 19C, GSS 21, 22, 23, 24, 25, or 26"]]}
+{"away": ["LTFR 2A, 2B, 2C LTGM 2A, 2B, 2C LTGK 1, 2, 3 LTIT 2A, 2B, 50 LTKO 2A, 2B, 2C LTLA 1, 2, 3 LTRU 2A, 2B,104A LTSP 2A, 2B, 2C, 2D, 2E"], "home": [["2)  The secondary language and literature requirement in the chosen language. See appropriate lower-division articulated community college courses below."]]}
+{"away": ["LTCS 50 - Introduction to Cultural Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTCS 52 - Topics in Cultural Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTEN 21 - Introduction to the Literature of the British Isles: Pre 1660 (4.00)"], "home": [["ELIT 46A - Major British Writers (Medieval and Renaissance) (4.00)"], ["ELIT 46AH - Major British Writers (Medieval and Renaissance) - HONORS (4.00)"]]}
+{"away": ["LTEN 22 - Introduction to the Literature of the British Isles: 1660- 1832 (4.00)"], "home": [["ELIT 46B - Major British Writers (Neo-Classical and Romantic) (4.00)"], ["ELIT 46BH - Major British Writers (Neo-Classical and Romantic) - HONORS (4.00)"]]}
+{"away": ["LTEN 23 - Introduction to the Literature of the British Isles: 1832- Present (4.00)"], "home": [["ELIT 46C - Major British Writers (Victorian and Modern) (4.00)"], ["ELIT 46CH - Major British Writers (Victorian and Modern) - HONORS (4.00)"]]}
+{"away": ["LTEN 25 - Introduction to the Literature of the United States, Beginnings to 1865 (4.00)"], "home": [["ELIT 48A - Major American Writers (Colonial and Romantic, 1620- 1865) (4.00)"], ["ELIT 48AH - Major American Writers (Colonial to Romantic, 1620- 1865) - HONORS (4.00)"]]}
+{"away": ["LTEN 26 - Introduction to the Literature of the United States, 1865 to the Present (4.00)"], "home": [["ELIT 48B - Major American Writers (The Advent of Realism, 1865- 1914) (4.00)", "ELIT 48C - Major American Writers (The Modern Age, 1914 - The Present) (4.00)"], ["ELIT 48BH - Major American Writers (The Advent of Realism, 1865- 1914) - HONORS (4.00)", "ELIT 48CH - Major American Writers (The Modern Age, 1914-the Present) - HONORS (4.00)"]]}
+{"away": ["LTEN 27 - Introduction to African American Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTEN 28 - Introduction to Asian-American Literature (4.00)"], "home": [["ELIT 24 - Asian Pacific American Literature (4.00) Same-As: ASAM 20"]]}
+{"away": ["LTEN 29 - Introduction to Chicano Literature (4.00)"], "home": [["ICS 35 - Chicano/a and Latino/a Literature (4.00)"]]}
+{"away": ["GSS 21 - Literatures of the Global South - African literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GSS 22 - LatinAm Carib History Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GSS 23 - China EastAsia History Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GSS 24 - Third World Literatures (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GSS 25 - South Asia History & Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GSS 26 - South Asia History & Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTFR 2A - Intermediate French I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTFR 2B - Intermediate French II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTFR 2C - Intermediate French III: Composition and Cultural Topics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGK 1 - Beginning Greek (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGK 2 - Intermediate Greek I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGK 3 - Intermediate Greek II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGM 2A - Intermediate German I (5.00)"], "home": [["GERM 4 - Intermediate German (First Quarter) (5.00)"]]}
+{"away": ["LTGM 2B - Intermediate German II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTGM 2C - Intermediate German III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTIT 2A - Intermediate Italian I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTIT 2B - Intermediate Italian II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTIT 50 - Advanced Italian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTKO 1A - Beginning Korean: First Year I (5.00)"], "home": [["KORE 1 - Elementary Korean (First Quarter) (5.00)"]]}
+{"away": ["LTKO 1B - Beginning Korean: First Year II (5.00)"], "home": [["KORE 2 - Elementary Korean (Second Quarter) (5.00)"]]}
+{"away": ["LTKO 1C - Beginning Korean: First Year III (5.00)"], "home": [["KORE 3 - Elementary Korean (Third Quarter) (5.00)"]]}
+{"away": ["LTKO 2A - Intermediate Korean: Second Year I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTKO 2B - Intermediate Korean: Second Year II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTKO 2C - Intermediate Korean: Second Year III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTLA 1 - Beginning Latin (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTLA 2 - Intermediate Latin I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTLA 3 - Intermediate Latin II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTRU 1A - First-Year Russian (5.00)"], "home": [["RUSS 1 - Elementary Russian (First Quarter) (5.00)"]]}
+{"away": ["LTRU 1B - First-Year Russian (5.00)"], "home": [["RUSS 2 - Elementary Russian (Second Quarter) (5.00)"]]}
+{"away": ["LTRU 1C - First-Year Russian (5.00)"], "home": [["RUSS 3 - Elementary Russian (Third Quarter) (5.00)"]]}
+{"away": ["LTRU 2A - Second-Year Russian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTRU 2B - Second-Year Russian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTSP 2A - Intermediate Spanish I: Foundations (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)"]]}
+{"away": ["LTSP 2B - Intermediate Spanish II: Readings and Composition (5.00)"], "home": [["SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)"]]}
+{"away": ["LTSP 2C - Intermediate Spanish III: Cultural Topics and Conversation (4.00)"], "home": [["SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["LTSP 2D - Intermediate/Advanced Spanish: Spanish for Bilingual Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTSP 2E - Advanced Readings and Composition for Bilingual Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTWL 4D - Fiction and Film in Twentieth-Century Societies, Italian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTWL 19A - Introduction to the Ancient Greeks and Romans (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTWL 19B - Introduction to the Ancient Greeks and Romans (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTWL 19C - Introduction to the Ancient Greeks and Romans (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JWSP 1 - Beginning Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JWSP 2 - Intermediate Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JWSP 3 - Intermediate Hebrew, Continued (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LISL 1A - American Sign Language Conversation (2.50)", "LISL 1AX - Analysis of American Sign Language (2.50)"], "home": [["SIGN 1 - Elementary American Sign Language (First Quarter) (5.00)"]]}
+{"away": ["LISL 1B - American Sign Language Conversation (2.50)", "LISL 1BX - Analysis of American Sign Language (2.50)"], "home": [["SIGN 2 - Elementary American Sign Language (Second Quarter) (5.00)"]]}
+{"away": ["LISL 1C - American Sign Language Conversation (2.50)", "LISL 1CX - Analysis of American Sign Language (2.50)"], "home": [["SIGN 3 - Elementary American Sign Language (Third Quarter) (5.00)"]]}
+{"away": ["LISL 1D - American Sign Language Conversation (2.50)", "LISL 1DX - Analysis of American Sign Language (2.50)"], "home": [["No Course Articulated"]]}

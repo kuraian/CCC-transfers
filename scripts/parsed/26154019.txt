@@ -1,0 +1,7 @@
+{"away": ["LING 20 - Introduction to Linguistics Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 25 - Advanced Spanish Composition (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 27 - Advanced Spanish Composition for Heritage Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN M35 - Spanish, Portuguese, and Nature of Language (5.00) Same-As: PORTGSE M35"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 42 - Iberian Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 44 - Latin American Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Equivalent Of Level Three Of A 2nd Foreign Language"], "home": [["No Course Articulated"]]}

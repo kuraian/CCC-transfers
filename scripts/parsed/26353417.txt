@@ -1,0 +1,1 @@
+{"away": ["EDUC 10 - Introduction to Learning (5.00)"], "home": [["No Course Articulated"]]}

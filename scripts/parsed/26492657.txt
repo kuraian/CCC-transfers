@@ -1,0 +1,38 @@
+{"away": [], "home": [["In particular, it is highly recommended that students complete Chemistry courses before transferring."]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["GEL 001 - The Earth (4.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["GEL 020 - Geology of California (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SSC 010 - Soils in Our Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 017A - History of the United States (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["MAT 016A - Short Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["ANS 001 - Domestic Animals & People (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 002 - Introductory Animal Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 021 - Livestock & Dairy Cattle Judging (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 041 - Domestic Animal Production (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ABT 016 - Metal Properties & Fabrication (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ABT 049 - Field Equipment Operation (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ABT 052 - Field Equipment Welding (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARE 015 - Population, Environment & World Agriculture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ENH 001 - Introduction to Environmental Horticulture/Urban Forestry (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENH 006 - Introduction to Environmental Plants (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESP 010 - Current Issues in the Environment (3.00)"], "home": [["E S 1 - Introduction to Environmental Studies (4.00)"], ["ESCI 19 - Environmental Biology (5.00)"]]}
+{"away": ["ETX 010 - Introduction to Environmental Toxicology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HYD 010 - Water, Power, Society (3.00) Same-As: SAS 010"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 001 - Agriculture, Nature & Society (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 002 - Botany & Physiology of Cultivated Plants (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 015 - Introduction to Sustainable Agriculture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 049 - Organic Crop Production Practices (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VEN 002 - Introduction to Viticulture (2.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,6 @@
+{"away": ["ECON 1 - Introduction to Economics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)", "ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 1B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 16A - Analytic Geometry and Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 16B - Analytic Geometry and Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["STAT 20 - Introduction to Probability and Statistics (4.00)"], "home": [["No Course Articulated"]]}

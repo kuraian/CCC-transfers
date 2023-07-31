@@ -1,0 +1,4 @@
+{"away": ["MATH 9A - First-Year Calculus (4.00)", "MATH 9B - First-Year Calculus (4.00)", "MATH 9C - First-Year Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"]]}
+{"away": ["MATH 7A - Calculus for Life Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 7B - Calculus for Life Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 9C - First-Year Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"]]}

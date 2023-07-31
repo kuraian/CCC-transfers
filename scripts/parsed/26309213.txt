@@ -1,0 +1,25 @@
+{"away": ["PHI 012 - Introduction to Symbolic Logic (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PHI 001 - Introduction to Philosophy (4.00)"], "home": [["PHIL 1 - Introduction to Philosophy (4.00)"], ["PHIL 20C - History of Western Philosophy: 1800 - the Present (4.00)"], ["PHIL 30 - Introduction to Existentialism (4.00)"]]}
+{"away": ["PHI 021 - Philosophical Classics of the Ancient Era (4.00)"], "home": [["PHIL 20A - History of Western Philosophy: Ancient Greece (4.00)"]]}
+{"away": ["PHI 022 - Philosophical Classics of the Modern Era (4.00)"], "home": [["PHIL 20B - History of Western Philosophy: 1400 - 1800 (4.00)"]]}
+{"away": ["PHI 013G - Minds, Brains, & Computers with Discussion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 014 - Ethical & Social Problems in Contemporary Society (4.00)"], "home": [["ICS 17 - Critical Consciousness and Social Change (4.00)"], ["ICS 17H - Critical Consciousness and Social Change - HONORS (4.00)"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 024 - Introduction to Ethics (4.00)"], "home": [["PHIL 2 - Social and Political Philosophy (4.00)"], ["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PHI 030 - Introduction to Philosophy of Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 031 - Appraising Scientific Reasoning (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 032 - Understanding Scientific Change (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 038 - Introduction to Philosophy of Biology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 017 - Language, Thought, & World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 005 - Critical Reasoning (4.00)"], "home": [["PHIL 4 - Critical Thinking (4.00)"]]}
+{"away": ["PHI 012 - Introduction to Symbolic Logic (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PHI 024 - Introduction to Ethics (4.00)"], "home": [["PHIL 2 - Social and Political Philosophy (4.00)"], ["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PHI 014 - Ethical & Social Problems in Contemporary Society (4.00)"], "home": [["ICS 17 - Critical Consciousness and Social Change (4.00)"], ["ICS 17H - Critical Consciousness and Social Change - HONORS (4.00)"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 016 - Philosophical Foundations of American Democracy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 012 - Introduction to Symbolic Logic (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 038 - Introduction to Philosophy of Biology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 024 - Introduction to Ethics (4.00)"], "home": [["PHIL 2 - Social and Political Philosophy (4.00)"], ["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PHI 030 - Introduction to Philosophy of Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 031 - Appraising Scientific Reasoning (4.00)"], "home": [["No Course Articulated"]]}

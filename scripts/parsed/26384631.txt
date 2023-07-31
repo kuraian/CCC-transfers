@@ -1,0 +1,2 @@
+{"away": ["RELI 1 - Introduction to Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RELI 2 - Comparative World Religions (4.00)"], "home": [["HUMI 9 - Introduction to Comparative Religion (4.00)"], ["HUMI 9H - Introduction to Comparative Religion - HONORS (4.00)"]]}

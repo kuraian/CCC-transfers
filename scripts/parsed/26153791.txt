@@ -1,0 +1,8 @@
+{"away": ["LING 20 - Introduction to Linguistics Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 4W - Critical Reading and Writing (5.00)"], "home": [["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": ["ENGL 4WX - Critical Reading and Writing (Community-Engaged Learning) (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 10A - Literatures in English to 1700 (5.00)"], "home": [["ELIT 46A - Major British Writers (Medieval and Renaissance) (4.00)"], ["ELIT 46AH - Major British Writers (Medieval and Renaissance) - HONORS (4.00)"], ["ELIT 46B - Major British Writers (Neo-Classical and Romantic) (4.00)"]]}
+{"away": ["ENGL 10B - Literatures in English, 1700 to 1850 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 10C - Literatures in English, 1850 to Present (5.00)"], "home": [["ELIT 46C - Major British Writers (Victorian and Modern) (4.00)"], ["ELIT 46CH - Major British Writers (Victorian and Modern) - HONORS (4.00)"]]}
+{"away": ["Elementary and Intermediate Levels (Six Terms) Of One Foreign Language"], "home": [["No Course Articulated"]]}
+{"away": ["Equivalent of Level Three Of Two Foreign Languages"], "home": [["No Course Articulated"]]}

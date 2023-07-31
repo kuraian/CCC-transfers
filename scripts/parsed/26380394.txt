@@ -1,0 +1,8 @@
+{"away": ["TDPR 6 - Theatre Practicum (4.00 - 6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDTR 10 - Introduction to Dance (4.00)"], "home": [["DANC 38A - Appreciation of Dance (4.00)"]]}
+{"away": ["TDDM 1 - Introduction to Dance Making (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDDM 5 - Site Specific Dance and Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDHD 20 - Looking at Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDHD 21 - Dance Pioneers of the Twentieth and Twenty-First Centuries (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDMV 20 - Movement Laboratory (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDTR 15 - Dance Movement and Analysis (4.00)"], "home": [["No Course Articulated"]]}

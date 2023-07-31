@@ -1,0 +1,8 @@
+{"away": ["ARABIC 1A - Elementary Standard Arabic (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARABIC 1B - Elementary Standard Arabic (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARABIC 1C - Elementary Standard Arabic (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IRANIAN 20A - Accelerated Elementary Persian (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IRANIAN 20B - Accelerated Elementary Persian (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IRANIAN 20C - Accelerated Elementary Persian (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IRANIAN 55 - Gender and Sexuality in Arts and Literature of Iran and Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IRANIAN M60 - Achaemenid Civilization and Empire of Alexander (5.00)"], "home": [["No Course Articulated PLEASE NOTE: the community college courses listed below have been approved to satisfy the preparation required for this major, but"]]}

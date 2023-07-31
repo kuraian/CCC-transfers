@@ -1,0 +1,13 @@
+{"away": ["CS 10A - Intro to Computer Science for Science, Mathematics, and Engineering I (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"], ["CIS 26B - Advanced C Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["CS 61 - Machine Organization and Assembly Language Programming (4.00)"], "home": [["CIS 21JA - Introduction to x86 Processor Assembly Language and Computer Architecture (4.50)", "CIS 21JB - Advanced x86 Processor Assembly Programming (4.50)"]]}
+{"away": ["MATH 9A - First-Year Calculus (4.00)", "MATH 9B - First-Year Calculus (4.00)", "MATH 9C - First-Year Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"]]}
+{"away": ["PHYS 40A - General Physics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["CS 10B - Intro to Computer Science for Science, Mathematics, and Engineering II (4.00)"], "home": [["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 28 - Object Oriented Analysis and Design (4.50)"], ["CIS 29 - Advanced C++ Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["EE 20A - Fndm Mathmatical Methods in Electrical & Comp Engineering (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EE 30A - Fundamentals of Engineering Circuit I (3.00)", "EE 30LA - Fundamentals of Engineering Circuit I Laboratory (1.00)"], "home": [["ENGR 37 - Introduction to Circuit Analysis (5.00)"]]}
+{"away": ["EE 30B - Fundamentals of Engineering Circuit II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10A - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)"]]}
+{"away": ["PHYS 40B - General Physics (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYS 40C - General Physics (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["EE 10 - Intro to Electrical Engineering (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EE 20B - Linear Methods for Engineering Analysis and Design Using MATLAB (4.00)"], "home": [["No Course Articulated"]]}

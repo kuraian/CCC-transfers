@@ -1,0 +1,2 @@
+{"away": ["PHILOS 12A - Introduction to Logic (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 25A - Ancient Philosophy (4.00)"], "home": [["No Course Articulated"]]}

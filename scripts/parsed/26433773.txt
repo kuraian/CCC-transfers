@@ -1,0 +1,3 @@
+{"away": ["CPLT 1 - Intro to Close Reading (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CPLT 17A - Masterworks of World Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CPLT 17B - Masterworks of World Literature (4.00)"], "home": [["No Course Articulated"]]}

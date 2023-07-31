@@ -1,0 +1,7 @@
+{"away": ["TFDP 20 - Production Techniques for Theatre, Film, and Television (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TFDP 99 - Introduction to the Theatre Department (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TFDP 10 - Intro to Acting (4.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)", "THEA 20B - Theory and Technique of Acting (Modern Period) (4.00)"]]}
+{"away": ["TFDP 21 - Introduction to Latina/o Cultural Production (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TFDP 22 - Shakespeare in Performance (4.00) Same-As: ENGL 18"], "home": [["No Course Articulated"]]}
+{"away": ["TFDP 50 - Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 10 - Fundamentals of Oral Communication (5.00)"]]}
+{"away": ["TFDP 66 - Screenwriting: How Movies Work (4.00) Same-As: CRWT 66, MCS 66"], "home": [["No Course Articulated"]]}

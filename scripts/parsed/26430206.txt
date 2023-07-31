@@ -1,0 +1,9 @@
+{"away": ["ECON 3 - Intro to Microeconomics (5.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"]]}
+{"away": ["POSC 10 - American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"]]}
+{"away": ["SOC 4 - Methods of Sociological Inquiry (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 5 - Statistical Analysis (5.00)"], "home": [["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STAT 4 - Elements of Data Science (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["POSC 5 - Modern Political Ideologies (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POSC 7 - Intro to Political Theory (5.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POSC 15 - Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POSC 17 - Politics of the Underdeveloped World (5.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,2 @@
+{"away": ["JWSP 1 - Beginning Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JWSP 2 - Intermediate Hebrew (5.00)"], "home": [["No Course Articulated"]]}

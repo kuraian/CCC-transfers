@@ -1,0 +1,5 @@
+{"away": ["POLI 5 - Data Analytics for the Social Sciences (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["POLI 30 - Political Inquiry (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["POLI 10 - Introduction to Political Science: American Politics (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POLI 11 - Introduction to Political Science: Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POLI 12 - Introduction to Political Science: International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}

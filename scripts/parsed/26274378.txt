@@ -1,0 +1,4 @@
+{"away": ["ETH STD 11AC - Introduction to Ethnic Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHICANO 20 - Introduction to Chicano Culture (4.00)"], "home": [["CHLX 11 - Chicanx Culture (4.00)"]]}
+{"away": ["CHICANO 40 - Introduction to Chicano Literature in English (4.00)"], "home": [["ICS 35 - Chicano/a and Latino/a Literature (4.00)"]]}
+{"away": ["CHICANO 50 - Introduction to Chicano History (4.00)"], "home": [["CHLX 12 - Chicanx and Latinx History (4.00)"]]}

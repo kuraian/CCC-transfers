@@ -1,0 +1,18 @@
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19B - Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["ECE 101 - Introduction to Electronic Circuits (5.00)"], "home": [["ENGR 37 - Introduction to Circuit Analysis (5.00)"]]}
+{"away": ["ECE 101L - Introduction to Electronic Circuits Laboratory (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 23A - Vector Calculus (5.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["AM 30 - Multivariate Calculus for Engineers (5.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["AM 10 - Mathematical Methods for Engineers I (5.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["AM 20 - Mathematical Methods for Engineers II (5.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["MATH 21 - Linear Algebra (5.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MATH 24 - Ordinary Differential Equations (5.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["PHYS 5A - Introduction to Physics I (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 5L - INTRODUCTION TO PHYSICS I LABORATORY (1.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 5C - Introduction to Physics III (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHYS 5N - INTRODUCTION TO PHYSICS III LABORATORY (1.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHYS 6A - Introductory Physics I (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"], ["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 6L - Introductory Physics I Laboratory (1.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"], ["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 6C - Introductory Physics III (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"], ["PHYS 2B - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 6N - INTRODUCTORY PHYSICS III LABORATORY (1.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"], ["PHYS 2B - General Introductory Physics (5.00)"]]}

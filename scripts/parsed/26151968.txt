@@ -1,0 +1,4 @@
+{"away": ["AM IND M10 - Introduction to American Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["POL SCI 40 - Introduction to American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"]]}
+{"away": ["STATS 12 - Introduction to Statistical Methods for Geography and Environmental Studies (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}

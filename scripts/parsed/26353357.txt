@@ -1,0 +1,15 @@
+{"away": ["HIS 50 - When Pharaohs Reigned: The History of Ancient Eqypt (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 59 - The History of the English Language (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 60 - Medical and Scientific Terminology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 61 - Classical Mythology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 62A - Classical World: Greece (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 62B - Classical World: Rome (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HAVC 50 - Ancient Mediterranean Visual Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HAVC 51 - Greek Eyes: Visual Culture and Power in the Ancient Greek World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HAVC 55 - Unclothed: The Naked Body from Antiquity to the Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIT 61M - Approaches to Classical Myth (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIT 61S - Sacred Texts (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIT 61X - Tragedy: Learning Through Suffering (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIT 80W - Captive Minds: The Literature of Pre-modern Slavery (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIT 81A - Homer's Odyssey (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIT 81D - The Prophet and the Qur'an (5.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,12 @@
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 32A - Calculus of Several Variables (4.00)", "MATH 32B - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"]]}
+{"away": ["MATH 33A - Linear Algebra and Applications (4.00)", "MATH 33B - Differential Equations (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)", "MATH 2A - Differential Equations (5.00)"]]}
+{"away": ["Listed below are the lower division preparation courses for the major"], "home": [[".  To be considered for this major, you must complete four semester/five quarters of calculus through multivariable and either linear algebra or differential equations by the end of spring before transfer. Transfer students are admitted as a Pre-Financial Actuarial Mathematics major and must apply to the Financial Actuarial Mathematics major after their"]]}
+{"away": ["first term at UCLA. All courses must be taken for a letter grade."], "home": [["For more information regarding this major and UCLA's selection process,"]]}
+{"away": ["visit https:// ww3.math.ucla.edu and https://admission.ucla.edu ."], "home": [["PLEASE NOTE: the community college courses listed below have been approved to satisfy preparation for this major at UCLA major, but"]]}
+{"away": ["they may not be exact equivalents of the UCLA courses."], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics(Macroeconomics) (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 11 - Microeconomic Theory (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MGMT 1A - Principles of Accounting: Introduction to Financial Accounting Principles (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)", "ACCT 1B - Financial Accounting II (5.00)"]]}
+{"away": ["MGMT 1B - Principles of Accounting:Introduction to Managerial Accounting Principles (4.00)"], "home": [["ACCT 1C - Managerial Accounting (5.00)"]]}

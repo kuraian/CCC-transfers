@@ -1,0 +1,1 @@
+{"away": ["LIT 1 - Literary Interpretation (5.00)"], "home": [["EWRT 1C - Literature and Composition (5.00)"]]}

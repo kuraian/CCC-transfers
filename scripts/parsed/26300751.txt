@@ -1,0 +1,93 @@
+{"away": ["ASA 001 - Historical Experience of Asian Americans (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["ASA 002 - Contemporary Issues of Asian Americans (4.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["ASA 003 - Methods in Asian American Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASA 004 - Asian American Cultural Studies (4.00)"], "home": [["ASAM 21 - Asian Pacific Americans Make Culture (4.00)"]]}
+{"away": ["AAS 010 - African-American Culture & Society (4.00)"], "home": [["AFAM 10 - An Introduction to African American Studies (4.00)"]]}
+{"away": ["AAS 012 - Introduction to African Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 015 - Introduction to African American Humanities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 016 - Verbal & Performance Arts in Africa (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 017 - Women in African Societies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 018 - Introduction to Caribbean Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 050 - Black Popular Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 051 - History of Afro American Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 052 - African Traditional Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 053 - Black California (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 080 - Introduction to Black Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 001C - American Lives Through Autobiography (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 001E - Nature & Culture in America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 005 - Technology in American Lives (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 010 - Introduction to American Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 012 - U.S. Disability Culture & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 021 - Objects & Everyday Life (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 025 - United States as a Business Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 030 - Images of America & Americans in Popular Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 055 - Food in American Culture (4.00) Same-As: FST 055"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 059 - Music & American Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 001 - Elementary Arabic 1 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 002 - Elementary Arabic 2 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 003 - Elementary Arabic 3 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 021 - Intermediate Arabic 21 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 021C - Colloquial Egyptian Arabic (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 021L - Colloquial Levantine Arabic (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 022 - Intermediate Arabic 22 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 022C - Colloquial Egyptian Arabic (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 022L - Colloquial Levantine Arabic (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 023 - Intermediate Arabic 23 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 023C - Colloquial Egyptian Arabic (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 023L - Colloquial Levantine Arabic (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 010 - Introduction to Chicana/o Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"]]}
+{"away": ["CHI 021 - Chicana/o & Latina/o Health Care Issues (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 021S - Chicana/o & Latina/o Health Care Issues (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHI 023 - Qualitative Research Methods (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 030 - United States Political Institutions & Chicanas/os (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 040 - Comparative Health: Top Leading Causes of Death (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 040S - Comparative Health: Leading Causes of Death (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHI 042 - Food Justice: Chicana/o & Indigenous Communities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 050 - Chicana & Chicano Culture (4.00)"], "home": [["CHLX 11 - Chicanx Culture (4.00)"]]}
+{"away": ["CHI 060 - Chicana & Chicano Representation in Cinema (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 065 - New Latin American Cinema (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 070 - Survey of Chicana/o Art (4.00)"], "home": [["CHLX 13 - The Chicanx and Latinx and the Arts (4.00)"]]}
+{"away": ["CHI 073 - Chicana/o Art Expression Through Silk Screen (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GSW 050 - Introduction to Critical Gender Studies (4.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["GSW 070 - Theory & History of Sexualities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 001 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 002 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 003 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 021 - Intermediate Modern Hebrew I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 022 - Intermediate Modern Hebrew II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 023 - Intermediate Modern Hebrew III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 001 - Elementary Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 002 - Elementary Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 003 - Elementary Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 021 - Intermediate Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 022 - Intermediate Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 023 - Intermediate Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 001 - Introduction to Native American Studies (4.00)"], "home": [["NAIS 12 - Ethnic Studies and the Historical Experiences of Native Americans (4.00)"]]}
+{"away": ["NAS 005 - Introduction to Native American Literature (4.00)"], "home": [["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": ["NAS 007 - Indigenous & Minority Languages (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 010 - Native American Experience (4.00)"], "home": [["NAIS 11 - Native American Contemporary Society (4.00)"]]}
+{"away": ["NAS 012 - Native American/Indigenous Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 032 - Native American Music & Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 033 - Introduction to Native American Art (4.00)"], "home": [["NAIS 13 - Survey of Native American Arts (4.00)"]]}
+{"away": ["NAS 034 - Native American Art Studio (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PER 001 - Elementary Persian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PER 002 - Elementary Persian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PER 003 - Elementary Persian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PER 021 - Intermediate Persian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PER 022 - Intermediate Persian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PER 023 - Intermediate Persian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUN 001V - Elementary Punjabi (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUN 002V - Elementary Punjabi (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUN 003V - Elementary Punjabi (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["WMS 020 - Cultural Representations of Gender (4.00)"], "home": [["WMST 31 - Women and Popular Culture (4.00)"]]}
+{"away": ["WMS 025 - Gender & Global Cinema (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["WMS 060 - Feminist Critiques of Western Thought (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["WMS 080 - Special Topics in Women's Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHI 005 - Understanding Visual Culture (4.00)"], "home": [["ARTS 1A - Introduction to the Visual Arts (4.00)"]]}
+{"away": ["ANT 013 - Scientific Method in Physical Anthropology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 030 - Introduction to Contemporary Visual Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 023 - Qualitative Research Methods (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENL 042 - Approaches to Reading (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 005 - Critical Reasoning (4.00)"], "home": [["PHIL 4 - Critical Thinking (4.00)"]]}
+{"away": ["POL 051 - Scientific Study of Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSC 041 - Research Methods in Psychology (4.00)"], "home": [["PSYC 2 - Research Methods in Psychology (6.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}

@@ -1,0 +1,8 @@
+{"away": ["BIOL 20A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["CHEM 1A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19B - Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 11A - Calculus with Applications (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 11B - Calculus with Applications (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["BME 80G - Bioethics in the 21st Century: Science, Business, and Society (5.00) Same-As: PHIL 80G"], "home": [["No Course Articulated"]]}
+{"away": ["BME 18 - Scientific Principles of Life (5.00)"], "home": [["No Course Articulated"]]}

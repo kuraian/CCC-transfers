@@ -1,0 +1,8 @@
+{"away": ["JAPN 10A - First Year Japanese I (5.00)"], "home": [["JAPN 2 - Elementary Japanese (Second Quarter) (5.00)"]]}
+{"away": ["JAPN 10B - First Year Japanese II (5.00)"], "home": [["JAPN 2 - Elementary Japanese (Second Quarter) (5.00)"]]}
+{"away": ["JAPN 10C - First Year Japanese III (5.00)"], "home": [["JAPN 3 - Elementary Japanese (Third Quarter) (5.00)"]]}
+{"away": ["JAPN 20A - Second Year Japanese I (5.00)"], "home": [["JAPN 4 - Intermediate Japanese (First Quarter) (5.00)"]]}
+{"away": ["JAPN 20B - Second Year Japanese II (5.00)"], "home": [["JAPN 5 - Intermediate Japanese (Second Quarter) (5.00)"]]}
+{"away": ["JAPN 20C - Second Year Japanese III (5.00)"], "home": [["JAPN 6 - Intermediate Japanese (Third Quarter) (5.00)"]]}
+{"away": ["HILD 10 - East Asia: The Great Tradition (4.00)"], "home": [["ASAM 42A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: HIST 19A"]]}
+{"away": ["HILD 11 - East Asia and the West (4.00)"], "home": [["ASAM 42A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: HIST 19A"]]}

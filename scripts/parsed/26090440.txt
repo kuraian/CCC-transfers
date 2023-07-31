@@ -1,0 +1,14 @@
+{"away": ["A&O SCI M71 - M71. Introduction to Computing for Geoscientists (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 10A - Introduction to Programming(C++) (5.00)"], "home": [["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 22A - Beginning Programming Methodologies in C++ (4.50)", "CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"]]}
+{"away": ["A&O SCI 90 - Introduction to Undergraduate Research in Atmospheric and Oceanic Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)", "MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"]]}
+{"away": ["MATH 32A - Calculus of Several Variables (4.00)", "MATH 32B - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)", "CHEM 20B - Chemical Energetics and Change (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["PHYSICS 1A - Physics for Scientists and Engineers: Mechanics (5.00)", "PHYSICS 1B - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields (5.00)", "PHYSICS 1C - Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)", "PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)", "PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["A&O SCI 1 - Climate Change: From Puzzles to Policy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["A&O SCI 2 - Air Pollution (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["A&O SCI 3 - Meteorology and Extreme Weather (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["A&O SCI 5 - Climates of Other Worlds (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["A&O SCI M7 - Perils of Space: Introduction to Space Weather (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 33A - Linear Algebra and Applications (4.00)", "MATH 33B - Differential Equations (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)", "MATH 2A - Differential Equations (5.00)"]]}
+{"away": ["One computer programming course (preferably Python)"], "home": [["No Course Articulated"]]}

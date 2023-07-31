@@ -1,0 +1,33 @@
+{"away": ["MATH 2A - Single-Variable Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 2B - Single-Variable Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 2D - Multivariable Calculus (4.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 2E - Multivariable Calculus (4.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 3A - Introduction to Linear Algebra (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MATH 3D - Elementary Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["PHYSICS 7C - Classical Physics (4.00)", "PHYSICS 7LC - Classical Physics Laboratory (1.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00) Admission to the Henry Samueli School of Engineering is highly competitive. The most important selection criteria is the completion of the required"]]}
+{"away": ["major preparation courses and academic performance. Required for admission: Single Variable Calculus I (C-ID MATH 210 or MATH 211)"], "home": [["Single Variable Calculus II (C-ID MATH 220 or MATH 221) or 2 semester/quarters of Single Variable Calculus Sequence (C-ID MATH 900S or"]]}
+{"away": ["910S) Multivariable Calculus (C-ID MATH 230)"], "home": [["Ordinary Differential Equations (C-ID MATH 240) or Differential Equations and Linear Algebra (C-ID MATH 910S) Introduction to Linear Algebra (C-ID MATH 250) or Differential Equations and Linear Algebra (C-ID MATH 910S)"]]}
+{"away": ["Calculus-Based Physics for Scientists and Engineers: A (C-ID PHYS 205) Calculus-Based Physics for Scientists and Engineers: B (C-ID PHYS 210) Calculus-Based Physics for Scientists and Engineers: C (C-ID PHYS 215) or Calculus-Based Physics for Scientists and Engineers: ABC (C-ID PHYS 200S)"], "home": [["General Chemistry for Science Majors Sequence A (C-ID CHEM 120S)"]]}
+{"away": ["Programming and Problem Solving in MATLAB (C-ID ENGR 220)"], "home": [["or Introduction to Programming Concepts and Methodologies for"]]}
+{"away": ["Engineers (C-ID ENGR 120) Recommended for admission/Time to degree: Statics (C-ID ENGR 130) Materials Science and Engineering (C-ID ENGR 140) Circuit Analysis (C-ID ENGR 260) + Circuit Analysis Lab (C-ID ENGR 260L) For information regarding the AP and IB examination"], "home": [["credit policies refer to the UCI General Catalogue For information regarding the UC Irvine Transfer Admission Guarantee program please visit TAG"]]}
+{"away": ["PHYSICS 7D - Classical Physics (4.00)", "PHYSICS 7LD - Classical Physics Laboratory (1.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHYSICS 7E - Classical Physics (4.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["ENGR 1A - General Chemistry for Engineers (4.00)", "CHEM 1B - General Chemistry (4.00)", "CHEM 1C - General Chemistry (4.00)", "CHEM 1LC - General Chemistry Laboratory (3.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 1A - General Chemistry (4.00)", "CHEM 1B - General Chemistry (4.00)", "CHEM 1C - General Chemistry (4.00)", "CHEM 1LC - General Chemistry Laboratory (3.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["ENGRMAE 10 - Introduction to Engineering Computations (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"], ["CIS 26B - Advanced C Programming (4.50)"], ["CIS 26BH - Advanced C Programming - HONORS (4.50)"]]}
+{"away": ["ENGRCEE 30 - Statics (4.00) Same-As: ENGR 30, ENGRMAE 30"], "home": [["ENGR 35 - Statics (4.00)"]]}
+{"away": ["ENGR 54 - Principles of Materials Science and Engineering (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGRMAE 60 - Electric Circuits (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EECS 70A - NETWORK ANALYSIS I (4.00)"], "home": [["ENGR 37 - Introduction to Circuit Analysis (5.00)"]]}
+{"away": ["MSE 65A - Thermodynamics of Materials (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MSE 65B - Diffusion and Heat Transport in Materials (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIO SCI 93 - DNA to Organisms (4.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BME 50A - Cell and Molecular Engineering (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 51A - Organic Chemistry (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["EECS 70B - Network Analysis II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGR 7A - Introduction to Engineering I (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGR 7B - Introduction to Engineering II (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGRMAE 52 - Computer-Aided Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGRMAE 80 - Dynamics (4.00) Same-As: ENGR 80, ENGRCEE 80"], "home": [["No Course Articulated"]]}
+{"away": ["PHYSICS 51A - Modern Physics (4.00)"], "home": [["PHYS 4D - Physics for Scientists and Engineers: Modern Physics (6.00)"]]}
+{"away": ["STATS 7 - Basic Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}

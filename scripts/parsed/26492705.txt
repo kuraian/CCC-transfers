@@ -1,0 +1,19 @@
+{"away": ["AHI 001A - Ancient Mediterranean Art (4.00)"], "home": [["ARTS 2A - History of Art: Europe from Prehistory through Early Christianity (4.00)"]]}
+{"away": ["AHI 001B - Medieval & Renaissance Art (4.00)"], "home": [["ARTS 2B - History of Art: Europe During the Middle Ages and the Renaissance (4.00)"]]}
+{"away": ["AHI 001C - Baroque to Modern Art (4.00)"], "home": [["ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00)", "ARTS 2D - History of Art: Europe and the United States from Post- Impressionism to the Present (4.00)"]]}
+{"away": ["AHI 001D - Arts of Asia (4.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"], ["ASAM 40 - History of Art: Arts of Asia (4.00) Same-As: ARTS 2G"]]}
+{"away": ["AHI 001DY - Arts of Asia (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["AHI 001E - Islamic Art & Architecture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHI 005 - Understanding Visual Culture (4.00)"], "home": [["ARTS 1A - Introduction to the Visual Arts (4.00)"]]}
+{"away": ["AHI 025 - Understanding Architecture (4.00)"], "home": [["ARTS 1B - Architecture Past and Present (4.00)"]]}
+{"away": ["ART 001 - Introduction to Studio Art Practice (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 002 - Beginning Drawing (5.00)"], "home": [["ARTS 4A - Beginning Drawing (4.00)"]]}
+{"away": ["ART 005 - Beginning Sculpture (5.00)"], "home": [["ARTS 37A - Sculpture (4.00)"], ["ARTS 37B - Intermediate Sculpture (4.00)"]]}
+{"away": ["ART 007 - Beginning Painting (5.00)"], "home": [["ARTS 14A - Watercolor Painting I (4.00)"], ["ARTS 15A - Acrylic Painting I (4.00)"], ["ARTS 16A - Oil Painting I (4.00)"]]}
+{"away": ["ART 008 - Beginning Ceramic Sculpture (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["ART 009 - Beginning Photography (5.00)"], "home": [["PHTG 1 - Basic Photography (3.00)"]]}
+{"away": ["ART 010D - Contemporary Art Appreciation (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 010F - Contemporary Art Appreciation (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 011 - Beginning Printmaking (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 012 - Beginning Video (5.00)"], "home": [["F/TV 20 - Beginning Video Production (4.00)"]]}
+{"away": ["ART 024 - Introduction to Experimental Video & Film (4.00)"], "home": [["F/TV 45 - History of Experimental Film/Video (4.00)"]]}

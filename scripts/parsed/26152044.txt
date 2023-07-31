@@ -1,0 +1,7 @@
+{"away": ["AN N E A 10W - Jerusalem: Holy City (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 12W - Jerusalem; Holy City (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 14W - Medicine, Magic, and Science in Ancient Times (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 15W - Women and Power in Ancient World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A M60 - Achaemenid Civilization and Empire of Alexander (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD 50A - First Civilzations (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD M50B - Origins of Judaism, Christianity, and Islam (5.00) Same-As: RELIGN M50, AN N E A M50B"], "home": [["No Course Articulated"]]}

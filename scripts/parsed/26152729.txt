@@ -1,0 +1,11 @@
+{"away": ["CLASSIC 10 - Discovering Greeks (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 20 - Discovering Romans (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GREEK 3 - Elementary Greek (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LATIN 3 - Elementary Latin (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LATIN 16 - Intensive First-Year Latin (12.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 30 - Classical Mythology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 40W - Reading Greek Literature: Writing Intensive (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 41W - Reading Roman Literature: Writing Intensive (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 42 - Cinema and Ancient World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 51A - Art and Archaeology of Ancient Greece (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASSIC 51B - Art and Archaeology of Ancient Rome (5.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,13 @@
+{"away": ["CHINESE 1A - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHINESE 1B - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHINESE 10A - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHINESE 10B - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JAPAN 1A - Elementary Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JAPAN 1B - Elementary Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JAPAN 10A - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JAPAN 10B - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["TIBETAN 1A - Elementary Tibetan (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TIBETAN 1B - Elementary Tibetan (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TIBETAN 10A - Intermediate Tibetan (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TIBETAN 10B - Intermediate Tibetan (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHINESE 51 - Chinese Thought in the Han Dynasty (4.00)"], "home": [["No Course Articulated"]]}

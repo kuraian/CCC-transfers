@@ -1,0 +1,53 @@
+{"away": ["RG ST 3 - Introduction to Asian Religious Traditions (4.00) Same-As: EACS 3"], "home": [["PHIL 11 - Asian Philosophy (4.00)"]]}
+{"away": ["RG ST 4 - Introduction to Buddhism (4.00) Same-As: EACS 5"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 5 - Introduction to Judaism, Christianity, and Islam (4.00)"], "home": [["HUMI 10 - Global Religious Perspectives: Judaism, Christianity, and Islam (4.00)"]]}
+{"away": ["RG ST 7 - Introduction to American Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 14 - Introduction to Native American Religious Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 18 - Comparing Religions (4.00)"], "home": [["HUMI 9 - Introduction to Comparative Religion (4.00)"], ["HUMI 9H - Introduction to Comparative Religion - HONORS (4.00)"]]}
+{"away": ["RG ST 19 - The Gods and Goddesses of India (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 20 - Indic Civilization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 21 - Zen Buddhism (4.00) Same-As: EACS 21"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 23 - Introduction to Chinese Buddhism (4.00) Same-As: EACS 23"], "home": [["No Course Articulated All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["religion.ucsb.edu"]]}
+{"away": ["PREPARATION FOR THE MAJOR : Two lower-division Religious Studies courses, language courses"], "home": [["Students may select 1 lower-division course from Area A and 1 lower-division courses from Area B. Alternatively, by petition students may select 2 lower-division courses from Area A, provided that they represent different cultural areas and traditions."]]}
+{"away": ["A. Introductions to Cultural Areas and Traditions"], "home": [[": RG ST 3, 4, 5, 7, 14, 18, 19, 20, 21, 23, 25, 26, 28, 30, 31, 47, 48, 61, 71, 73, 80A-B-C, 84"]]}
+{"away": ["B. Introductions to Topics in the Study of Religion"], "home": [[": RG ST 1, 2, 6, 9, 10, 12, 13, 15, 16, 24, 27, 32, 33, 34, 35, 62, 63, 74, 81, 82, 83, 85"]]}
+{"away": ["RG ST 25 - Global Catholicism Today (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 26 - Introduction to Jewish Mysticism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 28 - Gandhi: Nonviolence, Resistance, Truth (4.00) Same-As: HIST 28"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 30 - Judaism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 31 - The Religions of Tibet (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 47 - Introduction to Daoism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 48 - Self, Society, and Nature in Chinese Thought (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 61 - African Religions of the Americas (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 71 - Introduction to Asian American Religions (4.00) Same-As: AS AM 71"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 73 - Introduction to Japanese Religion: Texts, Concepts, and Representations (4.00) Same-As: JAPAN 73"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 80A - Religion and Western Civilization I: Ancient (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 80B - Religion and Western Civilization II: Medieval (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 80C - Religion and Western Civilization III: Modern (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 84 - Introduction to Islamic Civilization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 1 - Introduction to the Study of Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 2 - Islam and the West (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 6 - Islam and Modernity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 9 - Ethnicity and Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 10 - Introduction to Biblical Law (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 12 - Religious Approaches to Death (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 13 - Religion and Popular Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 15 - Religion and Psychology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 16 - Religion and Food (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 24 - Jesus in Comparative Perspective (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 27 - Varieties of Mystical Experience in the Abrahamic Religions: Judaism, Christianity, and Islam (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 32 - Contemporary Chinese Religions (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 33 - Catholic Ritual in the Middle Ages (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 34 - Saints and Miracles in the Catholic Tradition (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 35 - Introduction to Religion and Politics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 62 - Dark Goddesses and Black Madonnas (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 63 - Witches and Brujxs: Black Magic & (Afro-)Latinx Feminism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 74 - The Western Discovery of Buddhism (4.00) Same-As: EACS 74"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 81 - Modern Iran and Global Politics (4.00) Same-As: HIST 46MI"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 82 - Modern Arab Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 83 - Music and Religion (4.00)"], "home": [["No Course Articulated"]]}

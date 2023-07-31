@@ -1,0 +1,8 @@
+{"away": ["PORTGSE 25 - Advanced Portuguese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 26 - Language and Popular Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 27 - Writing Studies: Afro-Luso-Brazilian World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 46 - Brazil and Portuguese-Speaking World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Listed below are the lower division preparation courses for this major."], "home": [["To be considered for this major, you must complete the following courses by the end of spring before transfer: one year of college level coursework in the declared language OR at least one year in high school in which the primary language of instruction was the declared language. Completion of two years of college level foreign"]]}
+{"away": ["language is strongly preferred/recommended. All courses must be taken for a letter grade."], "home": [["For more information regarding this major and UCLA's transfer selection"]]}
+{"away": ["process, visit www.spanport.ucla.edu and https:// ad mission.ucla.edu ."], "home": [["PLEASE NOTE: the community college courses listed below have been approved to satisfy the preparation for this major at UCLA, but they may not be exact equivalents of the UCLA courses listed. In addition some language courses may be cross listed and available in"]]}
+{"away": ["different departments, however all"], "home": [["major preparation courses must be taken from the Spanish department"]]}

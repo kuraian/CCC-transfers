@@ -1,0 +1,5 @@
+{"away": ["LGST 10 - Introduction to Legal Process (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["PHIL 7 - Elementary Logic (5.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PHIL 9 - Introductory Symbolic Logic (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["PHIL 22 - Introduction to Ethical Theory (5.00)"], "home": [["PHIL 8 - Ethics (4.00)"]]}
+{"away": ["PHIL 24 - Introduction to Ethics: Contemporary Moral Issues (5.00)"], "home": [["No Course Articulated"]]}

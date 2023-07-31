@@ -1,0 +1,46 @@
+{"away": ["HIS 006 - Introduction to the Middle East (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 008 - History of Indian Civilization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 001 - Elementary Arabic 1 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 002 - Elementary Arabic 2 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 003 - Elementary Arabic 3 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 021 - Intermediate Arabic 21 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 022 - Intermediate Arabic 22 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 023 - Intermediate Arabic 23 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 001 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 002 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 003 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 021 - Intermediate Modern Hebrew I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 022 - Intermediate Modern Hebrew II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 023 - Intermediate Modern Hebrew III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 001 - Elementary Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 002 - Elementary Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 003 - Elementary Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 021 - Intermediate Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 022 - Intermediate Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 023 - Intermediate Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 001 - Elementary Arabic 1 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 002 - Elementary Arabic 2 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 003 - Elementary Arabic 3 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 021 - Intermediate Arabic 21 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 022 - Intermediate Arabic 22 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 023 - Intermediate Arabic 23 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHI 001E - Islamic Art & Architecture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 001 - Ancient Near East & Early Greece: 3000-500 B.C.E. (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 053B - Literature of South Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 053C - Literatures of the Islamic World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 001 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 002 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 003 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 021 - Intermediate Modern Hebrew I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 022 - Intermediate Modern Hebrew II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 023 - Intermediate Modern Hebrew III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 001 - Elementary Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 002 - Elementary Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 003 - Elementary Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 021 - Intermediate Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 022 - Intermediate Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 023 - Intermediate Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 021 - The Bible & Its Interpreters (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 023 - Introduction to Judaism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 060 - Introduction to Islam (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 065C - The Qur'an and Its Interpretation (4.00)"], "home": [["No Course Articulated"]]}

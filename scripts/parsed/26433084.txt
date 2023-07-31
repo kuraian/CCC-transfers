@@ -1,0 +1,4 @@
+{"away": ["HIST 10 - World History: Prehistory to 1500 (4.00)"], "home": [["HIST 3A - World History from Prehistory to 750 CE (4.00)"]]}
+{"away": ["HIST 15 - World History: 1500 to 1900 (4.00)"], "home": [["HIST 3B - World History from 750 to 1750 CE (4.00)"]]}
+{"away": ["HIST 20 - World History: Twentieth Century (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["HIST 17A - Intro to United States History (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)"]]}

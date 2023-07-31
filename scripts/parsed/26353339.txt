@@ -1,0 +1,12 @@
+{"away": ["PHYS 5A - Introduction to Physics I (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 5B - Introduction to Physics II (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYS 5C - Introduction to Physics III (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19B - Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 23A - Vector Calculus (5.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHYS 5D - Introduction to Physics IV (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)", "PHYS 4D - Physics for Scientists and Engineers: Modern Physics (6.00)"]]}
+{"away": ["MATH 23B - Vector Calculus (5.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHYS 5L - INTRODUCTION TO PHYSICS I LABORATORY (1.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 5M - INTRODUCTION TO PHYSICS II LABORATORY (1.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYS 5N - INTRODUCTION TO PHYSICS III LABORATORY (1.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry (5.00)", "CHEM 1M - General Chemistry Laboratory (2.00)", "CHEM 1N - General Chemistry Laboratory (2.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}

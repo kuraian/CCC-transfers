@@ -1,0 +1,30 @@
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)", "CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 118A - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118B - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118C - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12C - Organic Chemistry (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007C - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PLS 002 - Botany & Physiology of Cultivated Plants (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 021 - Application of Computers in Technology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 021V - Application of Computers in Technology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARE 015 - Population, Environment & World Agriculture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRD 020 - Food Systems (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IAD 010 - Introduction to International Agricultural Development (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 049 - Organic Crop Production Practices (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 007 - Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World\u2019s Favorite Drink (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 007V - Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 006 - Flower Power; Art & Science of Flowers & Their Uses (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 007 - Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World\u2019s Favorite Drink (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 007V - Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 007 - Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World\u2019s Favorite Drink (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 007V - Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 049 - Organic Crop Production Practices (3.00)"], "home": [["No Course Articulated"]]}

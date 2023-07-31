@@ -1,0 +1,10 @@
+{"away": ["USP 1 - History of U.S. Urban Communities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 2 - Urban World System (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 5 - Introduction to the Real Estate and Development Process (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 15 -  Applied Urban Economics for Planning and Development (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 25 - Real Estate and Development Principles and Analysis (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["MATH 10A - Calculus I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MGT 3 - Quantitative Methods in Business (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON/MGT 4 MGT 5 ECON 1 ECON 1 - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 4 - Financial Accounting (4.00) Same-As: MGT 4"], "home": [["ACCT 1A - Financial Accounting I (5.00)"], ["ACCT 1AH - Financial Accounting I - HONORS (5.00)"]]}

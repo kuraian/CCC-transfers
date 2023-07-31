@@ -1,0 +1,2 @@
+{"away": ["AFRICAM 4A - Africa: History and Culture (4.00)"], "home": [["ICS 16A - History of Africa to 1800 (4.00) Same-As: HIST 16A"]]}
+{"away": ["AFRICAM 5A - African American Life and Culture in the United States (4.00)"], "home": [["AFAM 12A - African American History to 1865 (4.00) Same-As: HIST 18A"], ["AFAM 12B - African American History Since 1865 (4.00) Same-As: HIST 18B"]]}

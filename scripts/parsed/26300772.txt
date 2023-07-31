@@ -1,0 +1,9 @@
+{"away": ["CDM 001 - Introduction to Film Studies (4.00)"], "home": [["F/TV 1 - Introduction to Cinematic Arts (4.00)"]]}
+{"away": ["CDM 002 - Introduction to Technocultural Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CDM 003 - Media Archaeology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CDM 012 - Introduction to Media Computation (4.00) Same-As: ECS 012"], "home": [["No Course Articulated"]]}
+{"away": ["CDM 020 - Filmmaking Foundations (5.00)"], "home": [["F/TV 20 - Beginning Video Production (4.00)"]]}
+{"away": ["CDM 072 - Introduction to Games (4.00) Same-As: ENL 072"], "home": [["No Course Articulated"]]}
+{"away": ["CDM 041A - History of Cinema from 1895-1945 (4.00)"], "home": [["F/TV 2A - History of the Cinema (1895-1950) (4.00)"], ["F/TV 2AW - History of Cinema (1895-1950) (4.50)"], ["F/TV 2AWH - History of Cinema (1895-1950) - HONORS (4.50)"]]}
+{"away": ["CDM 041B - History of Cinema from 1945-Present (4.00)"], "home": [["F/TV 2B - History of Cinema (1950-Present) (4.00)"], ["F/TV 2BW - History of Cinema (1950-Present) (4.50)"], ["F/TV 2BWH - History of Cinema (1950-Present) - HONORS (4.50)"]]}
+{"away": ["CTS 040A - Media History 1, Guttenberg to Oppenheimer (4.00) Same-As: STS 040A"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,16 @@
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["ENL 003 - Introduction to Literature (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": [""], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1AS - Intensive Composition and Reading Stretch: First Quarter (5.00)", "EWRT 1AT - Intensive Composition and Reading Stretch: Second Quarter (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 003 - Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}

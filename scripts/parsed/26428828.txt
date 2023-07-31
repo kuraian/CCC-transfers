@@ -1,0 +1,86 @@
+{"away": [], "home": [["All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["www.history.ucsb.edu"]]}
+{"away": ["PREPARATION FOR THE MAJOR:"], "home": [["A. One of the following three sequences: History 2A (or 4A), 2B, 2C; History 4A (or 2A), 4B, 4C; History 17A, 17B, 17C"]]}
+{"away": ["B. History 9"], "home": [["C. Four lower-division quarter units (one course) selected from any historical field in History"]]}
+{"away": ["Breadth Requirement"], "home": [[": The breadth requirement may be fulfilled at the lower-division and/or upper-division level, and the same course may fulfill a chronological and regional requirement simultaneously. Articulated community college courses are all lower-division, so only the lower-division options are listed here. There are many upper-division options at UCSB. The breadth requirement can be fulfilled prior to transfer, or it can be partially"]]}
+{"away": ["fulfilled prior to transfer and completed after transfer. Breadth Requirement Part 1"], "home": [["- Three courses focusing before 1800 selected from the following courses: History 2A, 2B, 4A, 4B, 15, 17A, 46A, 49A, 87"]]}
+{"away": ["Breadth Requirement Part 2"], "home": [["- At least one course in at least four of the following six categories:"]]}
+{"away": ["A. Africa and the Middle East : History 46A, 46B, 46MI, 49A, 49B, 49C B. Asia : History 25, 28, 80, 87, 88 C. Europe : History 4A, 4B, 4C, 15, 20 D. Latin America : History 8, 56 E. United States : History 17A, 17B, 17C, 20 F. World History and Comparative History"], "home": [[": History 2A, 2B, 2C, 15, 28, 46A, 46B, 49A, 49B, 49C, 74"]]}
+{"away": ["HIST 2A - World History (4.00)", "HIST 2B - World History (4.00)", "HIST 2C - World History (4.00)"], "home": [["HIST 3A - World History from Prehistory to 750 CE (4.00)", "HIST 3B - World History from 750 to 1750 CE (4.00)", "HIST 3C - World History from 1750 CE to the Present (4.00)"], ["HIST 3AH - World History from Prehistory to 750 CE - HONORS (4.00)", "HIST 3BH - World History from 750 to 1750 CE - HONORS (4.00)", "HIST 3CH - World History from 1750 CE to the Present - Honors (4.00)"]]}
+{"away": ["HIST 4A - The Ancient Mediterranean (4.00)"], "home": [["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00)"], ["HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIST 2B - World History (4.00)"], "home": [["HIST 3B - World History from 750 to 1750 CE (4.00)"], ["HIST 3BH - World History from 750 to 1750 CE - HONORS (4.00)"]]}
+{"away": ["HIST 2C - World History (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"], ["HIST 3CH - World History from 1750 CE to the Present - Honors (4.00)"]]}
+{"away": ["HIST 4A - The Ancient Mediterranean (4.00)", "HIST 4B - Medieval and Early Modern Europe (4.00)", "HIST 4C - Modern Europe (4.00)"], "home": [["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00)", "HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)", "HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"], ["HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)", "HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)", "HIST 6CH - History of Western Civilization: 1750 C.E. to Present - HONORS (4.00)"]]}
+{"away": ["HIST 2A - World History (4.00)"], "home": [["HIST 3A - World History from Prehistory to 750 CE (4.00)", "HIST 3B - World History from 750 to 1750 CE (4.00)"], ["HIST 3AH - World History from Prehistory to 750 CE - HONORS (4.00)", "HIST 3BH - World History from 750 to 1750 CE - HONORS (4.00)"]]}
+{"away": ["HIST 4B - Medieval and Early Modern Europe (4.00)"], "home": [["HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"], ["HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIST 4C - Modern Europe (4.00)"], "home": [["HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"], ["HIST 6CH - History of Western Civilization: 1750 C.E. to Present - HONORS (4.00)"]]}
+{"away": ["HIST 17A - The American People (4.00)", "HIST 17B - The American People (4.00)", "HIST 17C - The American People (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)", "HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"]]}
+{"away": ["HIST 9 - Historical Investigations: Methods and Skills (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 5 - The History of the Present (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 7 - Great Issues in the History of Public Policy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8 - Introduction to History of Latin America (4.00)"], "home": [["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A", "HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B"], ["ICS 38A - Colonial Latin American History (4.00) Same-As: HIST 7A", "ICS 38B - Modern Latin American History (4.00) Same-As: HIST 7B"]]}
+{"away": ["HIST 8A - Latin American History: Pre-Columbian and Colonial Periods (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8B - Latin American History: Independence and National Period (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 11A - History of America's Racial and Ethnic Minorites (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 11B - History of America's Racial and Ethnic Minorites (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 15 - Medieval Worlds (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 20 - Science and the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 22 - Technology and the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 25 - Violence and the Japanese State (4.00) Same-As: JAPAN 25"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 28 - Gandhi: Nonviolence, Resistance, Truth (4.00) Same-As: RG ST 28"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46A - The Middle East from Muhammad to the Nineteenth Century (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46B - The Middle East: From the Nineteenth Century to the Present (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46MI - Modern Iran and Global Politics (4.00) Same-As: RG ST 81"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 49A - Survey of African History (4.00) Same-As: BL ST 49A"], "home": [["HIST 16A - History of Africa to 1800 (4.00) Same-As: ICS 16A"], ["ICS 16A - History of Africa to 1800 (4.00) Same-As: HIST 16A"]]}
+{"away": ["HIST 49B - Survey of African History (4.00) Same-As: BL ST 49B"], "home": [["HIST 16B - History of Africa From 1800 to the Present (4.00) Same-As: ICS 16B"], ["ICS 16B - History of Africa From 1800 to the Present (4.00) Same-As: HIST 16B"]]}
+{"away": ["HIST 49C - Survey of African History (4.00) Same-As: BL ST 49C"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 56 - Introduction to Mexican History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 74 - Poverty, Inequality and Social Justice in Historical and Global Context (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 80 - Chinese Civilization (4.00) Same-As: EACS 80"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 87 - Japanese History Through Art and Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 88 - Survey of South Asian History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 2A - World History (4.00)"], "home": [["HIST 3A - World History from Prehistory to 750 CE (4.00)", "HIST 3B - World History from 750 to 1750 CE (4.00)"], ["HIST 3AH - World History from Prehistory to 750 CE - HONORS (4.00)", "HIST 3BH - World History from 750 to 1750 CE - HONORS (4.00)"]]}
+{"away": ["HIST 2B - World History (4.00)"], "home": [["HIST 3B - World History from 750 to 1750 CE (4.00)"], ["HIST 3BH - World History from 750 to 1750 CE - HONORS (4.00)"]]}
+{"away": ["HIST 4A - The Ancient Mediterranean (4.00)"], "home": [["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00)"], ["HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIST 4B - Medieval and Early Modern Europe (4.00)"], "home": [["HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"], ["HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIST 15 - Medieval Worlds (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 17A - The American People (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)"]]}
+{"away": ["HIST 46A - The Middle East from Muhammad to the Nineteenth Century (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 49A - Survey of African History (4.00) Same-As: BL ST 49A"], "home": [["HIST 16A - History of Africa to 1800 (4.00) Same-As: ICS 16A"], ["ICS 16A - History of Africa to 1800 (4.00) Same-As: HIST 16A"]]}
+{"away": ["HIST 87 - Japanese History Through Art and Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46A - The Middle East from Muhammad to the Nineteenth Century (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46B - The Middle East: From the Nineteenth Century to the Present (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46MI - Modern Iran and Global Politics (4.00) Same-As: RG ST 81"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 49A - Survey of African History (4.00) Same-As: BL ST 49A"], "home": [["HIST 16A - History of Africa to 1800 (4.00) Same-As: ICS 16A"], ["ICS 16A - History of Africa to 1800 (4.00) Same-As: HIST 16A"]]}
+{"away": ["HIST 49B - Survey of African History (4.00) Same-As: BL ST 49B"], "home": [["HIST 16B - History of Africa From 1800 to the Present (4.00) Same-As: ICS 16B"], ["ICS 16B - History of Africa From 1800 to the Present (4.00) Same-As: HIST 16B"]]}
+{"away": ["HIST 49C - Survey of African History (4.00) Same-As: BL ST 49C"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 25 - Violence and the Japanese State (4.00) Same-As: JAPAN 25"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 28 - Gandhi: Nonviolence, Resistance, Truth (4.00) Same-As: RG ST 28"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 80 - Chinese Civilization (4.00) Same-As: EACS 80"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 87 - Japanese History Through Art and Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 88 - Survey of South Asian History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 4A - The Ancient Mediterranean (4.00)"], "home": [["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00)"], ["HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIST 4B - Medieval and Early Modern Europe (4.00)"], "home": [["HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"], ["HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIST 4C - Modern Europe (4.00)"], "home": [["HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"], ["HIST 6CH - History of Western Civilization: 1750 C.E. to Present - HONORS (4.00)"]]}
+{"away": ["HIST 15 - Medieval Worlds (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 20 - Science and the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8 - Introduction to History of Latin America (4.00)"], "home": [["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A", "HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B"], ["ICS 38A - Colonial Latin American History (4.00) Same-As: HIST 7A", "ICS 38B - Modern Latin American History (4.00) Same-As: HIST 7B"]]}
+{"away": ["HIST 56 - Introduction to Mexican History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 17A - The American People (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)"]]}
+{"away": ["HIST 17B - The American People (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}
+{"away": ["HIST 17C - The American People (4.00)"], "home": [["HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"]]}
+{"away": ["HIST 20 - Science and the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 2A - World History (4.00)"], "home": [["HIST 3A - World History from Prehistory to 750 CE (4.00)", "HIST 3B - World History from 750 to 1750 CE (4.00)"], ["HIST 3AH - World History from Prehistory to 750 CE - HONORS (4.00)", "HIST 3BH - World History from 750 to 1750 CE - HONORS (4.00)"]]}
+{"away": ["HIST 2B - World History (4.00)"], "home": [["HIST 3B - World History from 750 to 1750 CE (4.00)"], ["HIST 3BH - World History from 750 to 1750 CE - HONORS (4.00)"]]}
+{"away": ["HIST 2C - World History (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"], ["HIST 3CH - World History from 1750 CE to the Present - Honors (4.00)"]]}
+{"away": ["HIST 15 - Medieval Worlds (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 28 - Gandhi: Nonviolence, Resistance, Truth (4.00) Same-As: RG ST 28"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46A - The Middle East from Muhammad to the Nineteenth Century (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 46B - The Middle East: From the Nineteenth Century to the Present (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 49A - Survey of African History (4.00) Same-As: BL ST 49A"], "home": [["HIST 16A - History of Africa to 1800 (4.00) Same-As: ICS 16A"], ["ICS 16A - History of Africa to 1800 (4.00) Same-As: HIST 16A"]]}
+{"away": ["HIST 49B - Survey of African History (4.00) Same-As: BL ST 49B"], "home": [["HIST 16B - History of Africa From 1800 to the Present (4.00) Same-As: ICS 16B"], ["ICS 16B - History of Africa From 1800 to the Present (4.00) Same-As: HIST 16B"]]}
+{"away": ["HIST 49C - Survey of African History (4.00) Same-As: BL ST 49C"], "home": [["No Course Articulated"]]}

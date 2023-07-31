@@ -1,0 +1,10 @@
+{"away": ["LING 20 - Introduction to Linguistics Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31AL - Differential and Integral Calculus Laboratory (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 61 - Introduction to Discrete Structures (4.00)"], "home": [["MATH 22 - Discrete Mathematics (5.00)"]]}
+{"away": ["MATH 70 - Introduction to Probability (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM SCI 31 - Introduction to Computer Science I (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 22BH - Intermediate Programming Methodologies in C++ - HONORS (4.50)"], ["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 29 - Advanced C++ Programming (4.50)"]]}
+{"away": [""], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": ["COM SCI 33 - Introduction to Computer Organization (5.00)"], "home": [["CIS 21JA - Introduction to x86 Processor Assembly Language and Computer Architecture (4.50)"]]}
+{"away": ["COM SCI 35L - Software Construction Laboratory (4.00)"], "home": [["No Course Articulated"]]}

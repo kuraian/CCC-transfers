@@ -1,0 +1,20 @@
+{"away": ["MCS 1 - Intro to Media and Cultural Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 2 - Intro to Immersive Media (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 4 - Intro to Moving Images: Film, Video, and New Media (5.00) Same-As: ART 4"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 5 - Media Studies: Theory and Practice (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 10 - Intro to Cultural Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 15 - Intro to Television Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 20 - Intro to Film Studies (4.00)"], "home": [["F/TV 2A - History of the Cinema (1895-1950) (4.00)"]]}
+{"away": ["MCS 23 - Intro to Media Art (4.00) Same-As: AHS 20"], "home": [["F/TV 10 - Introduction to Electronic Media (4.00)"]]}
+{"away": ["MCS 6 - Intro to Contemporary Critical Issues in Art (4.00) Same-As: ART 6"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 9 - Music in Movies and TV (4.00) Same-As: MUS 7"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 15 - Intro to Television Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 21 - Intro to Film, Literature and Culture (4.00) Same-As: CPLT 21"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 22 - Introduction to Japanese Film (4.00) Same-As: AST 22, JPN 22"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 42 - Introduction to German Cinema (4.00) Same-As: GER 45"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 43 - Soviet Cinema (4.00) Same-As: RUSN 45"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 44 - Italian Cinema (4.00) Same-As: ITAL 45"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 45 - French Cinema (4.00) Same-As: FREN 45"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 46 - Introduction to Latin American Film (5.00) Same-As: SPN 46"], "home": [["No Course Articulated"]]}
+{"away": ["MCS 47 - Intro to Korean Film (4.00) Same-As: KOR 47, AST 47"], "home": [["ASAM 41 - Introduction to Korean Popular Culture (4.00) Same-As: HUMI 13"]]}
+{"away": ["MCS 49 - Introduction to Vietnamese and Diasporic Film Culture (4.00) Same-As: AST 64, VNM 64, SEAS 64"], "home": [["No Course Articulated"]]}

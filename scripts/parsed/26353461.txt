@@ -1,0 +1,6 @@
+{"away": ["Africa and its Diaspora"], "home": [["No Course Articulated"]]}
+{"away": ["Asia and its Diaspora"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40 ASAM 40 - History of Art: Arts of Asia (4.00) Same-As: ARTS 2G"]]}
+{"away": ["Europe and the Americas"], "home": [["ARTS 1B - Architecture Past and Present (4.00) ARTS 2B - History of Art: Europe During the Middle Ages and the Renaissance (4.00) ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00) ARTS 2D - History of Art: Europe and the United States from Post- Impressionism to the Present (4.00) ARTS 2F - History of Art: Multicultural Arts in the United States (4.00) Same-As: CETH 13 CETH 13 - History of Art: Multicultural Arts in the United States (4.00) Same-As: ARTS 2F"]]}
+{"away": ["Mediterranean"], "home": [["ARTS 2A - History of Art: Europe from Prehistory through Early Christianity (4.00)"]]}
+{"away": ["Native Americas"], "home": [["ARTS 2H - History of Art: Native Arts of Mesoamerica and the Andes (4.00) Same-As: INTL 21 INTL 21 - History of Art: Native Arts of Mesoamerica and the Andes (4.00) Same-As: ARTS 2H NAIS 13 - Survey of Native American Arts (4.00)"]]}
+{"away": ["Oceania and its Diaspora"], "home": [["No Course Articulated"]]}

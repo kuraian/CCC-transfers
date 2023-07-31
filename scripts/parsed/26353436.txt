@@ -1,0 +1,6 @@
+{"away": ["EART 5 - California Geology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EART 5L - California Geology Laboratory (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EART 10 - Geologic Principles (5.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["EART 10L - Geologic Principles Laboratory (1.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["EART 20 - Environmental Geology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EART 20L - Environmental Geology Laboratory (1.00)"], "home": [["No Course Articulated"]]}

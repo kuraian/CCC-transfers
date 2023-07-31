@@ -1,0 +1,35 @@
+{"away": ["CHEM 1A - General Chemistry (4.00)", "CHEM 1B - General Chemistry (4.00)", "CHEM 1C - General Chemistry (4.00)", "CHEM 1LC - General Chemistry Laboratory (3.00)", "CHEM 1LD - General Chemistry Laboratory (3.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["BIO SCI 93 - DNA to Organisms (4.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIO SCI 94 - Organisms to Ecosystems (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00) Junior-level applicants with the highest grades overall who satisfactorily complete lower-division requirements will be given preference for admission"]]}
+{"away": ["to the major. Required for admission : One year of general chemistry with laboratory, and One year of courses equivalent to UCI's BIO SCI 93 & BIO SCI 94 NOTE"], "home": [[": After matriculation, all courses required for Public Health majors must be successfully completed at UCI."]]}
+{"away": ["Important: Articulation of General Chemistry is based on the completion of the"], "home": [["entire year. Students wishing information on course-to-course equivalencies (semester to quarter) should contact the Physical Sciences Student Affairs Office at: pssazot@uci.edu ."]]}
+{"away": ["Important:"], "home": [["Students have two options for completing the Mathematics Requirement before enrolling at UCI:"]]}
+{"away": ["1) One semester of Calculus"], "home": [["and one semester of Statistics"]]}
+{"away": ["Two quarters of Calculus"], "home": [["and one quarter of Statistics"]]}
+{"away": ["NOTE"], "home": [[": In fulfillment of the requirements below, a single course may be used only once."]]}
+{"away": ["For information regarding the AP and IB examination"], "home": [["credit policies refer to the UCI General Catalogue. For more information regarding the UC Irvine Transfer Admission Guarantee Program, please visit TAG"]]}
+{"away": ["PUBHLTH 1 - Principles of Public Health (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUBHLTH 2 - Case Studies in Public Health Practice (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIO SCI 97 - Genetics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIO SCI 98 - Biochemistry (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIO SCI 99 - Molecular Biology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 51A - Organic Chemistry (4.00)", "CHEM 51LB - Organic Chemistry Laboratory (3.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHEM 51B - Organic Chemistry (4.00)", "CHEM 51C - Organic Chemistry (4.00)", "CHEM 51LC - Organic Chemistry Laboratory (3.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)", "CHEM 12B - Organic Chemistry (5.00)", "CHEM 12C - Organic Chemistry (5.00)"]]}
+{"away": ["Public Health Sciences Mathematics Requirement"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "MATH 10 - Introductory Statistics (5.00)"], ["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)", "MATH 10 - Introductory Statistics (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)", "MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)", "PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["ANTHRO 2A - Introduction to Sociocultural Anthropology (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ANTHRO 2B - Introduction to Biological Anthropology (4.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"], ["ANTH 1H - Physical Anthropology - HONORS (4.00)"]]}
+{"away": ["ANTHRO 2C - Introduction to Archaeology (4.00)"], "home": [["ANTH 3 - Introduction to Archaeology (4.00)"], ["ANTH 4 - World Prehistory (4.00)"]]}
+{"away": ["ANTHRO 2D - Introduction to Language and Culture (4.00) Same-As: LSCI 68"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["ANTHRO 41A - Global Cultures and Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 1 - Introduction to Economics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"], ["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 13 - Global Economy (4.00) Same-As: INTL ST 13"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 20A - Basic Economics I (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 20B - Basic Economics II (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["UPPP 8 - Introduction to Environmental Analysis and Design (4.00)"], "home": [["E S 1 - Introduction to Environmental Studies (4.00)"]]}
+{"away": ["POL SCI 31A - Introduction to Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL SCI 51A - Introduction to Politics Around the World (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["PSCI 9 - Introduction to Psychology (4.00) Same-As: PSYCH 7A"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["SOCIOL 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCIOL 2 - Global and International Sociology (4.00)"], "home": [["SOC 5 - Sociology of Globalization and Social Change (4.00) Same-As: INTL 8"]]}
+{"away": ["SOCIOL 3 - Introduction to Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["INTL ST 11 - Global Cultures and Society (4.00) Same-As: ANTHRO 41A"], "home": [["No Course Articulated"]]}

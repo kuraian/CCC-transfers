@@ -1,0 +1,7 @@
+{"away": ["MATH 4 - Intro to College Math for Business and Social Sciences (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 5A - Principles of Calculus I (5.00)"], "home": [["MATH 31 - Precalculus I (5.00)", "MATH 32 - Precalculus II (5.00)"]]}
+{"away": ["MATH 9A - First-Year Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 22 - Calculus for Business (5.00)"], "home": [["MATH 12 - Introductory Calculus for Business and Social Science (5.00)"]]}
+{"away": ["PSYC 1 - INTRODUCTORY PSYCHOLOGY (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYC 2 - Introductory Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PSYC 11 - Psychological Methods: Statistical Procedures (5.00)"], "home": [["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}

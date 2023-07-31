@@ -1,0 +1,61 @@
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["GEL 001 - The Earth (4.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017C - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MGT 011A - Elementary Accounting (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)"], ["ACCT 1AH - Financial Accounting I - HONORS (5.00)"]]}
+{"away": ["PHY 001A - Principles of Physics (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 001B - Principles of Physics (3.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["TAE  030 - Mobile Communication & Computing Technologies for Agriculture & the Environment (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 118A - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118B - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118C - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12C - Organic Chemistry (5.00)"]]}
+{"away": ["DES 040A -  Energy, Materials, & Design Over Time (4.00) Same-As: SAS 043"], "home": [["No Course Articulated"]]}
+{"away": ["DES 077 - Introduction to Structural Design for Fashion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007C - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["SOC 002 - Self & Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["PHI 013G - Minds, Brains, & Computers with Discussion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 002 - Feeding the World: Influences on the Global Food Supply (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 008 - Water Quality at Risk (3.00) Same-As: ESM 008"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 009 - Crisis in the Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 010 - Water, Power, Society (3.00) Same-As: HYD 010"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 012 -  Plants & Society (4.00) Same-As: PLS 012"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 014 - Forests & Society (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 020 - Genetics & Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 025 - Global Climate Change: Convergence of Biological, Geophysical, & Social Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 015 - Introductory Horse Husbandry (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 041 - Domestic Animal Production (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 041L - Domestic Animal Production Laboratory (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 042 - Introductory Companion Animal Biology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["PLS 002 - Botany & Physiology of Cultivated Plants (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ATM 005 - Global Climate Change (3.00)"], "home": [["MET 12 - Introduction to Climate Change (5.00)"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["ESM 008 - Water Quality at Risk (3.00) Same-As: SAS 008"], "home": [["No Course Articulated"]]}
+{"away": ["ESP 001 - Environmental Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 018 - Energy & the Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 018V - Energy & the Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LDA 003 - Sustainable Development: Theory & Practice (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 010C - Physics of California (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 010CY - Physics of California (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012B - Climate Change & Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 012 -  Plants & Society (4.00) Same-As: PLS 012"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 025 - Global Climate Change: Convergence of Biological, Geophysical, & Social Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 025V - Global Climate Change: Convergence of Biological, Geophysical, & Social Sciences (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SAS 043 -  Energy, Materials, & Design Over Time (4.00) Same-As: DES 040A"], "home": [["No Course Articulated"]]}
+{"away": ["SSC 010 - Soils in Our Environment (3.00)"], "home": [["No Course Articulated"]]}

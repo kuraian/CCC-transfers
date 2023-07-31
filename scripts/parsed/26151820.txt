@@ -1,0 +1,8 @@
+{"away": ["ASIA AM 10 - History of Asian Americans (5.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"], ["NAIS 31 - Ethnic Studies: Native Hawaiian and Pacific Islander Experiences (4.00)"]]}
+{"away": ["ASIA AM 10W - History of Asian Americans (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 20 - Contemporary Asian American Communities (5.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["ASIA AM 20W - Contemporary Asian American Communities (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 30 - Asian American Literature and Culture (5.00)"], "home": [["ELIT 24 - Asian Pacific American Literature (4.00) Same-As: ASAM 20"], ["ASAM 20 - Asian Pacific American Literature (4.00) Same-As: ELIT 24"]]}
+{"away": ["ASIA AM 40 - Asian American Movement (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 40W - Asian American Movement (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 50 - Asian American Women (5.00)"], "home": [["No Course Articulated"]]}

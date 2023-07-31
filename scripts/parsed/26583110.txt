@@ -1,0 +1,18 @@
+{"away": ["MST 020A - Early Medieval Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MST 020B - The Culture of the High Middle Ages (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AHI 001B - Medieval & Renaissance Art (4.00)"], "home": [["ARTS 2B - History of Art: Europe During the Middle Ages and the Renaissance (4.00)"]]}
+{"away": ["AHI 001C - Baroque to Modern Art (4.00)"], "home": [["ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00)", "ARTS 2D - History of Art: Europe and the United States from Post- Impressionism to the Present (4.00)"]]}
+{"away": ["AHI 001E - Islamic Art & Architecture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 010A - Master Authors in World Literature: Gilgamesh, Ramayana, Beowulf, Nibelungenlied (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 010B - Master Authors in World Literature: Metamorphoses, Decameron, Arabian Nights, Canterbury Tales (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 010C - Master Authors in World Literature: Chanson de Roland, El Cid, Igor\u2019s Campaign, Morte D\u2019Arthur (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 010D - Master Authors in World Literature: Sakuntala, Tristan & Isolde, Aucassin & Nicolette, Gawain (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 010E - Master Authors in World Literature: Swift, Rabelais, La Celestina, Simplicissimus (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENL 010A - Literatures in English I: To 1700 (4.00)"], "home": [["ELIT 46A - Major British Writers (Medieval and Renaissance) (4.00)"], ["ELIT 46AH - Major British Writers (Medieval and Renaissance) - HONORS (4.00)"]]}
+{"away": ["GER 048 - Myth & Saga in the Germanic Cultures (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 004A - History of Western Civilization (4.00)"], "home": [["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00)", "HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"], ["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00)", "HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)"], ["HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)", "HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"], ["HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)", "HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)"]]}
+{"away": ["HIS 004B - History of Western Civilization (4.00)"], "home": [["HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"], ["HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)"]]}
+{"away": ["HUM 001 - Humanities Forum (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HUM 009 - Don Quixote & the Modern World (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 021 - Philosophical Classics of the Ancient Era (4.00)"], "home": [["PHIL 20A - History of Western Philosophy: Ancient Greece (4.00)"]]}

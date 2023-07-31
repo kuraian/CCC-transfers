@@ -1,0 +1,7 @@
+{"away": ["SOC 1 - Intro to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 3 - Theoretical Perspectives in Sociology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 4 - Methods of Sociological Inquiry (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 5 - Statistical Analysis (5.00)"], "home": [["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["BUS 10 - Introduction to Business (4.00)"], "home": [["BUS 10 - Introduction to Business (5.00)"]]}
+{"away": ["BUS 20 - Financial Accounting and Reporting (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)"]]}
+{"away": ["CS 8 - Intro to Computing (4.00)"], "home": [["CIS 3 - Business Information Systems (4.50)"]]}

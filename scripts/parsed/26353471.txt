@@ -1,0 +1,32 @@
+{"away": ["CHEM 1A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 1B - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 1C - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 8A - Organic Chemistry (5.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["BIOL 20A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIOL 20L - Experimental Biology Laboratory (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIOE 20B - Development and Physiology (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["MATH 11A - Calculus with Applications (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 11B - Calculus with Applications (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19B - Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["STAT 7 - Statistical Methods for the Biological, Environmental, and Health Sciences (5.00)", "STAT 7L - Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 8B - Organic Chemistry (5.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["CHEM 8L - Organic Chemistry Laboratory (2.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHEM 1M - General Chemistry Laboratory (2.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 1N - General Chemistry Laboratory (2.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["GCH 1 - Foundations for Global and Community Health (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTH 2 - Introduction to Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["CMMU 10 - Introduction to Community Activism (5.00)"], "home": [["ICS 17 - Critical Consciousness and Social Change (4.00)"], ["ICS 17H - Critical Consciousness and Social Change - HONORS (4.00)"], ["ICS 19 - Making a Difference: Transforming Relations of Nature, Community, and Power (4.00)"], ["ICS 25 - Grassroots Democracy: Race, Politics and the American Promise (4.00) Same-As: POLI 15"], ["POLI 15 - Grassroots Democracy: Race, Politics and the American Promise (4.00) Same-As: ICS 25"], ["ICS 27 - Grassroots Democracy: Leadership and Power (4.00) Same-As: POLI 17"], ["POLI 17 - Grassroots Democracy: Leadership and Power (4.00) Same-As: ICS 27"]]}
+{"away": ["CSE 80A - Universal Access: Disability, Technology, and Society (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENVS 25 - Environmental Policy and Economics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 10 - Feminisms of/and the Global South (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 30 - Feminism and Science (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 31 - Disability Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 40 - Sexuality and Globalization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 41 - Trans Gender Bodies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 17 - U.S. and the World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 20 - American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POLI 61 - Politics of Social Policy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYC 1 - Introduction to Psychology (5.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["SOCY 1 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCY 10 - Issues and Problems in American Society (5.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}

@@ -1,0 +1,6 @@
+{"away": ["ECON 1 - Principles of Economics(Microeconomics) (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics(Macroeconomics) (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 11 - Microeconomic Theory (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MGMT 1A - Principles of Accounting: Introduction to Financial Accounting Principles (4.00) MGMT 1B - Principles of Accounting:Introduction to Managerial Accounting Principles (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00) ACCT 1B - Financial Accounting II (5.00)", "ACCT 1C - Managerial Accounting (5.00)"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00) MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1A - Calculus (5.00) MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00) Beginning Summer 2020, Completion of Math 1B +1C are required to receive credit for UCLA's Math 31B"]]}
+{"away": ["ECON 41 - Probability and Statistics for Economists (4.00)"], "home": [["No Course Articulated"]]}

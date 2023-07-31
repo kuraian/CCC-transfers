@@ -1,0 +1,10 @@
+{"away": ["ART 20G - Introduction to Print Media and Drawing (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 20H - Introduction to Sculpture and Public Art (5.00)"], "home": [["ARTS 37A - Sculpture (4.00)"], ["ARTS 37B - Intermediate Sculpture (4.00)"], ["ARTS 37C - Advanced Sculpture (4.00)"]]}
+{"away": ["ART 20I - Introduction to Photography (5.00)"], "home": [["PHTG 1 - Basic Photography (3.00)"], ["PHTG 2 - Intermediate Photography (3.00)"], ["PHTG 3 - Advanced Photography (3.00)"], ["PHTG 4 - Introduction to Digital Photography (3.00)"], ["PHTG 5 - Intermediate Digital Photography (3.00)"], ["PHTG 6 - Photography Production Laboratory (2.00)"]]}
+{"away": ["ART 20J - Introduction to Drawing and Painting (5.00)"], "home": [["ARTS 15A - Acrylic Painting I (4.00)"], ["ARTS 15B - Acrylic Painting II (4.00)"], ["ARTS 15C - Acrylic Painting III (4.00)"], ["ARTS 16A - Oil Painting I (4.00)"], ["ARTS 16B - Oil Painting II (4.00)"], ["ARTS 16C - Oil Painting III (4.00)"]]}
+{"away": ["ART 20K - Introduction to New Media and Digital Artmaking (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 20L - Introduction to Drawing (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 10D - 2D Foundation (5.00)"], "home": [["ARTS 8 - Two-Dimensional Design (4.00)"]]}
+{"away": ["ART 10E - 3D Foundation (5.00)"], "home": [["ARTS 10A - Three-Dimensional Design (4.00)"]]}
+{"away": ["ART 10F - 4D Foundation (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 80T - Digital Tools for Contemporary Art Practice (5.00)"], "home": [["No Course Articulated"]]}

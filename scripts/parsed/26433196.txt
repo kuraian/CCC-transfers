@@ -1,0 +1,8 @@
+{"away": ["HIST 10 - World History: Prehistory to 1500 (4.00)"], "home": [["HIST 3A - World History from Prehistory to 750 CE (4.00)"]]}
+{"away": ["HIST 15 - World History: 1500 to 1900 (4.00)"], "home": [["HIST 3B - World History from 750 to 1750 CE (4.00)"]]}
+{"away": ["HIST 20 - World History: Twentieth Century (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["HIST 17A - Intro to United States History (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)"]]}
+{"away": ["HIST 17B - Intro to United States History (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"]]}
+{"away": ["BUS 10 - Introduction to Business (4.00)"], "home": [["BUS 10 - Introduction to Business (5.00)"]]}
+{"away": ["BUS 20 - Financial Accounting and Reporting (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)"]]}
+{"away": ["CS 8 - Intro to Computing (4.00)"], "home": [["CIS 3 - Business Information Systems (4.50)"]]}

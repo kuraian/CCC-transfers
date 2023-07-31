@@ -1,0 +1,3 @@
+{"away": ["EDUC 10 - Introduction to Educational Issues and Scholarship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 11 - Education, Equality, and Future of American Society: Problems, Prospects, and Policies. (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 35 - Introduction to Inquiry and Research in Education (5.00)"], "home": [["No Course Articulated"]]}

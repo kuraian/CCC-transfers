@@ -1,0 +1,2 @@
+{"away": ["ANTH 1 - Introduction to Biological Anthropology (5.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"], ["ANTH 1H - Physical Anthropology - HONORS (4.00)"]]}
+{"away": ["ANTH 2 - Introduction to Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}

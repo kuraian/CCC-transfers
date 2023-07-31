@@ -1,0 +1,27 @@
+{"away": ["GCH 1 - Foundations for Global and Community Health (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTH 1 - Introduction to Biological Anthropology (5.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"], ["ANTH 1H - Physical Anthropology - HONORS (4.00)"]]}
+{"away": ["BIOL 20A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BME 5 - Introduction to Biotechnology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BME 18 - Scientific Principles of Life (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BME 80H - The Human Genome (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 1A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 8A - Organic Chemistry (5.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["ENVS 24 - General Ecology (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["ENVS 25 - Environmental Policy and Economics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTH 2 - Introduction to Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["BME 80G - Bioethics in the 21st Century: Science, Business, and Society (5.00) Same-As: PHIL 80G"], "home": [["No Course Articulated"]]}
+{"away": ["CMMU 10 - Introduction to Community Activism (5.00)"], "home": [["ICS 17 - Critical Consciousness and Social Change (4.00)"], ["ICS 17H - Critical Consciousness and Social Change - HONORS (4.00)"], ["ICS 19 - Making a Difference: Transforming Relations of Nature, Community, and Power (4.00)"], ["ICS 25 - Grassroots Democracy: Race, Politics and the American Promise (4.00) Same-As: POLI 15"], ["POLI 15 - Grassroots Democracy: Race, Politics and the American Promise (4.00) Same-As: ICS 25"], ["ICS 27 - Grassroots Democracy: Leadership and Power (4.00) Same-As: POLI 17"], ["POLI 17 - Grassroots Democracy: Leadership and Power (4.00) Same-As: ICS 27"]]}
+{"away": ["ECON 1 - Introductory Microeconomics: Resource Allocation and Market Structure (5.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["FMST 10 - Feminisms of/and the Global South (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 30 - Feminism and Science (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 31 - Disability Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 41 - Trans Gender Bodies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 60 - Medical and Scientific Terminology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 17 - U.S. and the World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 61 - Politics of Social Policy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYC 1 - Introduction to Psychology (5.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["SOCY 1 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCY 10 - Issues and Problems in American Society (5.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["SOCY 15 - World Society (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STAT 5 - Statistics (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STAT 7 - Statistical Methods for the Biological, Environmental, and Health Sciences (5.00)"], "home": [["No Course Articulated"]]}

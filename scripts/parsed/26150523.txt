@@ -1,0 +1,23 @@
+{"away": ["ANTHRO 1 - HUMAN EVOLUTION (5.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"]]}
+{"away": ["ANTHRO 2 - Archaeology: Introduction (5.00)"], "home": [["ANTH 4 - World Prehistory (4.00)"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["ANTHRO 4 - Culture and Communication (5.00)"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["LIFESCI 7A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["LIFESCI 7B - Genetics, Evolution, and Ecology (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["LIFESCI 7C - Physiology and Human Biology (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"]]}
+{"away": ["LIFESCI 23L - Introduction to Laboratory and Scientific Methodology (3.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)", "CHEM 20B - Chemical Energetics and Change (4.00)", "CHEM 20L - General Chemistry Laboratory (3.00)", "CHEM 30AL - General Chemistry Laboratory II (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00) applicants who were not"]]}
+{"away": ["admitted as a Life science major, cannot"], "home": [["switch into the Anthropology B.S."]]}
+{"away": ["CHEM 30A - Organic Chemistry I: Structure and Reactivity (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["MATH 3A - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3B - Calculus for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 3C - Ordinary Differential Equations with Linear Algebra for Life Sciences Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 12 - Introduction to Statistical Methods for Geography and Environmental Studies (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["STATS 12 - Introduction to Statistical Methods for Geography and Environmental Studies (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["LIFESCI 30A - Mathematics for Life Scientists (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIFESCI 30B - Mathematics for Life Scientists (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 13 - Introduction to Statistical Methods for Life and Health Sciences (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["PHYSICS 5A - Physics for Life Sciences Majors: Mechanics, and Energy (5.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 5B - Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics (5.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)"]]}

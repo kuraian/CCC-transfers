@@ -1,0 +1,18 @@
+{"away": ["MATH 1A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)", "MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 10A - Methods of Mathematics: Calculus, Statistics, and Combinatorics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 16A - Analytic Geometry and Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["COMPSCI 61A - The Structure and Interpretation of Computer Programs (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGIN 7 - Introduction to Computer Programming for Scientists and Engineers (MATLAB) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPSCI C88C - Computational Structures in Data Science (3.00) Same-As: DATA C88C"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["COMPSCI C8 - Foundations of Data Science (4.00) Same-As: STAT C8, INFO C8, DATA C8"], "home": [["No Course Articulated"]]}
+{"away": ["STAT 2 - Introduction to Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"]]}
+{"away": ["STAT 20 - Introduction to Probability and Statistics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COG SCI 1 - Introduction to Cognitive Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COG SCI 1B - Introduction to Cognitive Science (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COG SCI N1 - Introduction to Cognitive Science (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYCH C61 - Brain, Mind, and Behavior (3.00) Same-As: MCELLBI C61"], "home": [["PSYC 24 - Introduction to Psychobiology (4.00)"]]}
+{"away": ["MATH 55 - Discrete Mathematics (4.00)"], "home": [["MATH 22 - Discrete Mathematics (5.00)"], ["MATH 22H - Discrete Mathematics - HONORS (5.00)"]]}
+{"away": ["PHILOS 3 - The Nature of Mind (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 12A - Introduction to Logic (4.00)"], "home": [[]]}
+{"away": ["PHILOS 25A - Ancient Philosophy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 25B - Modern Philosophy (4.00)"], "home": [["PHIL 20B - History of Western Philosophy: 1400 - 1800 (4.00)"]]}

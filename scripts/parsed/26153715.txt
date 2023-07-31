@@ -1,0 +1,7 @@
+{"away": ["LING 20 - Introduction to Linguistics Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 4 - Culture and Communication (5.00)"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["CHIN 50 - Chinese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 50 - Japanese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 50 - History of Korean Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Elementary and Intermediate Levels Equivalent To The Sixth Term In Either Chinese, Japanese or Korean"], "home": [["No Course Articulated"]]}
+{"away": ["Third Level Or Equivalent OF A Second Foreign Language"], "home": [["No Course Articulated"]]}

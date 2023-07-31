@@ -1,0 +1,1 @@
+{"away": ["ITAL 1 - First-Year Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)", "ITAL 2 - Elementary Italian (Second Quarter) (5.00)", "ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}

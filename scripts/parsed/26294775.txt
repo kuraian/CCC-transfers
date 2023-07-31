@@ -1,0 +1,15 @@
+{"away": ["DANCE 2 - Dance Health and Injury Prevention (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 21A - Music for Dancers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 60A - Choreography I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 90A - Dance History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 90B - Dance History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 90C - Dance History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["One course in Ethnic, Mexican, Social, Spanish, Character or Tap Dance"], "home": [["DANC 24A - Theory and Technique of Social Dance I (1.00) DANC 24B - Theory and Technique of Social Dance II (1.00) DANC 24C - Theory and Technique of Social Dance III (1.00)"]]}
+{"away": ["DRAMA 30A - Acting (4.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00) The Department of Dance offers two degrees: the Bachelor of Arts in Dance (B.A.); and the Bachelor of Fine Arts in Dance (B.F.A.). The B.A. program provides a broad background in dance theory and practice. It is recommended that transfer students wishing to pursue a B.A. degree in Dance complete, in addition to the general education requirements, one course in choreography, two courses in dance technique, and one course in"]]}
+{"away": ["music for dancers prior to transfer."], "home": [["The B.F.A. program allows students to specialize in either choreography or performance. Students interested in the B.F.A. must declare their intention in writing at the time of their placement audition and demonstrate technique and/or choreography levels appropriate to their year. It is suggested that transfer students complete, in addition to the general education requirements, one course in choreography, two courses in dance technique, and"]]}
+{"away": ["one course in music for dancers prior to transfer."], "home": [["Courses in ballet, jazz, and modern technique are strongly recommended prior to transfer, but may not be used for major course credit. Ballet, jazz,"]]}
+{"away": ["and modern technique requirements must be completed at the university."], "home": [[". A second audition is required prior to beginning fall quarter to determine appropriate placement levels in ballet, jazz, and modern dance technique classes. This placement level determines the minimum number of years it will take to complete degree requirements. It is strongly recommended that students have dance technique experience in preparation for the auditions. Applicants must audition in late January/early February in ballet, modern, and jazz, prior to the fall quarter when entrance is anticipated, and be"]]}
+{"away": ["selected by faculty."], "home": [["."]]}
+{"away": ["NOTE"], "home": [[": In fulfillment of the requirements below, a single course may be used only once."]]}
+{"away": ["For information regarding the AP and IB examination"], "home": [["credit policies refer to the UCI General Catalogue."]]}
+{"away": ["DANCE 60B - Choreography I (4.00)", "DANCE 60C - Choreography I (4.00)"], "home": [["No Course Articulated"]]}

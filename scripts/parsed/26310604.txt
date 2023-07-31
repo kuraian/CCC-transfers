@@ -1,0 +1,11 @@
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["", "ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 002 - Self & Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 004 - Immigration & Opportunity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 005 - Global Social Change: An Introduction to Macrosociology (4.00)"], "home": [["INTL 8 - Sociology of Globalization and Social Change (4.00) Same-As: SOC 5"], ["SOC 5 - Sociology of Globalization and Social Change (4.00) Same-As: INTL 8"]]}
+{"away": ["SOC 006 - Health & Illness (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 007 - Race & Ethnicity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 011 - Sociology of Labor & Employment (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 046 - Introduction to Social Research Methods (4.00)"], "home": [["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 14 - The Process of Social Research (4.00)"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["SOC 056 - Introduction to Social Statistics (5.00)"], "home": [["No Course Articulated"]]}

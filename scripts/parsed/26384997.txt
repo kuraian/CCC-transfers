@@ -1,0 +1,8 @@
+{"away": ["TDAC 1 - Introduction to Acting (4.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"]]}
+{"away": ["TDDE 1 - Introduction to Design for the Theatre (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDGE 1 - Introduction to Theatre (4.00)"], "home": [["THEA 1 - Appreciation of Theater (4.00)"]]}
+{"away": ["TDHT 10 - Introduction to Play Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDHT 21 - Ancient and Medieval Theatre (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDHT 22 - Theatre 1500-1900 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDHT 23 - Twentieth-Century Theatre (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["TDPW 1 - Introduction to Playwriting (4.00)"], "home": [["No Course Articulated"]]}

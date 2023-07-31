@@ -1,0 +1,2 @@
+{"away": ["CHICANO 10A - Introduction to Chicana/Chicano Studies: History and Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHICANO 10B - Introduction to Chicana/Chicano Studies: Social Structure and Contemporary Conditions (5.00)"], "home": [["No Course Articulated"]]}

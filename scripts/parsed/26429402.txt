@@ -1,0 +1,3 @@
+{"away": ["SOC 1 - Intro to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 3 - Theoretical Perspectives in Sociology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 4 - Methods of Sociological Inquiry (5.00)"], "home": [["No Course Articulated"]]}

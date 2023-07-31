@@ -1,0 +1,26 @@
+{"away": ["Special Advising Note for Future Applicants:*"], "home": [["Beginning Fall, 2022, the Applied Mathematics major will become selective and will require preparatory coursework for admission.  Any required courses that are offered at your current campus will need to be completed by the close of Spring term prior to Fall enrollment at UC Davis.  If required courses will not be offered at your college, you must complete them after enrolling at UC Davis. Transfer students must earn an overall GPA of 2.80 or higher to be competitive candidates for admission to this major (3.20 or higher for TAG"]]}
+{"away": ["applicants). Strive to achieve your highest possible GPA in order to be most competitive."], "home": [["Candidates must complete courses comparable to the following UC Davis courses with a GPA of at least 3.00 for the selective major course group.  It is recommended that candidates have a cumulative GPA of at least 3.00 for the group of courses below that have been completed at the time of application and through the transfer academic update filing period.  Whether planning for the general application or TAG process, courses must be taken for a letter grade, with no grade less than C.  (Advanced Placement (AP) or International Baccalaureate (IB) Higher Level examinations may"]]}
+{"away": ["satisfy UC course equivalents). -Mathematics 021A/B/C/D -Mathematics 022A or 067 -Mathematics 022B *Information for future applicants is subject to change. ECS 032A - Introduction to Programming (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENG 006 - Engineering Problem Solving (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021D - Vector Analysis (4.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 022AL - Linear Algebra Computer Laboratory (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 022B - Differential Equations (3.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["MAT 027B - Differential Equations with Applications to Biology (4.00) Same-As: BIS 027B"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 022A - Linear Algebra (3.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MAT 108 - Introduction to Abstract Mathematics (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["MAT 027A - Linear Algebra with Applications to Biology (4.00) Same-As: BIS 027A"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 108 - Introduction to Abstract Mathematics (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["MAT 067 - Modern Linear Algebra (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["PHY 009A - Classical Physics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHY 009B - Classical Physics (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["STA 032 - Gateway to Statistical Data Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 100 - Applied Statistics for Biological Sciences (4.00)"], "home": [["This course must be taken at the university after transfer"]]}

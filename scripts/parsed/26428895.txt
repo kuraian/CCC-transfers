@@ -1,0 +1,56 @@
+{"away": ["SOC 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["CMPSC 5A - Introduction to Data Science 1 (4.00)"], "home": [["No Course Articulated All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["www.soc.ucsb.edu"]]}
+{"away": ["PRE-MAJOR INFORMATION"], "home": [["Students are admitted initially to Pre-Sociology, not directly to the major. Admission to the full major is contingent upon achievement of a grade point average of at least 2.3 in Area A and Area B courses completed at the University of California. (Only UC grades go into the pre-major GPA. Transfer courses taken outside of UC may satisfy pre-major requirements, but they are not part of the pre-major GPA.) Courses in Areas C and D will not be included in the pre-major GPA computation but must be take for a letter grade and will influence the overall major GPA. Students must complete pre-major courses and achieve the minimum GPA requirements prior to the completion of 144 total quarter units. Courses in Area A and B must be completed with grades of \"C-\" or higher. Because the criteria are subject to annual review and revision, transfer students should consult the department directly to obtain current information regarding specific additional criteria for admission into the full"]]}
+{"away": ["major."], "home": [["Admission to the pre-major does not guarantee admission to full major status."]]}
+{"away": ["PRE-MAJOR REQUIREMENTS Area A"], "home": [[". Sociology 1 and one course from CMPSC 5A, Communication 87, PSTAT 5A-ZZ"]]}
+{"away": ["Area B . Two courses from: History 2C, 4C, 8, 17B, 17C Area C . Social Science Breadth Requirement"], "home": [[": Two courses from the following: Anthropology 2, 7; Economics 2; Environmental Studies 2, 3; Geography"]]}
+{"away": ["5; History 7, 17A; Political Science 1, 6, 7, 12; Philosophy 3, 4, 6, 7; Psychology 1 Area D . Diversity Requirement"], "home": [[": One course from the following: Asian American Studies 1, 2, 7, 8; Black Studies 1, 3, 4, 5, 6, 50; Chicana/o Studies 1A-"]]}
+{"away": ["B-C; Feminist Studies 20, 30, 40, 50, 60, 80 COMM 87 - Statistical Analysis for Communication (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["MATH 23 - Engineering Statistics (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["PSTAT 5A - Understanding Data (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["MATH 23 - Engineering Statistics (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["PSTAT 5LS - Statistics for Life Sciences (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 2C - World History (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"], ["HIST 3CH - World History from 1750 CE to the Present - Honors (4.00)"]]}
+{"away": ["HIST 4C - Modern Europe (4.00)"], "home": [["HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"], ["HIST 6CH - History of Western Civilization: 1750 C.E. to Present - HONORS (4.00)"]]}
+{"away": ["HIST 8 - Introduction to History of Latin America (4.00)"], "home": [["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A", "HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B"], ["ICS 38A - Colonial Latin American History (4.00) Same-As: HIST 7A", "ICS 38B - Modern Latin American History (4.00) Same-As: HIST 7B"]]}
+{"away": ["HIST 17B - The American People (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}
+{"away": ["HIST 17C - The American People (4.00)"], "home": [["HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"]]}
+{"away": ["ANTH 2 - Introductory Cultural Anthropology (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ANTH 7 - Introductory Biosocial Anthropology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 2 - Principles of Economics-Macro (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ENV S 2 - Introduction to Environmental Science (4.00)"], "home": [["ESCI 1 - Environmental Science (4.00)"], ["ESCI 19 - Environmental Biology (5.00)"]]}
+{"away": ["ENV S 3 - Introduction to the Social and Cultural Environment (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 5 - People, Place and Environment (4.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["HIST 7 - Great Issues in the History of Public Policy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 17A - The American People (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)"]]}
+{"away": ["POL S 1 - Introduction to Political Philosophy (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL S 6 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL S 7 - Introduction to International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL S 12 - American Government and Politics (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["PHIL 3 - Critical Thinking (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PHIL 4 - Introduction to Ethics (4.00)"], "home": [["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PHIL 6 - Professional and Business Ethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHIL 7 - Biomedical Ethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSY 1 - Introduction to Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["AS AM 1 - Introduction to Asian American History, 1850-Present (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["AS AM 2 - American Migration Since 1965: Asians and Others in the United States (4.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["AS AM 7 - Globalization, Gender and Social Inequality in Asian America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AS AM 8 - Introduction to Asian American Gender and Sexuality (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 1 - Introduction to African-American Studies (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["BL ST 3 - Introduction to African Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 4 - Critical Introduction to Race and Racism (4.00)"], "home": [["CETH 11 - Race and Ethnicity: Belonging and Exclusion in the U.S. (4.00)"]]}
+{"away": ["BL ST 5 - Blacks and Western Civilization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 6 - The Civil Rights Movement (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 50 - Blacks in the Media (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CH ST 1A - Introduction to Chicano/a Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"], ["CHLX 12 - Chicanx and Latinx History (4.00)"]]}
+{"away": ["CH ST 1B - Introduction to Chicano/a Studies (4.00)"], "home": [["CHLX 26 - La Mujer: Latina Life and Experience (4.00) Same-As: WMST 26"], ["WMST 26 - La Mujer: Latina Life and Experience (4.00) Same-As: CHLX 26"]]}
+{"away": ["CH ST 1C - Introduction to Chicano/a Studies (4.00)"], "home": [["CHLX 11 - Chicanx Culture (4.00)"], ["CHLX 13 - The Chicanx and Latinx and the Arts (4.00)"]]}
+{"away": ["FEMST 20 - Gender and Power: Introduction to Feminist Studies (4.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["FEMST 30 - Women, Development, and Globalization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FEMST 40 - Women, Representation, and Cultural Production (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FEMST 50 - Global Feminisms and Social Justice (4.00)"], "home": [["WMST 24 - Women and Gender in Global Perspectives (4.00)"]]}
+{"away": ["FEMST 60 - Women of Color: Race, Class, and Ethnicity (4.00)"], "home": [["CETH 8 - Women of Color in the USA (4.00) Same-As: WMST 8"], ["WMST 8 - Women of Color in the USA (4.00) Same-As: CETH 8"]]}
+{"away": ["FEMST 80 - Introduction to LGBTQ Studies (4.00)"], "home": [["ICS 26 - Introduction to Lesbian, Gay, Bisexual, Transgender and Queer Studies (4.00)"]]}

@@ -1,0 +1,23 @@
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31AL - Differential and Integral Calculus Laboratory (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 32A - Calculus of Several Variables (4.00)", "MATH 32B - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"]]}
+{"away": ["MATH 33A - Linear Algebra and Applications (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"]]}
+{"away": ["MATH 33B - Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)"]]}
+{"away": ["MATH 61 - Introduction to Discrete Structures (4.00)"], "home": [["MATH 22 - Discrete Mathematics (5.00)"]]}
+{"away": ["PHYSICS 1A - Physics for Scientists and Engineers: Mechanics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYSICS 5A - Physics for Life Sciences Majors: Mechanics, and Energy (5.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 6A - Physics for Life Sciences Majors: Mechanics (5.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["COMPTNG 10A - Introduction to Programming(C++) (5.00)"], "home": [["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 22A - Beginning Programming Methodologies in C++ (4.50)", "CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)", "CHEM 20B - Chemical Energetics and Change (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["PHYSICS 1B - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHYSICS 1C - Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYSICS 5B - Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics (5.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 5C - Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics (5.00)"], "home": [["PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 6B - Physics for Life Sciences Majors: Waves, Electricity, and Magnetism (5.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)"]]}
+{"away": ["PHYSICS 6C - Physics for Life Sciences Majors: Light, Fluids, Thermodynamics, Modern Physics (5.00)"], "home": [["PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["COMPTNG 10B - Intermediate Programming(C++) (5.00)"], "home": [["CIS 28 - Object Oriented Analysis and Design (4.50)"]]}
+{"away": ["COMPTNG 10C - Advanced Programming (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 20A - Principles of Java Language with Applications (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 40A - Introduction to Programming for Internet (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COMPTNG 40B - Advanced Topics in Programming for Internet (5.00)"], "home": [["No Course Articulated"]]}

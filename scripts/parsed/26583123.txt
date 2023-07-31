@@ -1,0 +1,25 @@
+{"away": ["NAS 001 - Introduction to Native American Studies (4.00)"], "home": [["NAIS 12 - Ethnic Studies and the Historical Experiences of Native Americans (4.00)"]]}
+{"away": ["NAS 010 - Native American Experience (4.00)"], "home": [["NAIS 11 - Native American Contemporary Society (4.00)"]]}
+{"away": ["NAS 012 - Native American/Indigenous Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 005 - Introduction to Native American Literature (4.00)"], "home": [["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": ["NAS 012 - Native American/Indigenous Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 032 - Native American Music & Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 033 - Introduction to Native American Art (4.00)"], "home": [["NAIS 13 - Survey of Native American Arts (4.00)"]]}
+{"away": ["NAS 034 - Native American Art Studio (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 012 - Introduction to African Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AAS 052 - African Traditional Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ANT 020 - Comparative Cultures (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANT 024 - Ancient Crops & People (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASA 001 - Historical Experience of Asian Americans (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["ASA 002 - Contemporary Issues of Asian Americans (4.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["ASA 004 - Asian American Cultural Studies (4.00)"], "home": [["ASAM 21 - Asian Pacific Americans Make Culture (4.00)"]]}
+{"away": ["CHI 010 - Introduction to Chicana/o Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"]]}
+{"away": ["CHI 021 - Chicana/o & Latina/o Health Care Issues (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 023 - Qualitative Research Methods (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 025 - Ethnic Minority Writers in World Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESP 010 - Current Issues in the Environment (3.00)"], "home": [["E S 1 - Introduction to Environmental Studies (4.00)"], ["ESCI 19 - Environmental Biology (5.00)"]]}
+{"away": ["HIS 007A - History of Latin America to 1700 (4.00)"], "home": [["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A"], ["ICS 38A - Colonial Latin American History (4.00) Same-As: HIST 7A"]]}
+{"away": [""], "home": [["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A", "HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B"], ["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A", "ICS 38B - Modern Latin American History (4.00) Same-As: HIST 7B"], ["HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B", "ICS 38A - Colonial Latin American History (4.00) Same-As: HIST 7A"], ["ICS 38A - Colonial Latin American History (4.00) Same-As: HIST 7A", "ICS 38B - Modern Latin American History (4.00) Same-As: HIST 7B"]]}
+{"away": ["HIS 007C - History of Latin America 1900-present (4.00)"], "home": [["HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B"], ["ICS 38B - Modern Latin American History (4.00) Same-As: HIST 7B"]]}
+{"away": ["HIS 017A - History of the United States (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}

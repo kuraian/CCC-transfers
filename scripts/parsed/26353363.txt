@@ -1,0 +1,11 @@
+{"away": ["HIS 74 - Introduction to Jewish History and Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 74A - Introduction To Middle Eastern and North African Jewish History: Ancient To Early Modern (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 74B - Introduction To Middle Eastern And North African Jewish History, 1500-2000 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIT 61J - Introduction to Jewish Literature and Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 75 - Film and the Holocaust (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 76 - The Holocaust: A Global Perspective (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 2A - The World to 1500 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 2B - The World since 1500 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 70A - Modern European History, 1500-1815 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 70B - Modern European History, 1815-Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 78 - Modern Authoritarianism in Europe and Beyond (5.00)"], "home": [["No Course Articulated"]]}

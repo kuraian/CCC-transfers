@@ -1,0 +1,19 @@
+{"away": ["MATH 31A - Differential and Integral Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 31AL - Differential and Integral Calculus Laboratory (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 31B - Integration and Infinite Series (4.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1B - Calculus (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 32A - Calculus of Several Variables (4.00)", "MATH 32B - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"]]}
+{"away": ["MATH 33A - Linear Algebra and Applications (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"]]}
+{"away": ["MATH 33B - Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)"]]}
+{"away": [""], "home": [["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 22A - Beginning Programming Methodologies in C++ (4.50)", "CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"]]}
+{"away": ["HIST 2B - Social Knowledge and Social Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 3A - History of Science: Renaissance to 1800 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 3B - History of Science: Enlightenment to 1900 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 3C - History of Science: 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 3D - History of Modern Medicine (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHEM 20A - Chemical Structure (4.00)", "CHEM 20B - Chemical Energetics and Change (4.00)", "CHEM 20L - General Chemistry Laboratory (3.00)", "CHEM 30AL - General Chemistry Laboratory II (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["CHEM 30A - Organic Chemistry I: Structure and Reactivity (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["PHYSICS 1A - Physics for Scientists and Engineers: Mechanics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYSICS 1B - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["LIFESCI 7A - Cell and Molecular Biology (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["LIFESCI 7B - Genetics, Evolution, and Ecology (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["LIFESCI 7C - Physiology and Human Biology (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"]]}

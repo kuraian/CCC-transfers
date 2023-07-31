@@ -1,0 +1,16 @@
+{"away": ["PHIL 10 - Introduction to Logic (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["CHIN 20AN - Second-Year Chinese I (4.00)"], "home": [["MAND 4 - Intermediate Mandarin (First Quarter) (5.00)"]]}
+{"away": ["JAPN 20A - Second Year Japanese I (5.00)"], "home": [["JAPN 4 - Intermediate Japanese (First Quarter) (5.00)"]]}
+{"away": ["LIAB 1D - Arabic Conversation (2.50)", "LIAB 1DX - Analysis of Arabic (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LIFR 1D - French Conversation (2.50)", "LIFR 1DX - Analysis of French (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LTFR 2A - Intermediate French I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIGM 1D - German Conversation (2.50)", "LIGM 1DX - Analysis of German (2.50)"], "home": [["GERM 4 - Intermediate German (First Quarter) (5.00)"]]}
+{"away": ["LTGM 2A - Intermediate German I (5.00)"], "home": [["GERM 4 - Intermediate German (First Quarter) (5.00)"]]}
+{"away": ["LIIT 1D - Italian Conversation (2.50)", "LIIT 1DX - Analysis of Italian (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LTIT 2A - Intermediate Italian I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTKO 2A - Intermediate Korean: Second Year I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIPO 1D - Portuguese Conversation (2.50)", "LIPO 1DX - Analysis of Portuguese (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LTRU 2A - Second-Year Russian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LISL 1D - American Sign Language Conversation (2.50)", "LISL 1DX - Analysis of American Sign Language (2.50)"], "home": [["No Course Articulated"]]}
+{"away": ["LISP 1D - Spanish Conversation (2.50)", "LISP 1DX - Analysis of Spanish (2.50)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)"]]}
+{"away": ["LTSP 2A - Intermediate Spanish I: Foundations (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)"]]}

@@ -1,0 +1,4 @@
+{"away": ["MATH 9A - First-Year Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["BUS 20 - Financial Accounting and Reporting (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)"]]}
+{"away": ["ECON 2 - Intro to Macroeconomics (5.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"]]}
+{"away": ["ECON 3 - Intro to Microeconomics (5.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"]]}

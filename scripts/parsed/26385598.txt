@@ -1,0 +1,5 @@
+{"away": ["EDS 30 - Introduction to Math Teaching (2.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["EDS 31 - Introduction to Teaching Science (2.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["EDS 38 - Explorations in Education (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDS 39 - Explorations in Secondary STEM Education (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HDS 1 - Introduction to Human Developmental Sciences (4.00)"], "home": [["This course must be taken at the university after transfer"]]}

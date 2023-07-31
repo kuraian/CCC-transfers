@@ -1,0 +1,2 @@
+{"away": ["MUS 1A - Fundamentals of Music (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 1B - Fundamentals of Music (4.00)"], "home": [["No Course Articulated"]]}

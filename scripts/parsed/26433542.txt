@@ -1,0 +1,6 @@
+{"away": ["LATN 1 - Intro to Latin (4.00)", "LATN 2 - Intro to Latin (4.00)", "LATN 3 - Intro to Latin (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GRK 1 - Intro to Classical Greek (4.00)", "GRK 2 - Intro to Classical Greek (4.00)", "GRK 3 - Intro to Classical Greek (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CPLT 1 - Intro to Close Reading (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 10A - Ancient Civilization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 10B - Ancient Civilization: Classical Greece (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLA 10C - Ancient Civilization: Rome (4.00)"], "home": [["No Course Articulated"]]}

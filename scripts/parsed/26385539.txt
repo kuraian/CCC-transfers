@@ -1,0 +1,19 @@
+{"away": ["GLBH  20 - Introduction to Global Health (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["HILD 30 - History of Public Health (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYC 1 - Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["SOCI 30 - Science, Technology, and Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCI 40 - Sociology of Health Care Issues (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCI 70 - General Sociology for Pre-Medical Students (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BILD 1 - The Cell (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 2 - Multicellular Life (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 3 - Organismic and Evolutionary Biology (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["CHEM 6A - General Chemistry I (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHEM 6B - General Chemistry II (4.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHEM 6C - General Chemistry III (4.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 7L - Introductory Inorganic Chemistry Laboratory (4.00)"], "home": [["CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["MATH 10A - Calculus I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10B - Calculus II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 11 - Calculus Based Elementary Probability and Statistics (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"]]}
+{"away": ["PSYC 60 - Introduction to Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}

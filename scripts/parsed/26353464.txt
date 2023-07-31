@@ -1,0 +1,10 @@
+{"away": ["TIM 50 - Business Information Systems (5.00)"], "home": [["CIS 3 - Business Information Systems (4.50)"]]}
+{"away": ["TIM 58 - Systems Analysis and Design (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CSE 20 - Beginning Programming in Python (5.00)"], "home": [["CIS 40 - Introduction to Programming in Python (4.50)"], ["CIS 41A - Python Programming (4.50)"]]}
+{"away": ["CSE 30 - Programming Abstractions: Python (7.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": [""], "home": [["MATH 12 - Introductory Calculus for Business and Social Science (5.00)"]]}
+{"away": ["AM 11B - Mathematical Methods for Economists II (5.00) Same-As: ECON 11B"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 11A - Calculus with Applications (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 11B - Calculus with Applications (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19A -  Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 19B - Calculus for Science, Engineering, and Mathematics (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}

@@ -1,0 +1,5 @@
+{"away": ["SPAN 1 - First-Year Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPAN 2 - First-Year Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["LING 50 - Introduction to Linguistics (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["HIS 11A - Latin America: Colonial Period (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 11B - Latin America: National Period (5.00)"], "home": [["No Course Articulated"]]}

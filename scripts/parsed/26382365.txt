@@ -1,0 +1,9 @@
+{"away": ["LATI 10 - Colonialisms & The Americas (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LATI 50 - Introduction to Latin America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTSP 2A - Intermediate Spanish I: Foundations (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)"]]}
+{"away": ["LTSP 2B - Intermediate Spanish II: Readings and Composition (5.00)"], "home": [["SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)"]]}
+{"away": ["LTSP 2C - Intermediate Spanish III: Cultural Topics and Conversation (4.00)"], "home": [["SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["LTSP 2D - Intermediate/Advanced Spanish: Spanish for Bilingual Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTSP 2E - Advanced Readings and Composition for Bilingual Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTSP 50A - Readings/Peninsular Liter (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTSP 50B - Readings/Latin Amer Liter (4.00)"], "home": [["No Course Articulated"]]}

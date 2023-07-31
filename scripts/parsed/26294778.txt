@@ -1,0 +1,19 @@
+{"away": ["DRAMA 10 - Introduction to Production Theory (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 15 - Performance Now (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 20A - Culture in Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 20B - Culture in Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 20C - Culture in Performance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 30A - Acting (4.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"]]}
+{"away": ["DRAMA 40A - Development of Drama (4.00)", "DRAMA 40B - Development of Drama (4.00)", "DRAMA 40C - Development of Drama (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 30B - Acting (4.00)"], "home": [["THEA 20B - Theory and Technique of Acting (Modern Period) (4.00)"]]}
+{"away": ["DRAMA 30C - Acting (4.00)"], "home": [["THEA 20C - Theory and Technique of Acting (Classic Period) (4.00)"]]}
+{"away": ["DRAMA 50A - Introduction to Costume Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50B - Introduction to Scenic Design (4.00)"], "home": [["No Course Articulated The B.A. program consists of a comprehensive study of acting, directing, design, music theatre, playwriting, stage management, theatre production, and dramatic theory, criticism, literature, and history. It involves hands-on participation in productions as an actor, designer, writer, technician, or stage manager. Auditions for all productions at UCI are open to undergraduates, and some productions are open exclusively to undergraduates. The"]]}
+{"away": ["B.A. program does not require an entrance audition."], "home": [["There can be few subjects as broad or as fundamental to human civilization as those of Drama and Theatre. The B.A. in Drama is part of a larger education which includes close consideration of world history and politics; human psychology and desire; music, dance, literature and art; visual and aural aesthetics, and both ancient and contemporary technologies of communication. While Drama is rightfully considered an entertainment, it is an entertainment that begins with the greatest literature ever written \u2013 from the classics of Euripides, Shakespeare and Moli\u00e8re to modern Americans like Tennessee Williams, August Wilson and David Henry Hwang \u2013 as presented in the most sophisticated performance techniques from Europe, Asia, Africa, and the Americas developed over 3,000 years. And Theatre \u2013 the practice of Drama \u2013 is a hands-on collaboration that involves real-time"]]}
+{"away": ["interactions with other artists, and displaying the results to real-life audiences."], "home": [["This major does not require completion of prerequisites for admission as a transfer student."]]}
+{"away": ["NOTE"], "home": [[": If not completed prior to transfer, Drama 10, and 5 courses chosen from Drama 30B, 30C, 50A, 50B, 50C, 50D, 50E must be completed the first year in residence at UCI. One of the 5 courses must be from Drama 50C, 50D, or 50E. It is recommended that Drama 40A, 40B, 40C be"]]}
+{"away": ["completed as soon as possible after transfer to UCI. NOTE"], "home": [[": In fulfillment of the requirements below, a single course may be used only once."]]}
+{"away": ["For information regarding the AP and IB examination"], "home": [["credit policies refer to the UCI General Catalogue. For more information regarding the UC Irvine Transfer Admission Guarantee Program, please visit TAG"]]}
+{"away": ["DRAMA 50C - Introduction to Lighting Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50D - Introduction to Sound Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRAMA 50E - Introduction to Stage Management (4.00)"], "home": [["No Course Articulated"]]}

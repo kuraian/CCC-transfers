@@ -1,0 +1,12 @@
+{"away": ["BIOL 5A - Intro to Cell and Molecular Biology (4.00)", "BIOL 5LA - Intro to Cell and Molecular Biology Lab (1.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["CHEM 1A - General Chemistry (4.00)", "CHEM 1B - General Chemistry (4.00)", "CHEM 1C - General Chemistry (4.00)", "CHEM 1LA - General Chemistry Lab (1.00)", "CHEM 1LB - General Chemistry Lab (1.00)", "CHEM 1LC - General Chemistry Lab (1.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"]]}
+{"away": ["MATH 9A - First-Year Calculus (4.00)", "MATH 9B - First-Year Calculus (4.00)", "MATH 9C - First-Year Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"]]}
+{"away": ["Prior to transfer,"], "home": [["a minimum GPA of at least 2.50 in the calculus sequence and at least one additional sequence ."]]}
+{"away": ["BIOL 5B - Intro to Organismal Biology (4.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"]]}
+{"away": ["PHYS 40A - General Physics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 40B - General Physics (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYS 40C - General Physics (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["CHEM 8A - ORGANIC CHEMISTRY (3.00)", "CHEM 8B - ORGANIC CHEMISTRY (3.00)", "CHEM 8C - ORGANIC CHEMISTRY (3.00)", "CHEM 8LA - ORGANIC CHEMISTRY LABORATORY (1.00)", "CHEM 8LB - ORGANIC CHEMISTRY LABORATORY (1.00)", "CHEM 8LC - ORGANIC CHEMISTRY LABORATORY (1.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)", "CHEM 12B - Organic Chemistry (5.00)", "CHEM 12C - Organic Chemistry (5.00)"]]}
+{"away": ["CS 9A - Introduction to Python Programming with Applications (4.00)"], "home": [["CIS 41A - Python Programming (4.50)"]]}
+{"away": ["EE 5 - Circuits and Electronics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10A - Calculus of Several Variables (4.00)", "MATH 10B - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"]]}

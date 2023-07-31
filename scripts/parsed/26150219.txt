@@ -1,0 +1,3 @@
+{"away": ["ANTHRO 1 - HUMAN EVOLUTION (5.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"]]}
+{"away": ["ANTHRO 2 - Archaeology: Introduction (5.00)"], "home": [["ANTH 4 - World Prehistory (4.00)"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}

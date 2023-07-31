@@ -1,0 +1,4 @@
+{"away": ["SOCIOL 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCIOL 5 - Evaluation of Evidence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STAT 2 - Introduction to Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"]]}
+{"away": ["PHILOS 12A - Introduction to Logic (4.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,23 @@
+{"away": ["I&C SCI 31 - Introduction to Programming (4.00)", "I&C SCI 32 - Programming with Software Libraries (4.00)", "I&C SCI 33 - Intermediate Programming (4.00)"], "home": [["CIS 40 - Introduction to Programming in Python (4.50)", "CIS 41A - Python Programming (4.50)", "CIS 41B - Advanced Python Programming (4.50)"]]}
+{"away": ["GDIM 25 - Game Design and Interactive Media (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 27 - Intermediate Game Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 31 - Introduction to Programming for Games (4.00)"], "home": [["No Course Articulated Admission to the Donald Bren School of Information and Computer Science is highly competitive. The most important selection criteria are completion"]]}
+{"away": ["of the required preparatory courses and academic performance. Required for admission:"], "home": [["One year of computer programming courses in a single object\u2013language (Python, Java, or C++). Object-oriented programming language courses that do not directly articulate to I&C SCI 31-33 can be used to satisfy the admissions requirements. Introduction to"]]}
+{"away": ["computer science courses do not meet this requirement."], "home": [["Applicants to the Game Design & Interactive Media major should be aware that several lower-division courses must be taken at UCI; therefore, the"]]}
+{"away": ["minimum time to degree completion will exceed two years. : One course in advanced data structures"], "home": [["One course in machine organization and assembly language (both topics must be covered)"]]}
+{"away": ["One course in software engineering One course in discrete mathematics One course in Boolean algebra One course in linear algebra One course in visual storytelling One course in creative writing or scriptwriting One course in digital media One course in mass media and society One course in graphic design One course in animation *NOTE:"], "home": [["Transfer students should plan to learn programming by studying on their own or by completing related programming courses prior to their"]]}
+{"away": ["first quarter at UCI."], "home": [["Students should have I&C SCI 31-33 credit first in order to move further into the program here at UCI."]]}
+{"away": ["In fulfillment of the requirements below, a single course may be used only once. For information regarding the AP and IB examination"], "home": [["credit policies refer to the UCI General Catalogue."]]}
+{"away": ["GDIM 32 - Intermediate Programming for Games (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 33 - Coding in Game Engines (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 41 - Games and Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 49 - Special Topics in Games and Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 51 - Visual Design Fundamentals (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 53 - Roleplaying and Improvisational Play (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 55 - Storytelling for Interactive Media (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GDIM 61 - Introduction to Game Development (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 2A - Single-Variable Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 2B - Single-Variable Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["STATS 6 - Introduction to Data Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 7 - Basic Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["STATS 67 - Introduction to Probability and Statistics for Computer Science (4.00)"], "home": [["No Course Articulated"]]}

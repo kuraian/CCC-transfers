@@ -1,0 +1,16 @@
+{"away": ["MUS 002A - Keyboard Competence, Part 1 (2.00)"], "home": [["MUSI 3A - Comprehensive Musicianship (First Quarter) (4.00)"]]}
+{"away": ["MUS 002B - Keyboard Competence, Part 2 (2.00)"], "home": [["MUSI 3B - Comprehensive Musicianship (Second Quarter) (4.00)"]]}
+{"away": ["MUS 002C - Keyboard Competence, Part 3 (2.00)"], "home": [["MUSI 3C - Comprehensive Musicianship (Third Quarter) (4.00)"]]}
+{"away": ["MUS 006A - Elementary Theory, Part 1 (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 006B - Elementary Theory, Part 2 (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 006C - Elementary Theory, Part 3 (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 007A - Intermediate Theory, Part 1 (3.00)"], "home": [["MUSI 4A - Comprehensive Musicianship II (First Quarter) (4.00)"]]}
+{"away": ["MUS 007B - Intermediate Theory, Part 2 (3.00)"], "home": [["MUSI 4B - Comprehensive Musicianship II (Second Quarter) (4.00)"]]}
+{"away": ["MUS 007C - Intermediate Theory, Part 3 (3.00)"], "home": [["MUSI 4C - Comprehensive Musicianship II (Third Quarter) (4.00)"]]}
+{"away": ["MUS 016A - Elementary Musicianship, Part 1 (2.00)"], "home": [["MUSI 3A - Comprehensive Musicianship (First Quarter) (4.00)"]]}
+{"away": ["MUS 016B - Elementary Musicianship, Part 2 (2.00)"], "home": [["MUSI 3B - Comprehensive Musicianship (Second Quarter) (4.00)"]]}
+{"away": ["MUS 016C - Elementary Musicianship, Part 3 (2.00)"], "home": [["MUSI 3C - Comprehensive Musicianship (Third Quarter) (4.00)"]]}
+{"away": ["MUS 017A - Intermediate Musicianship, Part 1 (2.00)"], "home": [["MUSI 4A - Comprehensive Musicianship II (First Quarter) (4.00)"]]}
+{"away": ["MUS 017B - Intermediate Musicianship, Part 2 (2.00)"], "home": [["MUSI 4B - Comprehensive Musicianship II (Second Quarter) (4.00)"]]}
+{"away": ["MUS 017C - Intermediate Musicianship, Part 3 (2.00)"], "home": [["MUSI 4C - Comprehensive Musicianship II (Third Quarter) (4.00)"]]}
+{"away": ["MUS 024A - History of Western Music: Baroque & Classic Eras (4.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,9 @@
+{"away": ["CHI 010 - Introduction to Chicana/o Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"]]}
+{"away": ["CHI 050 - Chicana & Chicano Culture (4.00)"], "home": [["CHLX 11 - Chicanx Culture (4.00)"]]}
+{"away": ["CHI 021 - Chicana/o & Latina/o Health Care Issues (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 023 - Qualitative Research Methods (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 030 - United States Political Institutions & Chicanas/os (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 040 - Comparative Health: Top Leading Causes of Death (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 060 - Chicana & Chicano Representation in Cinema (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 065 - New Latin American Cinema (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 070 - Survey of Chicana/o Art (4.00)"], "home": [["CHLX 13 - The Chicanx and Latinx and the Arts (4.00)"]]}

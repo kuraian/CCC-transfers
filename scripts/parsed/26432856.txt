@@ -1,0 +1,3 @@
+{"away": ["GSST 1 - Gender and Sexuality (4.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["GSST 10 - Women and Culture (5.00)"], "home": [["WMST 9 - Women in American History (4.00) Same-As: HIST 9"], ["WMST 8 - Women of Color in the USA (4.00) Same-As: CETH 8"], ["WMST 3C - Women and Art (4.00) Same-As: ARTS 3TC"]]}
+{"away": ["GSST 20 - Women, Feminism, and Society in a Global Perspective (5.00)"], "home": [["PHIL 49 - Women and Philosophy (4.00) Same-As: WMST 49"], ["WMST 24 - Women and Gender in Global Perspectives (4.00)"]]}

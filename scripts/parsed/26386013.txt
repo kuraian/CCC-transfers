@@ -1,0 +1,8 @@
+{"away": ["VIS 22 - Formations of Modern Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 23 - Seminar in Art History Methods (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["VIS 11 - Introduction to Visual Culture (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["VIS 20 - Introduction to Art of Europe and America (4.00)"], "home": [["ARTS 2A - History of Art: Europe from Prehistory through Early Christianity (4.00)", "ARTS 2B - History of Art: Europe During the Middle Ages and the Renaissance (4.00)", "ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00)"]]}
+{"away": ["VIS 21A - Introduction to the Art of the Americas or Africa and Oceania (4.00)"], "home": [["ARTS 2J - History of Art: Arts of Africa, Oceania and Native North America (4.00) Same-As: INTL 22"]]}
+{"away": ["VIS 21B - Introduction to Asian Art (4.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"]]}
+{"away": ["VIS 21C - Introduction to African Art (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIS 83 - Photographic History (4.00)"], "home": [["No Course Articulated"]]}

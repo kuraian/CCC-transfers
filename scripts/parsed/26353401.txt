@@ -1,0 +1,16 @@
+{"away": ["CHEM 1A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHEM 1C - General Chemistry (5.00)", "CHEM 1N - General Chemistry Laboratory (2.00)"], "home": [["CHEM 1A - General Chemistry (5.00)", "CHEM 1B - General Chemistry (5.00)", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)", "CHEM 1BH - General Chemistry - HONORS (5.00)", "CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["MATH 11A - Calculus with Applications (5.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 11B - Calculus with Applications (5.00)"], "home": [["MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)", "MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHYS 6A - Introductory Physics I (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"], ["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 6L - Introductory Physics I Laboratory (1.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"], ["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 6B - Introductory Physics II (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"], ["PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 6M - INTRODUCTORY PHYSICS II LABORATORY (1.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"], ["PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["ENVS 25 - Environmental Policy and Economics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESCI 30 - Biological Principles of Environmental Sciences (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EART 5 - California Geology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EART 5L - California Geology Laboratory (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EART 10 - Geologic Principles (5.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["EART 10L - Geologic Principles Laboratory (1.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["EART 20 - Environmental Geology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EART 20L - Environmental Geology Laboratory (1.00)"], "home": [["No Course Articulated"]]}

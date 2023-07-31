@@ -1,0 +1,12 @@
+{"away": ["BUS 20 - Financial Accounting and Reporting (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)"]]}
+{"away": ["CS 10A - Intro to Computer Science for Science, Mathematics, and Engineering I (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 26A - C as a Second Programming Language (4.50)"], ["CIS 26B - Advanced C Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["MATH 9A - First-Year Calculus (4.00)", "MATH 9B - First-Year Calculus (4.00)", "MATH 9C - First-Year Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)", "MATH 1B - Calculus (5.00)", "MATH 1C - Calculus (5.00)"]]}
+{"away": ["CS 10B - Intro to Computer Science for Science, Mathematics, and Engineering II (4.00)"], "home": [["CIS 22B - Intermediate Programming Methodologies in C++ (4.50)"], ["CIS 27 - Programming in C++ for C/Java Programmers (4.50)"], ["CIS 28 - Object Oriented Analysis and Design (4.50)"], ["CIS 29 - Advanced C++ Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["CS 10C - Intro to Data Structures and Algorithms (4.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"]]}
+{"away": ["CS 11 - Intro to Discrete Structures (4.00) Same-As: MATH 11"], "home": [["MATH 22 - Discrete Mathematics (5.00)"]]}
+{"away": ["CS 61 - Machine Organization and Assembly Language Programming (4.00)"], "home": [["CIS 21JA - Introduction to x86 Processor Assembly Language and Computer Architecture (4.50)", "CIS 21JB - Advanced x86 Processor Assembly Programming (4.50)"]]}
+{"away": ["ECON 2 - Intro to Macroeconomics (5.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"]]}
+{"away": ["ECON 3 - Intro to Microeconomics (5.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"]]}
+{"away": ["MATH 10A - Calculus of Several Variables (4.00)", "MATH 10B - Calculus of Several Variables (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"]]}
+{"away": ["MATH 31 - Applied Linear Algebra (5.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"]]}
+{"away": ["EE 20B - Linear Methods for Engineering Analysis and Design Using MATLAB (4.00)"], "home": [["No Course Articulated"]]}

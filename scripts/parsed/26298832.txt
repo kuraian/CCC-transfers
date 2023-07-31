@@ -1,0 +1,41 @@
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)", "CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 118A - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118B - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 003 - Major Works of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 004 - Major Works of the Contemporary World (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}
+{"away": ["ENL 003 - Introduction to Literature (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": ["NAS 005 - Introduction to Native American Literature (4.00)"], "home": [["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": ["UWP 001 - Introduction to Academic Literacies (4.00)"], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1AS - Intensive Composition and Reading Stretch: First Quarter (5.00)", "EWRT 1AT - Intensive Composition and Reading Stretch: Second Quarter (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}
+{"away": ["UWP 001Y - Introduction to Academic Literacies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENG 006 - Engineering Problem Solving (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENG 017 - Circuits I (4.00)"], "home": [["ENGR 37 - Introduction to Circuit Analysis (5.00)"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021C - Calculus (4.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021D - Vector Analysis (4.00)"], "home": [["MATH 1D - Calculus (5.00)"], ["MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 022A - Linear Algebra (3.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MAT 027A - Linear Algebra with Applications to Biology (4.00) Same-As: BIS 027A"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 022B - Differential Equations (3.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["MAT 027B - Differential Equations with Applications to Biology (4.00) Same-As: BIS 027B"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009A - Classical Physics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHY 009HA - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009B - Classical Physics (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHY 009C - Classical Physics (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["BIM 001 - Introduction to Biomedical Engineering (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIM 020 - Fundamentals of Bioengineering (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIM 020L - Graphics Design for BME (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["ECS 032A - Introduction to Programming (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 032B - Introduction to Data Structures (4.00)"], "home": [["CIS 22C - Data Abstraction and Structures (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)"]]}
+{"away": ["PHY 009D - Modern Physics (4.00)"], "home": [["PHYS 4D - Physics for Scientists and Engineers: Modern Physics (6.00)"]]}
+{"away": ["ENG 035 - Statics (4.00)"], "home": [["ENGR 35 - Statics (4.00)"]]}
+{"away": ["ENG 045 - Properties of Materials (4.00)"], "home": [["No Course Articulated"]]}

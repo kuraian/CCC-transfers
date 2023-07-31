@@ -1,0 +1,37 @@
+{"away": [], "home": [["In particular, it is highly recommended that students complete Biology and Calculus courses before transferring."]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 002AH - Honors General Chemistry (5.00)"], "home": [["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002BH - Honors General Chemistry (5.00)"], "home": [["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": [""], "home": [["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["CMN 003 - Interpersonal Communication Competence (4.00)"], "home": [["COMM 16 - Interpersonal Communication (5.00)"], ["COMM 16H - Interpersonal Communication - HONORS (5.00)"]]}
+{"away": ["CMN 003V - Interpersonal Communication Competence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CMN 003Y - Interpersonal Communication Competence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DRA 010 - Introduction to Acting (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001AV - Principles of Microeconomics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESP 001 - Environmental Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 001 - The Earth (4.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["GEL 050 - Physical Geology (3.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["MAT 016A - Short Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHY 001A - Principles of Physics (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 001B - Principles of Physics (3.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007C - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["ATM 060 - Introduction to Atmospheric Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ATM 060 - Introduction to Atmospheric Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 032A - Introduction to Programming (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HYD 010 - Water, Power, Society (3.00) Same-As: SAS 010"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 035 - Rivers (3.00)"], "home": [["No Course Articulated"]]}

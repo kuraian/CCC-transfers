@@ -1,0 +1,28 @@
+{"away": ["ART 10D - 2D Foundation (5.00)"], "home": [["ARTS 8 - Two-Dimensional Design (4.00)"]]}
+{"away": ["ART 15 - Introduction to Drawing for the Major (5.00)"], "home": [["ARTS 4A - Beginning Drawing (4.00)"], ["ARTS 4B - Intermediate Drawing (4.00)"]]}
+{"away": ["ART 20G - Introduction to Print Media and Drawing (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 26 - INTRODUCTION TO PRINTMAKING (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 80T - Digital Tools for Contemporary Art Practice (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTG 80G - Visual Communication and Interaction Design (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTG 91 - Introduction to Game Art Production (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 10E - 3D Foundation (5.00)"], "home": [["ARTS 10A - Three-Dimensional Design (4.00)"]]}
+{"away": ["ART 20H - Introduction to Sculpture and Public Art (5.00)"], "home": [["ARTS 37A - Sculpture (4.00)"], ["ARTS 37B - Intermediate Sculpture (4.00)"], ["ARTS 37C - Advanced Sculpture (4.00)"]]}
+{"away": ["CMPM 25 - Introduction to 3D Modeling (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CMPM 26 - Introduction to 3D Animation (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 10F - 4D Foundation (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["1 . 2 . 3 . ART 20I - Introduction to Photography (5.00)"], "home": [["PHTG 1 - Basic Photography (3.00)"], ["PHTG 2 - Intermediate Photography (3.00)"], ["PHTG 3 - Advanced Photography (3.00)"], ["PHTG 4 - Introduction to Digital Photography (3.00)"], ["PHTG 5 - Intermediate Digital Photography (3.00)"], ["PHTG 6 - Photography Production Laboratory (2.00)"]]}
+{"away": ["ART 20K - Introduction to New Media and Digital Artmaking (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTG 80I - Foundations of Play (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CMPM 80K - Foundations of Video Game Design (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FILM 20P - Introduction to Production Technique (5.00)"], "home": [["F/TV 20 - Beginning Video Production (4.00)"], ["F/TV 48S - Film/Television Production Workshop (1.00)"]]}
+{"away": ["MUSC 1C - University Concert Choir (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 2 - University Orchestra (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 3 - Large Jazz Ensemble (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 6 - Classical Guitar Ensemble (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 9 - Wind Ensemble (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 13 - Beginning Theory & Musicianship I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 14 - Beginning Theory & Musicianship II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 15 - Preparatory Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 30A - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 10 - Introduction to Theater Design and Technology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 20 - Introductory Studies in Acting (5.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"], ["THEA 20B - Theory and Technique of Acting (Modern Period) (4.00)"], ["THEA 20C - Theory and Technique of Acting (Classic Period) (4.00)"]]}

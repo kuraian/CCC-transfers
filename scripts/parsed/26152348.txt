@@ -1,0 +1,52 @@
+{"away": ["I A STD 1 - Introduction to International and Area Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["COM LIT 1D - Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2DW - Survey of Literature: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4DW - Literature and Writing: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETHNMUS 5 - Music Around World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 3 - Cultural Geography (5.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["HIST 2B - Social Knowledge and Social Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 22 - Contemporary World History, 1760 to Present (5.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["WL ARTS 20 - Culture: Introduction (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["WL ARTS 33 - Colonialism and Resistance (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 1 - Principles of Economics(Microeconomics) (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics(Macroeconomics) (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["GEOG 4 - Globalization: Regional Development and World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 6 - World Regions: Concepts and Contemporary Issues (5.00)"], "home": [["GEO 10 - World Regional Geography (4.00)"]]}
+{"away": ["POL SCI 50 - Introduction to Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL SCI 50R - Introduction to Comparative Politics--Research Version (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["ART HIS 29 - Chinese Art (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART HIS 31 - Art of India and Southeast Asia (5.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"]]}
+{"away": ["ASIAN 30 - Languages and Cultures of Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 40 - Popular Culture in Modern Chinese Societies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 50 - Chinese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 50W - Chinese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN M60 - Introduction to Chinese Religions (5.00) Same-As: RELIGN M60B"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN M60W - Introduction to Chinese Religions (5.00) Same-As: RELIGN M61W"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 80 - Chinese Cinema: Pictures, Prisms, Products, Projections (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLUSTER 25A - Politics, Society, and Urban Culture in East Asia (6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9A - Introduction to Asian Civilizations: History of India (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9C - Introduction to Asian Civilizations: History of Japan (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9E - Introduction to Asian Civilizations: Southeast Asian Crossroads (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 11B - History of China, circa 1000 to 2000 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 11BH - History of China: 1000 to 1950 (Honors) (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 97G - Introduction to Historical Practice: Variable Topics in East Asian History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 97M - Introduction to Historical Practice: Variable Topics in Southeast Asian History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 97N - Introduction to Historical Practice: Variable Topics in Indian History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 31 - Introduction to Southeast Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 33 - Introduction to East Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 50 - Japanese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 70 - Images of Japan: Literature and Film (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 75 - Anime (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 80 - How Does It Move? Action and Moving Image in Modern Japan (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 40W - Korean Wave: Globalization of South Korean Popular Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 50 - History of Korean Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA M60 - Introduction to Korean Religions (5.00) Same-As: RELIGN M60C"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 70 - Images of Korea (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 75 - Introduction to Korean Literature and Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOREA 80 - Introduction to Korean Cinema (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN M20 - Visible Language: Study of Writing (5.00) Same-As: ASIAN M20, NR EAST M20, IE STD M20, SLAVC M20"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 50 - Southeast Asian Societies and Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 70 - Modern Southeast Asian Literature (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["VIETMSE 40 - War in Vietnamese Popular Culture (5.00)"], "home": [["No Course Articulated"]]}

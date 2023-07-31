@@ -1,0 +1,17 @@
+{"away": ["MUSC 30A - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 30B - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 30C - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 1C - University Concert Choir (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 2 - University Orchestra (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 3 - Large Jazz Ensemble (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 5A - West Javanese Gamelan Ensemble: Beginning (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 5B - West Javanese Gamelan Ensemble: Intermediate (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 5C - West Javanese Gamelan Ensemble: Advanced (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 8A - Beginning Balinese Gamelan (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 8B - Advanced Balinese Gamelan (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 9 - Wind Ensemble (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 10 - Central Asian Ensemble (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 12 - Mariachi Ensemble (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FREN 1 - First-Year French (5.00)"], "home": [["FREN 1 - Elementary French (First Quarter) (5.00)", "FREN 2 - Elementary French (Second Quarter) (5.00)", "FREN 3 - Elementary French (Third Quarter) (5.00)"]]}
+{"away": ["GERM 1 - First-Year German (5.00)"], "home": [["GERM 1 - Elementary German (First Quarter) (5.00)", "GERM 2 - Elementary German (Second Quarter) (5.00)", "GERM 3 - Elementary German (Third Quarter) (5.00)"]]}
+{"away": ["ITAL 1 - First-Year Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)", "ITAL 2 - Elementary Italian (Second Quarter) (5.00)", "ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}

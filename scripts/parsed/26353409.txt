@@ -1,0 +1,8 @@
+{"away": ["MUSC 11B - Introduction to Jazz (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 13 - Beginning Theory & Musicianship I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 14 - Beginning Theory & Musicianship II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 15 - Preparatory Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 30A - Theory, Literature, and Musicianship (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 74 - Spontaneous Composition/Improvisation I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 75 - Jazz Theory I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUSC 3 - Large Jazz Ensemble (2.00)"], "home": [["No Course Articulated"]]}

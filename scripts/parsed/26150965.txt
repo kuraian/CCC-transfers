@@ -1,0 +1,8 @@
+{"away": ["GEOG 1 - Earth's Physical Environment (5.00)"], "home": [["GEO 1 - Physical Geography (4.00)"]]}
+{"away": ["GEOG 2 - Biodiversity in Changing World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 3 - Cultural Geography (5.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["GEOG 4 - Globalization: Regional Development and World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 6 - World Regions: Concepts and Contemporary Issues (5.00)"], "home": [["GEO 10 - World Regional Geography (4.00)"]]}
+{"away": ["GEOG 5 - People and Earth's Ecosystems (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 7 - Introduction to Geographic Information Systems (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STATS 12 - Introduction to Statistical Methods for Geography and Environmental Studies (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}

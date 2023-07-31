@@ -1,0 +1,7 @@
+{"away": ["USP 1 - History of U.S. Urban Communities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 2 - Urban World System (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 3 - The City and Social Theory (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["USP 4 - \u2013 Introduction to Geographic Information Systems (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POLI 30 - Political Inquiry (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["SOCI 60 - Practice of Social Research (4.00)"], "home": [["SOC 14 - The Process of Social Research (4.00)"]]}
+{"away": ["PSYC 60 - Introduction to Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}

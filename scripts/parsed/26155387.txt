@@ -1,0 +1,51 @@
+{"away": ["GLBL ST 1 - Introduction to Globalization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL SCI 6 - Introduction to Data Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL SCI 6R - Introduction to Data Analysis--Research Version (5.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["STATS 10 - Introduction to Statistical Reasoning (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["One Introductory Statistics Course"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 23 - Engineering Statistics (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["HIST 10B - History of Africa, 1800 to Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 22 - Contemporary World History, 1760 to Present (5.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["POL SCI 10 - Introduction to Political Theory (5.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL SCI 20 - World Politics (5.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL SCI 50 - Introduction to Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["ECON 1 - Principles of Economics(Microeconomics) (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics(Macroeconomics) (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ENVIRON 12 - Sustainability and Environment (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 51 - Sociology of Migration (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 4 - Globalization: Regional Development and World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["ANTHRO 4 - Culture and Communication (5.00)"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["COM LIT 1C - World Literature: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2CW - Survey of Literature: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 1D - Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2DW - Survey of Literature: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4CW - Literature and Writing: Age of Enlightenment to 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4DW - Literature and Writing: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETHNMUS M25 - Global Pop (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GENDER 10 - Introduction to Gender Studies (5.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["GEOG 3 - Cultural Geography (5.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["GEOG 6 - World Regions: Concepts and Contemporary Issues (5.00)"], "home": [["GEO 10 - World Regional Geography (4.00)"]]}
+{"away": ["HIST 2B - Social Knowledge and Social Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["WL ARTS 20 - Culture: Introduction (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["WL ARTS 33 - Colonialism and Resistance (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIA AM 10 - History of Asian Americans (5.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"], ["NAIS 31 - Ethnic Studies: Native Hawaiian and Pacific Islander Experiences (4.00)"]]}
+{"away": ["ASIAN 70C - Popular Culture in East Asia from 1945 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHICANO 10B - Introduction to Chicana/Chicano Studies: Social Structure and Contemporary Conditions (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FRNCH 14 - Introduction to French Culture and Civilization in English (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FRNCH 14W - Introduction to French Culture and Civilization in English (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8A - Colonial Latin America (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9E - Introduction to Asian Civilizations: Southeast Asian Crossroads (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 31 - Introduction to Southeast Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 33 - Introduction to East Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 50 - Introduction to Latin America (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITALIAN 42A - Italy through Ages in English: Saints and Sinners in Early Modern Italy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITALIAN 42B - Italy through Ages in English: Modern and Contemporary Italy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITALIAN 46 - Italian Cinema and Culture in English (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD 50CW - Making and Studying Modern Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 90A - Introduction to Russian Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 90B - Russian Civilization in 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUSSN 90BW - Russian Civilization in 20th Century (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 42 - Iberian Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 44 - Latin American Cultures (5.00)"], "home": [["No Course Articulated"]]}

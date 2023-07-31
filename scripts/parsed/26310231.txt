@@ -1,0 +1,35 @@
+{"away": ["RST 001 - Survey of Religion (4.00)"], "home": [["HUMI 9 - Introduction to Comparative Religion (4.00)"], ["HUMI 9H - Introduction to Comparative Religion - HONORS (4.00)"]]}
+{"away": ["RST 001A - Pilgrimage (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001B - Death & Afterlife (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001C - Sacrifice (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001D - Conversion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001E - Fundamentalism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001F - Religion Today (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001G - Myth, Ritual, & Symbolism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001H - Sex, Marriage, & Divorce in Medieval & Modern Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 001J - Music, Voice, & the Word (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 005 - Comparative Religion (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 006 - Introduction to Health Sciences & the Humanities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 008 - Healthcare & Religious Ethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 010 - Contemporary Ethical Issues (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 010A - Contemporary Ethical Issues (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 011 - Ethical Eating (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 012 - Emergence of Judaism, Christianity & Islam (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 015Y - Reading War/Fighting War (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["RST 021 - The Bible & Its Interpreters (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 023 - Introduction to Judaism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 030 - Religions of South Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 031 - Introduction to Jainism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 032 - History of Yoga (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 033 - Magic & Demons in South Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 040 - New Testament (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 042 - Religion & Science Fiction (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 045 - Christianity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 060 - Introduction to Islam (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 065C - The Qur'an and Its Interpretation (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 066 - The Song of God: The Bhagavad Gita (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 067 - Modern Hinduism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 068 - Introduction to Hinduism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 069 - Introduction to Hindu Mythology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 070 - Religion & Language (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RST 075 - Introduction to Chinese Philosophy (4.00)"], "home": [["No Course Articulated"]]}

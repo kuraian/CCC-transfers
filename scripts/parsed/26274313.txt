@@ -1,0 +1,22 @@
+{"away": ["SPANISH 1 - Elementary Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)"]]}
+{"away": ["SPANISH 2 - Elementary Spanish (5.00)"], "home": [["SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPANISH 3 - Intermediate Spanish (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)", "SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)"]]}
+{"away": ["SPANISH 21 - Spanish for Bilingual Students, First Course (3.00)"], "home": [["No Course Articulated"], []]}
+{"away": ["SPANISH 4 - Intermediate Spanish (5.00)"], "home": [["SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)", "SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPANISH 22 - Spanish for Bilingual Students, Second Course (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPANISH 25 - Reading and Analysis of Literary Texts (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTUG 50 - Intensive Portuguese for Spanish Speakers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPANISH 25 - Reading and Analysis of Literary Texts (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPANISH 1 - Elementary Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)"]]}
+{"away": ["SPANISH 2 - Elementary Spanish (5.00)"], "home": [["SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPANISH 3 - Intermediate Spanish (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)", "SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)"]]}
+{"away": ["SPANISH 21 - Spanish for Bilingual Students, First Course (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPANISH 4 - Intermediate Spanish (5.00)"], "home": [["SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)", "SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPANISH 22 - Spanish for Bilingual Students, Second Course (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPANISH 25 - Reading and Analysis of Literary Texts (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPANISH 1 - Elementary Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)", "SPAN 2 - Elementary Spanish (Second Quarter) (5.00)"]]}
+{"away": ["SPANISH 2 - Elementary Spanish (5.00)"], "home": [["SPAN 2 - Elementary Spanish (Second Quarter) (5.00)", "SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPANISH 3 - Intermediate Spanish (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)"]]}
+{"away": ["SPANISH 21 - Spanish for Bilingual Students, First Course (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPANISH 4 - Intermediate Spanish (5.00)"], "home": [["SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)", "SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPANISH 22 - Spanish for Bilingual Students, Second Course (3.00)"], "home": [["No Course Articulated"]]}

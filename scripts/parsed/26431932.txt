@@ -1,0 +1,22 @@
+{"away": ["DNCE 14 - Intro to Choreography (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 19 - Intro to Dance Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 66A - Beginning West African Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 66B - Intermediate West African Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 67A - Beginning Modern Dance Technique (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 67B - Intermediate Modern Dance Technique (2.00)"], "home": [["DANC 23B - Theory and Technique of Contemporary (Modern) Dance II (1.00)"]]}
+{"away": ["DNCE 67C - Advanced Modern Dance Technique (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 68 - Somatic Techniques and Experimental Anatomy (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 69A - Beginning Eighteenth-Century Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 69B - Intermediate Eighteenth-Century Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["1 . 2 . DNCE 70A - Beginning Hip Hop Dance (2.00)"], "home": [["DANC 23L - Theory and Technique of Hip-Hop I (Popular American Dance) (1.00)"]]}
+{"away": ["DNCE 70B - Intermediate Hip Hop Dance (2.00)"], "home": [["DANC 23M - Theory and Technique of Hip-Hop II (Popular American Dance II) (1.00)"]]}
+{"away": ["DNCE 70C - Advanced Hip Hop Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 71A - Beginning Ballet Technique (2.00)"], "home": [["DANC 22K - Theory and Technique of Ballet I (1.00)"]]}
+{"away": ["DNCE 71B - Intermediate Ballet Technique (2.00)"], "home": [["DANC 22L - Theory and Technique of Ballet II (1.00)"]]}
+{"away": ["DNCE 73A - Beginning Jazz Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 73B - Intermediate Jazz Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 74A - Beginning Yoga for Dancers (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 74B - Intermediate Yoga for Dancers (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 75A - Beginning Dance Techniques and Practices (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 75B - Intermediate Dance Techniques and Practices (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DNCE 81 - Dance Cultures, Culture in Dance (4.00)"], "home": [["No Course Articulated"]]}

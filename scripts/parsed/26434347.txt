@@ -1,0 +1,16 @@
+{"away": ["EDUC 5 - Introduction to Education Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 10 - Principles of Learning Strategies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 1 - Imagining Teaching (2.00)"], "home": [["EDUC 1 - Introduction to Elementary Education in a Diverse Society (3.00)"]]}
+{"away": ["EDUC 2 - Looking in Classrooms (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 10 - Principles of Learning Strategies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 19 - Topics in Education (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 32A - Introduction to Children with Special Needs (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 32B - Children Stress and Trauma (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 32C - Children with Challenging Behavior (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 41 - Culture, Power, and School Knowledge (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 42 - Education for Critical Consciousness (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 50 - Intercollegiate Athletics and American Higher Education (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 51 - Introduction to Higher Education: Current Issues and Debates (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 52 - Black Brilliance Matters (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 60 - Development of Performance Excellence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 61 - Introduction to Human Development (4.00)"], "home": [["No Course Articulated"]]}

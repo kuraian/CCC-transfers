@@ -1,0 +1,5 @@
+{"away": ["LIIT 1A - Italian Conversation (2.50)", "LIIT 1AX - Analysis of Italian (2.50)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)"]]}
+{"away": ["LIIT 1B - Italian Conversation (2.50)", "LIIT 1BX - Analysis of Italian (2.50)"], "home": [["ITAL 2 - Elementary Italian (Second Quarter) (5.00)"]]}
+{"away": ["LIIT 1C - Italian Conversation (2.50)", "LIIT 1CX - Analysis of Italian (2.50)"], "home": [["ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["LTIT 2A - Intermediate Italian I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LTIT 2B - Intermediate Italian II (5.00)"], "home": [["No Course Articulated"]]}

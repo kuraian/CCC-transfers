@@ -1,0 +1,41 @@
+{"away": ["DANCE 36 - History of Modern Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 45 - History and Appreciation of Dance (4.00)"], "home": [["DANC 38A - Appreciation of Dance (4.00) All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["www.theaterdance.ucsb.edu . Completion of the program depends upon successful progress and recommendation of the dance faculty. Assessment of a B.F.A. student's progress is made on a quarterly basis, and provision is made for students who appear unable to complete the B.F.A. program requirements to graduate with the less specialized B.A. degree, providing they maintain the standards for that degree."]]}
+{"away": ["PREPARATION FOR THE MAJOR Dance 36 Dance 45 Dance 50 and 51"], "home": [["First Year technique - 18 quarter units of lower-division embodied practice selected from the following: Dance 43A-B-C, 46, 47A-B-C, 56A-B-C,"]]}
+{"away": ["82AA-ZZ"], "home": [["Second Year technique - 18 quarter units of lower-division embodied practice selected from the following: Dance 47D-E-F and 56D-E-F"]]}
+{"away": ["Music 11 Theater 5 Theater 19 and 23D Two units Theater 29D and one additional unit from Theater 29A-B-C Music 15 or 17 DANCE 50 - Fundamentals of Choreography (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 51 - Improvisation (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 43A - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23L - Theory and Technique of Hip-Hop I (Popular American Dance) (1.00)"]]}
+{"away": ["DANCE 43B - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23M - Theory and Technique of Hip-Hop II (Popular American Dance II) (1.00)"]]}
+{"away": ["DANCE 43C - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23N - Theory and Technique of Hip-Hop III (Popular American Dance III) (1.00)"]]}
+{"away": ["DANCE 46 - Introduction to Social Dance: History and Practice (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 47A - Ballet I (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 47B - Ballet I (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 47C - Ballet I (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 56A - Modern Dance I (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 56B - Modern Dance I (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 56C - Modern Dance I (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 43A - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23L - Theory and Technique of Hip-Hop I (Popular American Dance) (1.00)"]]}
+{"away": ["DANCE 43B - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23M - Theory and Technique of Hip-Hop II (Popular American Dance II) (1.00)"]]}
+{"away": ["DANCE 43C - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23N - Theory and Technique of Hip-Hop III (Popular American Dance III) (1.00)"]]}
+{"away": ["DANCE 46 - Introduction to Social Dance: History and Practice (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 47D - Ballet II (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 47E - Ballet II (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 47F - Ballet II (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 56D - Modern Dance II (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 56E - Modern Dance II (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["DANCE 56F - Modern Dance II (2.00 - 4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["MUS 11 - Fundamentals of Music (4.00)"], "home": [["MUSI 2 - Music Fundamentals (3.00)"]]}
+{"away": ["THTR 5 - Introduction to Acting (3.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"]]}
+{"away": ["THTR 19 - Design Fundamentals for Dance and Theatre (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 23D - Dance Lighting Design (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29D - Run Crew Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29A - Scenic Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29B - Lighting Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29C - Costume Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MUS 15 - Music Appreciation (4.00)"], "home": [["MUSI 1A - Music Appreciation: Music in Western Cultures (4.00)"]]}
+{"away": ["MUS 17 - World Music (4.00)"], "home": [["No Course Articulated"]]}

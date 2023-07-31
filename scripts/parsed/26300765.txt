@@ -1,0 +1,20 @@
+{"away": ["CHN 001 - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 002 - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 003 - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 004 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 005 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 006 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 001BL - Accelerated Written Chinese I (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 002BL - Accelerated Written Chinese II (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 003BL - Accelerated Written Chinese III (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 001CN - Mandarin for Cantonese Speakers I (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 002CN - Mandarin for Cantonese Speakers II (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 003CN - Mandarin for Cantonese Speakers III (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 009 - Introduction to Chinese Language & Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 010 - Modern Chinese Literature (In English) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 011 - Great Books of China (in English) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 050 - Introduction to the Literature of China & Japan (4.00) Same-As: JPN 050"], "home": [["No Course Articulated"]]}
+{"away": ["COM 014 - Introduction to Poetry (3.00)"], "home": [["ELIT 11 - Introduction to Poetry (4.00)"]]}
+{"away": ["HIS 009A - History of East Asian Civilization (4.00)"], "home": [["ASAM 42A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: HIST 19A"], ["HIST 19A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: ASAM 42A"]]}
+{"away": ["JPN 010 - Masterworks of Japanese Literature (in English) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LIN 001 - Introduction to Linguistics (4.00)"], "home": [["LING 1 - Introduction to Linguistics (4.00)"]]}

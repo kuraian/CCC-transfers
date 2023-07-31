@@ -1,0 +1,35 @@
+{"away": ["AMERSTD 10 - Introduction to American Studies (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["AFRICAM 5A - African American Life and Culture in the United States (4.00)"], "home": [["AFAM 12A - African American History to 1865 (4.00) Same-As: HIST 18A"], ["AFAM 12B - African American History Since 1865 (4.00) Same-As: HIST 18B"]]}
+{"away": ["AFRICAM 5B - African American Life and Culture in the United States (4.00)"], "home": [["AFAM 10 - An Introduction to African American Studies (4.00)"], ["AFAM 11 - Sankofa: Roots of the African American Experience (4.00)"]]}
+{"away": ["ANTHRO 2 - Introduction to Archaeology (4.00)"], "home": [["ANTH 4 - World Prehistory (4.00)"]]}
+{"away": ["ASAMST 20A - Introduction to the History of Asians in the United States (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["ASAMST 20AC - Asian American Communities and Race Relations (4.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["CHICANO 20 - Introduction to Chicano Culture (4.00)"], "home": [["CHLX 11 - Chicanx Culture (4.00)"]]}
+{"away": ["CHICANO 40 - Introduction to Chicano Literature in English (4.00)"], "home": [["ICS 35 - Chicano/a and Latino/a Literature (4.00)"]]}
+{"away": ["CHICANO 50 - Introduction to Chicano History (4.00)"], "home": [["CHLX 12 - Chicanx and Latinx History (4.00)"]]}
+{"away": ["CHICANO 70 - Latino Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENV DES 1 - People and Environmental Design (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM C10 - Environmental Issues (4.00) Same-As: LNS C30V"], "home": [["ESCI 19 - Environmental Biology (5.00)"]]}
+{"away": ["ESPM C11 - Americans and the Global Forest (4.00) Same-As: LNS C30U"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM 15 - Introduction to Environmental Sciences (3.00)"], "home": [["ESCI 1 - Environmental Science (4.00)"]]}
+{"away": ["ESPM 50AC - Introduction to Culture and Natural Resource Management (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ESPM 60 - Environmental Policy, Administration, and Law (4.00)"], "home": [["E S 6 - Introduction to Environmental Law (4.00)"]]}
+{"away": ["ETH STD 10AC - A History of Race and Ethnicity in Western North America, 1598-Present (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETH STD 21AC - A Comparative Survey of Racial and Ethnic Groups in the U.S. (4.00)"], "home": [["CETH 11 - Race and Ethnicity: Belonging and Exclusion in the U.S. (4.00)"]]}
+{"away": ["ETH STD 41AC - A Comparative Survey of Protest Movement Since the 60's (4.00)"], "home": [["POLI 16 - Grassroots Democracy: Social Movements Since the 1960s (4.00) Same-As: ICS 36"]]}
+{"away": ["GEOG 20 - Globalization (4.00)"], "home": [["INTL 5 - Contemporary Global Issues (4.00)"]]}
+{"away": ["GEOG 50AC - California (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 70AC - The Urban Experience (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GWS 14 - Gender, Sexuality, and Race in Global Political Issues (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GWS 20 - Introduction to Feminist Theory (4.00)"], "home": [["PHIL 49 - Women and Philosophy (4.00) Same-As: WMST 49"]]}
+{"away": ["HISTORY 7A - The United States from Settlement to Civil War (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}
+{"away": ["HISTORY 7B - The United States from Civil War to Present (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)", "HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"]]}
+{"away": ["MEDIAST 10 - Introduction to Media Studies (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["NATAMST 20A - Introduction to Native American Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NATAMST 20B - Introduction to Native American Studies II: Cultural Practice, Art, and Identity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NATAMST 71 - Native Americans in North America to 1900 (4.00)"], "home": [["NAIS 12 - Ethnic Studies and the Historical Experiences of Native Americans (4.00)"]]}
+{"away": ["NATAMST 72 - Native Americans in North America 1900-Present (4.00)"], "home": [["NAIS 11 - Native American Contemporary Society (4.00)"]]}
+{"away": ["POL SCI 1 - Introduction to American Politics (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["PB HLTH 14 - Healthy People: Introduction to Health Promotion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCIOL 5 - Evaluation of Evidence (4.00)"], "home": [["No Course Articulated"]]}

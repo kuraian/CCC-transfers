@@ -1,0 +1,4 @@
+{"away": ["MGT 45 - Principles of Accounting (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MGT 4 - Financial Accounting (4.00) Same-As: ECON 4"], "home": [["ACCT 1A - Financial Accounting I (5.00)"], ["ACCT 1AH - Financial Accounting I - HONORS (5.00)"]]}
+{"away": ["MGT 5 - Managerial Accounting (4.00)"], "home": [["ACCT 1C - Managerial Accounting (5.00)"], ["ACCT 1CH - Managerial Accounting - HONORS (5.00)"]]}
+{"away": ["MGT 71 - Operations Management (4.00)"], "home": [["No Course Articulated"]]}

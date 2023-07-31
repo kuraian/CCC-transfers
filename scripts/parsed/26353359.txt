@@ -1,0 +1,14 @@
+{"away": ["FMST 1 - Feminist Studies: An Introduction (5.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["FMST 10 - Feminisms of/and the Global South (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 13 - California Indian History (5.00) Same-As: CRES 13"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 14 - Popular Culture in South Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 15 - Gender, Sexuality, and Transnational Migration Across the Americas (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 16 - Media Histories--News and New Media (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 18 - Black Feminist Ethnographies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 19 - Black Feminisms: An Introduction (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 20 - Feminism and Social Justice (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 21 - Religion in American Politics and Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 30 - Feminism and Science (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 31 - Disability Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 40 - Sexuality and Globalization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FMST 41 - Trans Gender Bodies (5.00)"], "home": [["No Course Articulated"]]}

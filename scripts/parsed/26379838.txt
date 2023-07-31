@@ -1,0 +1,17 @@
+{"away": ["MATH 10A - Calculus I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10B - Calculus II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 10C - Calculus III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 18 - Linear Algebra (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["COGS 14A - Introduction to Research Methods (4.00)"], "home": [["PSYC 2 - Research Methods in Psychology (6.00)"]]}
+{"away": ["COGS 1 - Introduction to Cognitive Science (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["COGS 10 - Cognitive Consequences of Technology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DSGN 1 - Design of Everyday Things (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COGS 13 - Field Methods: Studying Cognition in the Wild (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COGS 17 - Neurobiology of Cognition (4.00)"], "home": [["PSYC 24 - Introduction to Psychobiology (4.00)"]]}
+{"away": ["BILD 62 - Introduction to Python for Biologists (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COGS 18 - Introduction to Python (4.00)"], "home": [["CIS 40 - Introduction to Programming in Python (4.50)"]]}
+{"away": ["CSE 6R - Introduction to Computer Science and Object-Oriented Programming: Python (4.00)"], "home": [["CIS 41A - Python Programming (4.50)"]]}
+{"away": ["CSE 8A - Introduction to Programming and Computational Problem Solving I (4.00)"], "home": [["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)"], ["CIS 40 - Introduction to Programming in Python (4.50)"]]}
+{"away": ["CSE 11 - Introduction to Programming and Computational Problem Solving - Accelerated Pace (4.00)"], "home": [["CIS 35A - Java Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}

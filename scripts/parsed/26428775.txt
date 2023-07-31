@@ -1,0 +1,62 @@
+{"away": [], "home": [["All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["www.eastasian.ucsb.edu"]]}
+{"away": ["PREPARATION FOR THE MAJOR Language requirement:"], "home": [["Chinese 1, 2, 3, 4, 5, 6; or Japanese 1, 2, 3, 4, 5, 6; or Korean 1, 2, 3, 4, 5, 6; or two years of Hindi, Punjabi, Sanskrit,"]]}
+{"away": ["Tibetan or any other Asian language taught at UCSB. ("], "home": [["UCSB's Chinese, Japanese, Korean, and other Asian language courses are not"]]}
+{"away": ["automatically articulated"], "home": [[", even if community college courses are listed in the course articulation area. Students must verify their language"]]}
+{"away": ["proficiency with a placement exam"], "home": [[". If a student has taken college courses in an Asian language, and their score on the placement exam requires them to take a UCSB course that is at the same level as the college course taken elsewhere, then only subject credit will be awarded for UCSB courses"]]}
+{"away": ["that duplicate the courses taken elsewhere.) Core Cultural Courses: East Asian Cultural Studies (EACS) 4A and 4B One course from the following"], "home": [[": Chinese 26, 32, 35, 40, 80, 82; EACS 3, 5, 7, 14, 20, 21, 23, 30, 40, 47, 74, 80, 85; Japanese 17, 25, 63, 70, 73, 80; Korean 20, 60, 75; Art History 6DS, 6DW; Comparative Literature 31; History 80, 87, 88; Religious Studies 3, 4, 19, 21, 23, 31, 32, 47, 73, 74 Students who were educated through grade 9 or above in a school where a language other than English was the primary language of instruction will not get transfer credit for lower-division college courses teaching that language. Please contact the department about a language proficiency exam. Performance on language proficiency exams may satisfy major requirements."]]}
+{"away": ["CHIN 1 - Elementary Modern Chinese (5.00)", "CHIN 2 - Elementary Modern Chinese (5.00)", "CHIN 3 - Elementary Modern Chinese (5.00)"], "home": [["MAND 1 - Elementary Mandarin (First Quarter) (5.00)", "MAND 2 - Elementary Mandarin (Second Quarter) (5.00)", "MAND 3 - Elementary Mandarin (Third Quarter) (5.00)"]]}
+{"away": ["CHIN 4 - Intermediate Modern Chinese (5.00)", "CHIN 5 - Intermediate Modern Chinese (5.00)", "CHIN 6 - Intermediate Modern Chinese (5.00)"], "home": [["MAND 4 - Intermediate Mandarin (First Quarter) (5.00)", "MAND 5 - Intermediate Mandarin (Second Quarter) (5.00)", "MAND 6 - Intermediate Mandarin (Third Quarter) (5.00)"]]}
+{"away": ["JAPAN 1 - First-Year Japanese I (5.00)", "JAPAN 2 - First-Year Japanese II (5.00)", "JAPAN 3 - First-Year Japanese III (5.00)"], "home": [["JAPN 1 - Elementary Japanese (First Quarter) (5.00)", "JAPN 2 - Elementary Japanese (Second Quarter) (5.00)", "JAPN 3 - Elementary Japanese (Third Quarter) (5.00)"]]}
+{"away": ["JAPAN 4 - Second-Year Japanese I (5.00)", "JAPAN 5 - Second-Year Japanese II (5.00)", "JAPAN 6 - Second-Year Japanese III (5.00)"], "home": [["JAPN 4 - Intermediate Japanese (First Quarter) (5.00)", "JAPN 5 - Intermediate Japanese (Second Quarter) (5.00)", "JAPN 6 - Intermediate Japanese (Third Quarter) (5.00)"]]}
+{"away": ["KOR 1 - First Year Korean (5.00)", "KOR 2 - First Year Korean (5.00)", "KOR 3 - First Year Korean (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOR 4 - Second Year Korean (5.00)", "KOR 5 - Second Year Korean (5.00)", "KOR 6 - Second Year Korean (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 4A - East Asian Traditions: Pre-Modern (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["EACS 4B - East Asian Traditions: Modern (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["ARTHI 6DS - Survey: History of Art in China (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6DW - Survey: Art of Japan and Korea (4.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"], ["ASAM 40 - History of Art: Arts of Asia (4.00) Same-As: ARTS 2G"]]}
+{"away": ["CHIN 26 - New Phenomena in 21st Century Chinese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 32 - Contemporary Chinese Religions (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 35 - Introduction to Taiwan Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 40 - Popular Culture in Modern Chinese Societies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 80 - Masterpieces in Chinese Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 82 - Modern Chinese Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["C LIT 31 - Major Works of Asian Literatures (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 3 - Introduction to Asian Religious Traditions (4.00) Same-As: RG ST 3"], "home": [["PHIL 11 - Asian Philosophy (4.00)"]]}
+{"away": ["EACS 5 - Introduction to Buddhism (4.00) Same-As: RG ST 4"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 7 - Asian Values (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 14 - Environment and Power in Japan (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 20 - Nature: East Asian Views (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 21 - Zen Buddhism (4.00) Same-As: RG ST 21"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 23 - Introduction to Chinese Buddhism (4.00) Same-As: RG ST 23"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 30 - Tourism in East Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 40 - Gender and Sexuality in Modern Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 47 - Introduction to Daoism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 74 - The Western Discovery of Buddhism (4.00) Same-As: RG ST 74"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 80 - Chinese Civilization (4.00) Same-As: HIST 80"], "home": [["No Course Articulated"]]}
+{"away": ["EACS 85 - Modern China: An Introduction (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 80 - Chinese Civilization (4.00) Same-As: EACS 80"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 87 - Japanese History Through Art and Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 88 - Survey of South Asian History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 17 - Imagining the Samurai (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 25 - Violence and the Japanese State (4.00) Same-As: HIST 25"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 63 - Sociology of Japan (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 70 - Japan in Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["", "JAPAN 73 - Introduction to Japanese Religion: Texts, Concepts, and Representations (4.00) Same-As: RG ST 73"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 80 - Masterpieces of Japanese Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOR 20 - The New Korean Wave (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOR 60 - Topics in Korean Television: Drama and Social Reality (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["KOR 75 - Introduction to Popular Culture in Korean Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 3 - Introduction to Asian Religious Traditions (4.00) Same-As: EACS 3"], "home": [["PHIL 11 - Asian Philosophy (4.00)"]]}
+{"away": ["RG ST 4 - Introduction to Buddhism (4.00) Same-As: EACS 5"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 19 - The Gods and Goddesses of India (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 21 - Zen Buddhism (4.00) Same-As: EACS 21"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 23 - Introduction to Chinese Buddhism (4.00) Same-As: EACS 23"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 31 - The Religions of Tibet (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 32 - Contemporary Chinese Religions (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 47 - Introduction to Daoism (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 73 - Introduction to Japanese Religion: Texts, Concepts, and Representations (4.00) Same-As: JAPAN 73"], "home": [["No Course Articulated"]]}

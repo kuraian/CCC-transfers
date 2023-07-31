@@ -1,0 +1,10 @@
+{"away": ["ECON 3 - Intro to Microeconomics (5.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"]]}
+{"away": ["PBPL 1 - Intro to Public Policy Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PBPL 2 - Politics and Public Policy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PBPL 4 - Ethics, Professionalism, and Public Policy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 17B - Intro to United States History (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"]]}
+{"away": ["HIST 20 - World History: Twentieth Century (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["SOC 20 - American Society (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSYC 11 - Psychological Methods: Statistical Procedures (5.00)"], "home": [["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["SOC 5 - Statistical Analysis (5.00)"], "home": [["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STAT 4 - Elements of Data Science (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}

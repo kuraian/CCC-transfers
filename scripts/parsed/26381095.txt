@@ -1,0 +1,5 @@
+{"away": ["LIGM 1A - German Conversation (2.50)", "LIGM 1AX - Analysis of German (2.50)"], "home": [["", "GERM 1 - Elementary German (First Quarter) (5.00)"]]}
+{"away": ["LIGM 1B - German Conversation (2.50)", "LIGM 1BX - Analysis of German (2.50)"], "home": [["", "GERM 2 - Elementary German (Second Quarter) (5.00)"]]}
+{"away": ["LIGM 1C - German Conversation (2.50)", "LIGM 1CX - Analysis of German (2.50)"], "home": [["", "GERM 3 - Elementary German (Third Quarter) (5.00)"]]}
+{"away": ["LTGM 2A - Intermediate German I (5.00)"], "home": [["", "GERM 4 - Intermediate German (First Quarter) (5.00)"]]}
+{"away": ["LTGM 2B - Intermediate German II (5.00)"], "home": [["", "No Course Articulated"]]}

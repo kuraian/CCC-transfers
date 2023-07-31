@@ -1,0 +1,14 @@
+{"away": ["AN N E A 10W - Jerusalem: Holy City (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 12W - Jerusalem; Holy City (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 15 - Women and Power in Ancient World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 15W - Women and Power in Ancient World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A M60 - Achaemenid Civilization and Empire of Alexander (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9D - Introduction to Asian Civilizations: History of Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IRANIAN 55 - Gender and Sexuality in Arts and Literature of Iran and Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["IRANIAN M60 - Achaemenid Civilization and Empire of Alexander (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ISLM ST M20 - Introduction to Islam (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JEWISH M10 - Introduction to Judaism (5.00) Same-As: RELIGN M10"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD 50A - First Civilzations (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RELIGN M50 - Origins of Judaism, Christianity, and Islam (5.00) Same-As: M E STD M50B, AN N E A M50B"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD 50CW - Making and Studying Modern Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NR EAST M20 - Visible Language: Study of Writing (5.00) Same-As: ASIAN M20, IE STD M20, SLAVC M20, SEASIAN M20"], "home": [["No Course Articulated"]]}

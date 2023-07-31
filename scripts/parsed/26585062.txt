@@ -1,0 +1,92 @@
+{"away": ["ABT 049 - Field Equipment Operation (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ABT 052 - Field Equipment Welding (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FST 050 - Introduction to Food Preservation (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 041L - Domestic Animal Production Laboratory (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049A - Animal Management Practices: Aquaculture (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049B - Animal Management Practices: Beef (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049C - Animal Management Practices: Dairy (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049D - Animal Management Practices: Goats (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049E - Animal Management Practices: Horses (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049F - Animal Management Practices: Laboratory Animals (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049G - Animal Management Practices: Meats (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049H - Animal Management Practices: Poultry (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049I - Animal Management Practices: Sheep (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 049J - Animal Management Practices: Swine (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRD 020 - Food Systems (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 015 - Introduction to Sustainable Agriculture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLP 040 - Edible Mushroom Cultivation (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 049 - Organic Crop Production Practices (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENL 003 - Introduction to Literature (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": [""], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1AS - Intensive Composition and Reading Stretch: First Quarter (5.00)", "EWRT 1AT - Intensive Composition and Reading Stretch: Second Quarter (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}
+{"away": ["UWP 048 - Style in the Essay (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["UWP 049 - Writing Research Papers (4.00)"], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"], ["PHIL 3 - Critical Thinking and Writing (5.00)"]]}
+{"away": ["", "CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 003 - Major Works of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 004 - Major Works of the Contemporary World (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}
+{"away": ["NAS 005 - Introduction to Native American Literature (4.00)"], "home": [["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": ["ANS 001 - Domestic Animals & People (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANS 002 - Introductory Animal Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CRD 001 - The Community (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["MAT 016A - Short Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHI 014 - Ethical & Social Problems in Contemporary Society (4.00)"], "home": [["ICS 17 - Critical Consciousness and Social Change (4.00)"], ["ICS 17H - Critical Consciousness and Social Change - HONORS (4.00)"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 024 - Introduction to Ethics (4.00)"], "home": [["PHIL 2 - Social and Political Philosophy (4.00)"], ["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PHY 001A - Principles of Physics (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 004 - Basic Concepts in Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 003 - Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["VEN 002 - Introduction to Viticulture (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 010 - Everyday Biology (4.00)"], "home": [["BIOL 10 - Introductory Biology (5.00)"], ["BIOL 10H - Introductory Biology - HONORS (5.00)"]]}
+{"away": [""], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CRD 001 - The Community (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["FST 001 - Principles of Food Science (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 005 - Critical Reasoning (4.00)"], "home": [["PHIL 4 - Critical Thinking (4.00)"]]}
+{"away": ["PHI 031 - Appraising Scientific Reasoning (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 014 - Ethical & Social Problems in Contemporary Society (4.00)"], "home": [["ICS 17 - Critical Consciousness and Social Change (4.00)"], ["ICS 17H - Critical Consciousness and Social Change - HONORS (4.00)"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 024 - Introduction to Ethics (4.00)"], "home": [["PHIL 2 - Social and Political Philosophy (4.00)"], ["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PLS 002 - Botany & Physiology of Cultivated Plants (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 004 - Basic Concepts in Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["SSC 010 - Soils in Our Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 003 - Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["ESP 001 - Environmental Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["WFC 010 - Wildlife Ecology & Conservation (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 010 - Everyday Biology (4.00)"], "home": [["BIOL 10 - Introductory Biology (5.00)"], ["BIOL 10H - Introductory Biology - HONORS (5.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["FST 001 - Principles of Food Science (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 016A - Short Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["PHI 014 - Ethical & Social Problems in Contemporary Society (4.00)"], "home": [["ICS 17 - Critical Consciousness and Social Change (4.00)"], ["ICS 17H - Critical Consciousness and Social Change - HONORS (4.00)"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 024 - Introduction to Ethics (4.00)"], "home": [["PHIL 2 - Social and Political Philosophy (4.00)"], ["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PLS 002 - Botany & Physiology of Cultivated Plants (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 004 - Basic Concepts in Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": [""], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["SSC 010 - Soils in Our Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 003 - Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["ESP 001 - Environmental Analysis (4.00)"], "home": [["No Course Articulated"]]}

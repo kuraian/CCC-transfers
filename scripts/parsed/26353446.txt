@@ -1,0 +1,1 @@
+{"away": ["LING 50 - Introduction to Linguistics (5.00)"], "home": [["This course must be taken at the university after transfer"]]}

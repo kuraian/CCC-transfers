@@ -1,0 +1,41 @@
+{"away": ["BILD 1 - The Cell (4.00)"], "home": [["", "BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 2 - Multicellular Life (4.00)"], "home": [["", "BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 3 - Organismic and Evolutionary Biology (4.00)"], "home": [["", "BIOL 6A - Form and Function in the Biological World (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)", "BIOL 6B - Cell and Molecular Biology (6.00)", "BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BILD 10 - Fundamental Concepts of Modern Biology (4.00)"], "home": [["", "BIOL 10 - Introductory Biology (5.00)"], ["BIOL 10H - Introductory Biology - HONORS (5.00)"]]}
+{"away": ["BILD 20 - Human Genetics in Modern Society (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["BILD 26 - Human Physiology (4.00)"], "home": [["", "BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)", "BIOL 40C - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["CHEM 4 - Basic Chemistry (4.00)"], "home": [["", "CHEM 30A - Introduction to General, Organic, and Biochemistry I (5.00)"]]}
+{"away": ["CHEM 11 - The Periodic Table (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["CHEM 6A - General Chemistry I (4.00)"], "home": [["", "CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHEM 6B - General Chemistry II (4.00)"], "home": [["", "CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHEM 6C - General Chemistry III (4.00)"], "home": [["", "CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["PHYS 1A - Mechanics (3.00)"], "home": [["", "PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 1B - Electricity and Magnetism (3.00)"], "home": [["", "PHYS 2B - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 1C - Waves, Optics, and Modern Physics (3.00)"], "home": [["", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHYS 2A - Physics - Mechanics (4.00)"], "home": [["", "PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 2B - Physics - Electricity and Magnetism (4.00)"], "home": [["", "PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHYS 2C - Physics - Fluids, Waves, Thermodynamics, and Optics (4.00)"], "home": [["", "PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYS 10 - Concepts in Physics (4.00)"], "home": [["", "No Course Articulated"], []]}
+{"away": ["PHYS 11 - Survey of Physics (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["BILD 12 - Neurobiology and Behavior (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["COGS 17 - Neurobiology of Cognition (4.00)"], "home": [["", "PSYC 24 - Introduction to Psychobiology (4.00)"]]}
+{"away": ["PSYC 2 - General Psychology: Biological Foundations (4.00)"], "home": [["", "PSYC 24 - Introduction to Psychobiology (4.00)"]]}
+{"away": ["COGS 18 - Introduction to Python (4.00)"], "home": [["", "CIS 40 - Introduction to Programming in Python (4.50)"]]}
+{"away": ["CSE 6R - Introduction to Computer Science and Object-Oriented Programming: Python (4.00)"], "home": [["", "CIS 41A - Python Programming (4.50)"]]}
+{"away": ["CSE 8A - Introduction to Programming and Computational Problem Solving I (4.00)"], "home": [["", "CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)"], ["CIS 40 - Introduction to Programming in Python (4.50)"]]}
+{"away": ["CSE 8B - Introduction to Programming and Computational Problem Solving II (4.00)"], "home": [["", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["CSE 11 - Introduction to Programming and Computational Problem Solving - Accelerated Pace (4.00)"], "home": [["", "CIS 35A - Java Programming (4.50)"], ["CIS 36A - Introduction to Computer Programming Using Java (4.50)", "CIS 36B - Intermediate Problem Solving in Java (4.50)"]]}
+{"away": ["CSE 12 - Basic Data Structures and Object-Oriented Design (4.00)"], "home": [["", "CIS 22C - Data Abstraction and Structures (4.50)", "CIS 28 - Object Oriented Analysis and Design (4.50)"], ["CIS 22CH - Data Abstraction and Structures - HONORS (4.50)", "CIS 28 - Object Oriented Analysis and Design (4.50)"]]}
+{"away": ["ECE 15 - Engineering Computation (4.00)"], "home": [["", "This course must be taken at the university after transfer"]]}
+{"away": ["MAE 5 - Quantitative Computer Skills (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["MAE 8 - MATLAB Programming for Engineering Analysis (4.00)"], "home": [["", "CIS 35A - Java Programming (4.50)"], ["CIS 22A - Beginning Programming Methodologies in C++ (4.50)"], ["CIS 40 - Introduction to Programming in Python (4.50)"], ["CIS 41A - Python Programming (4.50)"], ["CIS 41B - Advanced Python Programming (4.50)"]]}
+{"away": ["PSYC 70 - Research Methods in Psychology (4.00)"], "home": [["", "PSYC 3 - An Introduction to Cognitive Psychology (4.00)"], ["PSYC 2 - Research Methods in Psychology (6.00)"]]}
+{"away": ["COGS 14A - Introduction to Research Methods (4.00)"], "home": [["", "PSYC 2 - Research Methods in Psychology (6.00)"]]}
+{"away": ["MATH 10A - Calculus I (4.00)"], "home": [[]]}
+{"away": ["MATH 10B - Calculus II (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["", "MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["", "MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["PSYC 60 - Introduction to Statistics (4.00)"], "home": [["", "MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["MGT 3 - Quantitative Methods in Business (4.00)"], "home": [["", "No Course Articulated"]]}
+{"away": ["MATH 11 - Calculus Based Elementary Probability and Statistics (5.00)"], "home": [["", "MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"]]}
+{"away": ["MGT 16 - Personal Ethics at Work (4.00)"], "home": [["", "No Course Articulated"]]}

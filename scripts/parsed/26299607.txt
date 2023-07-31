@@ -1,0 +1,25 @@
+{"away": ["AMS 010 - Introduction to American Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 001C - American Lives Through Autobiography (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 001E - Nature & Culture in America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 005 - Technology in American Lives (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 012 - U.S. Disability Culture & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 021 - Objects & Everyday Life (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 025 - United States as a Business Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 030 - Images of America & Americans in Popular Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 055 - Food in American Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AMS 059 - Music & American Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ASA 001 - Historical Experience of Asian Americans (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["AAS 010 - African-American Culture & Society (4.00)"], "home": [["AFAM 10 - An Introduction to African American Studies (4.00)"]]}
+{"away": ["CHI 010 - Introduction to Chicana/o Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"]]}
+{"away": ["NAS 001 - Introduction to Native American Studies (4.00)"], "home": [["NAIS 12 - Ethnic Studies and the Historical Experiences of Native Americans (4.00)"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["GSW 050 - Introduction to Critical Gender Studies (4.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["SOC 002 - Self & Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 017A - History of the United States (4.00)"], "home": [["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17A - History of the United States to Early National Era (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17AH - History of the United States to Early National Era - HONORS (4.00)", "HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}
+{"away": ["HIS 017B - History of the United States (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17B - History of the United States from 1800 to 1900 (4.00)", "HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)", "HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)", "HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"]]}
+{"away": ["HIS 072A - Women & Gender in America, to 1865 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 072B - Women & Gender in America, 1865-Present (4.00)"], "home": [["HIST 9 - Women in American History (4.00) Same-As: WMST 9"], ["HIST 9H - Women in American History - HONORS (4.00) Same-As: WMST 9H"], ["WMST 9 - Women in American History (4.00) Same-As: HIST 9"], ["WMST 9H - Women in American History - HONORS (4.00) Same-As: HIST 9H"]]}
+{"away": ["ENL 003 - Introduction to Literature (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": ["ENL 010A - Literatures in English I: To 1700 (4.00)"], "home": [["ELIT 46A - Major British Writers (Medieval and Renaissance) (4.00)"], ["ELIT 46AH - Major British Writers (Medieval and Renaissance) - HONORS (4.00)"]]}
+{"away": ["ENL 010B - Literatures in English II: 1700-1900 (4.00)"], "home": [["ELIT 46B - Major British Writers (Neo-Classical and Romantic) (4.00)"], ["ELIT 46BH - Major British Writers (Neo-Classical and Romantic) - HONORS (4.00)"], ["ELIT 48A - Major American Writers (Colonial and Romantic, 1620- 1865) (4.00)"], ["ELIT 48AH - Major American Writers (Colonial to Romantic, 1620- 1865) - HONORS (4.00)"]]}
+{"away": ["ENL 010C - Literatures in English III: 1900 to Present (4.00)"], "home": [["ELIT 46C - Major British Writers (Victorian and Modern) (4.00)"], ["ELIT 46CH - Major British Writers (Victorian and Modern) - HONORS (4.00)"], ["ELIT 48C - Major American Writers (The Modern Age, 1914 - The Present) (4.00)"], ["ELIT 48CH - Major American Writers (The Modern Age, 1914-the Present) - HONORS (4.00)"]]}

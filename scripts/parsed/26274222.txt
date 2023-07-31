@@ -1,0 +1,30 @@
+{"away": ["POL SCI 2 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL SCI 4 - Introduction to Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL SCI 5 - Introduction to International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["SOCIOL 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["ANTHRO 3 - Introduction to Social and Cultural Anthropology (4.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["Transfer applicants should become familiar with the"], "home": [["Interdisciplinary Studies Field (ISF) major as early as possible in their academic careers. To do this, review the ISF major requirements on the web site below. Because each student takes a unique set of courses, it is important for students who have been admitted to the College of Letters and Science as prospective ISF majors to contact an ISF adviser to determine the most effective individual program."]]}
+{"away": ["Lower division prerequisites to this major consist of two courses: One \"Disciplines\" course and one \"World Regions\" course. ECON 1 - Introduction to Economics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)", "ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)", "ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Introduction to Economics, Lecture Format (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 10AC - Worldlings: Regions, Peoples, and States (4.00)"], "home": [["GEO 10 - World Regional Geography (4.00)"]]}
+{"away": ["PSYCH 1 - General Psychology (3.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PHILOS 3 - The Nature of Mind (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Other courses that satisfy the Disciplines requirement for the Interdisciplinary Studies Field major:"], "home": [["No Course Articulated"]]}
+{"away": ["AGRS 10A - Introduction to Ancient Greece (4.00)"], "home": [["HUMI 20 - The Greek Achievement (4.00)"]]}
+{"away": ["AGRS 10B - Introduction to Ancient Rome (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AFRICAM 4A - Africa: History and Culture (4.00)"], "home": [["ICS 16A - History of Africa to 1800 (4.00) Same-As: HIST 16A"]]}
+{"away": ["HISTORY 4A - The Ancient Mediterranean World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HISTORY 4B - Medieval Europe (4.00)"], "home": [["HIST 6A - History of Western Civilization: Pre-History to 750 C.E. (4.00)", "HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)"], ["HIST 6AH - History of Western Civilization: Pre-History to 750 C.E. - HONORS (4.00)", "HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)"]]}
+{"away": ["HISTORY 5 - European Civilization From the Renaissance to the Present (4.00)"], "home": [["HIST 6B - History of Western Civilization: 750 C.E. to 1750 C.E. (4.00)", "HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"], ["HIST 6BH - History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS (4.00)", "HIST 6CH - History of Western Civilization: 1750 C.E. to Present - HONORS (4.00)"], []]}
+{"away": ["HISTORY 6A - History of China: Origins to the Mongol Conquest (4.00)"], "home": [["HIST 19A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: ASAM 42A"], ["HIST 19B - History of Asian Civilization: China and Japan (19th - 21st Centuries) (4.00) Same-As: ASAM 42B"]]}
+{"away": ["HISTORY 6B - Introduction to Chinese History from the Mongols to Mao (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HISTORY 8A - Becoming Latin America, 1492 to 1824 (4.00)"], "home": [["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A"]]}
+{"away": ["HISTORY 8B - Modern Latin America (4.00)"], "home": [["HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B"]]}
+{"away": ["HISTORY 10 - African History (4.00)"], "home": [["HIST 16A - History of Africa to 1800 (4.00) Same-As: ICS 16A"], ["HIST 16B - History of Africa From 1800 to the Present (4.00) Same-As: ICS 16B"]]}
+{"away": ["HISTORY 11 - India (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HISTORY 12 - The Middle East (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HISTORY 14 - Introduction to the History of Japan (4.00)"], "home": [["HIST 19A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: ASAM 42A"], ["HIST 19B - History of Asian Civilization: China and Japan (19th - 21st Centuries) (4.00) Same-As: ASAM 42B"]]}
+{"away": ["S ASIAN 1A - Introduction to the Civilization of Early India (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["S ASIAN 1B - Introduction to the Civilization of Medieval and Modern India (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 10A - Introduction to the Civilization of Southeast Asia (Mainland Southeast Asia) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SEASIAN 10B - Introduction to the Civilization of Southeast Asia (Insular Southeast Asia) (4.00)"], "home": [["No Course Articulated"]]}

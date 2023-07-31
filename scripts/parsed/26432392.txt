@@ -1,0 +1,3 @@
+{"away": ["MATH 9A - First-Year Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"]]}
+{"away": ["MATH 9B - First-Year Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"]]}
+{"away": ["ECON 2 - Intro to Macroeconomics (5.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"]]}

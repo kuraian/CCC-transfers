@@ -1,0 +1,9 @@
+{"away": ["JEWISH M10 - Introduction to Judaism (5.00) Same-As: RELIGN M10"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 10W - Jerusalem: Holy City (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AN N E A 12W - Jerusalem; Holy City (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD 50A - First Civilzations (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD M50B - Origins of Judaism, Christianity, and Islam (5.00) Same-As: RELIGN M50, AN N E A M50B"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD 50CW - Making and Studying Modern Middle East (5.00)"], "home": [["No Course Articulated ou must complete the following"]]}
+{"away": ["coursework by the end of spring before transfer: one social, cultural ,"], "home": [["and religious institutions of Judaism course . Students intending to enter the Jewish Religion, Jewish Literature & Culture, or Israeli Studies track should complete one year of Hebrew language. f these"]]}
+{"away": ["courses are not available, applicants must"], "home": [["demonstrate a sincere interest in the major. All courses must be taken for a letter grade.  For"]]}
+{"away": ["information regarding this major and UCLA's transfer selection process,"], "home": [["visit www.nelc.ucla.edu and https://admission.ucla.edu ."]]}

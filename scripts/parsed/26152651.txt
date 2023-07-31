@@ -1,0 +1,8 @@
+{"away": ["Intermediate Chinese (completion of Chinese 6, 6A or equivalent)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN 30 - Languages and Cultures of Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 30 - Chinese Language, Society, and Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 40 - Popular Culture in Modern Chinese Societies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 50 - Chinese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN M60 - Introduction to Chinese Religions (5.00) Same-As: RELIGN M60B"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 70 - Introduction to Traditional Chinese Literature (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHIN 80 - Chinese Cinema: Pictures, Prisms, Products, Projections (5.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,7 @@
+{"away": ["MATH 18 - Linear Algebra (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20C - Calculus and Analytic Geometry for Science and Engineering (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)", "MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20D - Introduction to Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["MATH 20E - Vector Calculus (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["For  more  information  please  visit https://math.ucsd.edu/students/undergraduate/ma29-mathematics-b-s/"], "home": [["NOTE: Students who have taken a vector calculus course at a non-UC college must successfully petition the course for 20E equivalency.  Petitions must generally include course syllabus, textbook information and final exam.  More information on"]]}

@@ -1,0 +1,20 @@
+{"away": ["DES 001 - Introduction to Design (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["DES 015 - Form & Color (4.00)"], "home": [["ARTS 8 - Two-Dimensional Design (4.00)"], ["ARTS 12 - Design and Color (4.00)"]]}
+{"away": ["DES 016 - Graphic Design & Computer Technology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 014 - Design Drawing (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 021 - Drafting & Perspective (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 040A -  Energy, Materials, & Design Over Time (4.00) Same-As: SAS 043"], "home": [["No Course Articulated"]]}
+{"away": ["DES 040B - Ideologies of Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 040C - Design for Aesthetics & Experience (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 012 - Beginning Video (5.00)"], "home": [["F/TV 20 - Beginning Video Production (4.00)"]]}
+{"away": ["DES 021 - Drafting & Perspective (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 040A -  Energy, Materials, & Design Over Time (4.00) Same-As: SAS 043"], "home": [["No Course Articulated"]]}
+{"away": ["DES 040B - Ideologies of Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 040C - Design for Aesthetics & Experience (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 050 - Introduction to Three-Dimensional Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 051 - Computer-Assisted Drawing for Designers (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 070 - Introduction to Textile Design Structures (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DES 077 - Introduction to Structural Design for Fashion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["UWP 011 - Popular Science & Technology Writing (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["UWP 012 - Writing & Visual Rhetoric (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["UWP 048 - Style in the Essay (4.00)"], "home": [["No Course Articulated"]]}

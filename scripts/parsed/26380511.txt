@@ -1,0 +1,32 @@
+{"away": ["ECE 15 - Engineering Computation (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["ECE 25 - Introduction to Digital Design (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["ECE 30 - Introduction to Computer Engineering (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECE 35 - Introduction to Analog Design (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["ECE 45 - Circuits and Systems (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["ECE 65 - Components and Circuits Lab (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["CHEM 6A - General Chemistry I (4.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["MATH 18 - Linear Algebra (4.00)"], "home": [["MATH 2B - Linear Algebra (5.00)"], ["MATH 2BH - Linear Algebra - HONORS (5.00)"]]}
+{"away": ["MATH 20A - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20B - Calculus for Science and Engineering (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20C - Calculus and Analytic Geometry for Science and Engineering (4.00)"], "home": [["MATH 1C - Calculus (5.00)", "MATH 1D - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)", "MATH 1DH - Calculus - HONORS (5.00)"]]}
+{"away": ["MATH 20D - Introduction to Differential Equations (4.00)"], "home": [["MATH 2A - Differential Equations (5.00)"], ["MATH 2AH - Differential Equations - HONORS (5.00)"]]}
+{"away": ["MATH 20E - Vector Calculus (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHYS 2A - Physics - Mechanics (4.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHYS 2B - Physics - Electricity and Magnetism (4.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHYS 2C - Physics - Fluids, Waves, Thermodynamics, and Optics (4.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHYS 2D - Physics - Relativity and Quantum Physics (4.00)"], "home": [["PHYS 4D - Physics for Scientists and Engineers: Modern Physics (6.00)"]]}
+{"away": ["HILD 7A - Race and Ethnicity in the United States (4.00)"], "home": [["AFAM 12A - African American History to 1865 (4.00) Same-As: HIST 18A"], ["AFAM 12B - African American History Since 1865 (4.00) Same-As: HIST 18B"]]}
+{"away": ["HILD 7B - Race and Ethnicity in the United States (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"], ["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["HILD 7C - Race and Ethnicity in the United States (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HILD 10 - East Asia: The Great Tradition (4.00)"], "home": [["ASAM 42A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: HIST 19A"]]}
+{"away": ["HILD 11 - East Asia and the West (4.00)"], "home": [["ASAM 42A - History of Asian Civilization: China and Japan (to the 19th Century) (4.00) Same-As: HIST 19A"]]}
+{"away": ["HILD 12 - Twentieth-Century East Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 1 - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 4 - Financial Accounting (4.00) Same-As: MGT 4"], "home": [["ACCT 1A - Financial Accounting I (5.00)"], ["ACCT 1AH - Financial Accounting I - HONORS (5.00)"]]}
+{"away": ["POLI 10 - Introduction to Political Science: American Politics (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POLI 11 - Introduction to Political Science: Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POLI 12 - Introduction to Political Science: International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POLI 13 - Power and Justice (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POLI 30 - Political Inquiry (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["SOCI 1 - Introduction to Sociology (4.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOCI 2 - The Study of Society (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}

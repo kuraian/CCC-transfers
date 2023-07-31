@@ -1,0 +1,2 @@
+{"away": ["GWS 10 - Introduction to Gender and Women's Studies (4.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["GWS 20 - Introduction to Feminist Theory (4.00)"], "home": [["PHIL 49 - Women and Philosophy (4.00) Same-As: WMST 49"]]}

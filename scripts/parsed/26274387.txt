@@ -1,0 +1,1 @@
+{"away": ["AGRS 10A - Introduction to Ancient Greece (4.00)"], "home": [["HUMI 20 - The Greek Achievement (4.00)"]]}

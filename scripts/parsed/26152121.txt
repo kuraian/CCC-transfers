@@ -1,0 +1,5 @@
+{"away": ["LING 20 - Introduction to Linguistics Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ANTHRO 4 - Culture and Communication (5.00)"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["PSYCH 10 - Introductory Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["Elementary and Intermediate Levels (Six Terms) Of One Foreign Language"], "home": [["No Course Articulated"]]}
+{"away": ["Equivalent of level three of two foreign languages"], "home": [["No Course Articulated"]]}

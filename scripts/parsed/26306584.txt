@@ -1,0 +1,30 @@
+{"away": ["ANT 001 - Human Evolutionary Biology (4.00)"], "home": [["ANTH 1 - Physical Anthropology (4.00)"], ["ANTH 1H - Physical Anthropology - HONORS (4.00)"]]}
+{"away": ["ANT 001Y - Human Evolutionary Biology (Hybrid Version) (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ANT 015 - From Birth to Death: The Evolution of the Human Life Cycle (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 010 - Everyday Biology (4.00)"], "home": [["BIOL 10 - Introductory Biology (5.00)"], ["BIOL 10H - Introductory Biology - HONORS (5.00)"]]}
+{"away": ["MIC 010 - Natural History of Infectious Diseases (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MCB 010 - Introduction to Human Heredity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NPB 010 - Elementary Human Physiology (3.00)"], "home": [["BIOL 40A - Human Anatomy and Physiology (5.00)", "BIOL 40B - Human Anatomy and Physiology (5.00)", "BIOL 40C - Human Anatomy and Physiology (5.00)"]]}
+{"away": ["NPB 012 - The Human Brain & Disease (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 005 - Critical Reasoning (4.00)"], "home": [["PHIL 4 - Critical Thinking (4.00)"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 030 - Introduction to Philosophy of Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 031 - Appraising Scientific Reasoning (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 032 - Understanding Scientific Change (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 038 - Introduction to Philosophy of Biology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["PSC 001Y - General Psychology (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["PSC 041 - Research Methods in Psychology (4.00)"], "home": [["PSYC 2 - Research Methods in Psychology (6.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 003 - Major Works of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 004 - Major Works of the Contemporary World (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}
+{"away": ["CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["ENL 003 - Introduction to Literature (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": ["NAS 005 - Introduction to Native American Literature (4.00)"], "home": [["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": [""], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1AS - Intensive Composition and Reading Stretch: First Quarter (5.00)", "EWRT 1AT - Intensive Composition and Reading Stretch: Second Quarter (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}
+{"away": ["UWP 001Y - Introduction to Academic Literacies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["UWP 048 - Style in the Essay (4.00)"], "home": [["No Course Articulated"]]}

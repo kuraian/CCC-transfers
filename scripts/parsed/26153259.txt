@@ -1,0 +1,5 @@
+{"away": ["Intermediate Japanese (completion of Japanese 6, 10 or equivalent)"], "home": [["No Course Articulated"]]}
+{"away": ["ASIAN 30 - Languages and Cultures of Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 50 - Japanese Civilization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 70 - Images of Japan: Literature and Film (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JAPAN 75 - Anime (5.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,17 @@
+{"away": ["THEA 20 - Introductory Studies in Acting (5.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"], ["THEA 20B - Theory and Technique of Acting (Modern Period) (4.00)"], ["THEA 20C - Theory and Technique of Acting (Classic Period) (4.00)"]]}
+{"away": ["THEA 21 - Acting Studio I: Psychological Realism (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 10 - Introduction to Theater Design and Technology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 50 - Fundamentals of Theater Production (2.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["THEA 61A - Ancient and Medieval Drama (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 61B - Drama from the Renaissance to the Modern Age (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 61C - The Birth of the Modern: Drama and Performance After the Renaissance (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["One elective taken elsewhere can be applied toward the Theater Arts major requirement"], "home": [["THEA 1 - Appreciation of Theater (4.00)"], ["DANC 38A - Appreciation of Dance (4.00)"]]}
+{"away": ["THEA 30 - Introduction to Dance Theory and Technique (5.00)"], "home": [["DANC 22 - Body Awareness and Conditioning for Dancers (1.00) DANC 22K - Theory and Technique of Ballet I (1.00) DANC 22L - Theory and Technique of Ballet II (1.00) DANC 22M - Theory and Technique of Ballet III (1.00) DANC 23A - Theory and Technique of Contemporary (Modern) Dance I (1.00) DANC 23B - Theory and Technique of Contemporary (Modern) Dance II (1.00) DANC 23C - Theory and Technique of Contemporary (Modern) Dance III (1.00) DANC 23L - Theory and Technique of Hip-Hop I (Popular American Dance) (1.00) DANC 23M - Theory and Technique of Hip-Hop II (Popular American Dance II) (1.00) DANC 23N - Theory and Technique of Hip-Hop III (Popular American Dance III) (1.00) DANC 24A - Theory and Technique of Social Dance I (1.00) DANC 24B - Theory and Technique of Social Dance II (1.00) DANC 24C - Theory and Technique of Social Dance III (1.00) DANC 25A - Theory and Technique of Salsa Dance I (1.00) DANC 25B - Theory and Technique of Salsa Dance II (1.00) DANC 27A - Ballet Workshop (Student Productions) (2.00) DANC 27B - Contemporary Modern Dance Workshop (Student Productions) (2.00) DANC 27C - Popular Dance (Jazz, Hip Hop) Workshop (Student Productions) (2.00) DANC 37A - Theory and Technique of Jazz Dance I (1.00) DANC 37B - Theory and Technique of Jazz Dance II (1.00) DANC 37C - Theory and Technique of Jazz Dance III (1.00)"]]}
+{"away": ["THEA 31A - Dance Studio I: Asian or Asian Diasporic Practice (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 31B - Dance Studio I: Ballet (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 31C - Dance Studio I: Contemporary Dance Theory and Technique (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 33C - Dance Studio I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 36 - Introduction to Dance Composition (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 37 - African Dance (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THEA 80Z - Indian Dance (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["An approved practice-based dance course"], "home": [["No Course Articulated"]]}

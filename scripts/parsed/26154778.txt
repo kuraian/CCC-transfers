@@ -1,0 +1,24 @@
+{"away": ["I A STD 1 - Introduction to International and Area Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART HIS 28 - Arts of Africa (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9D - Introduction to Asian Civilizations: History of Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 10B - History of Africa, 1800 to Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 97F - Introduction to Historical Practice: Variable Topics in Near Eastern History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 97J - Introduction to Historical Practice: Variable Topics in African History (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["M E STD 50CW - Making and Studying Modern Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PORTGSE 40A - Portuguese, Brazilian, and African Literature in Translation: Portuguese and Portuguese-African Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 1 - Principles of Economics(Microeconomics) (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics(Macroeconomics) (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["GEOG 4 - Globalization: Regional Development and World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 6 - World Regions: Concepts and Contemporary Issues (5.00)"], "home": [["GEO 10 - World Regional Geography (4.00) PLEASE NOTE: the community college courses listed below have been appro ved to satisfy the preparation for this major at UCLA, but"]]}
+{"away": ["they may not be exact equivalents of the UCLA courses listed."], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["COM LIT 1D - Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 2DW - Survey of Literature: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM LIT 4DW - Literature and Writing: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETHNMUS 5 - Music Around World (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ETHNMUS M25 - Global Pop (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 3 - Cultural Geography (5.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["HIST 2B - Social Knowledge and Social Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 22 - Contemporary World History, 1760 to Present (5.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["WL ARTS 33 - Colonialism and Resistance (5.00)"], "home": [["No Course Articulated"]]}

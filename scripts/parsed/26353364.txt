@@ -1,0 +1,3 @@
+{"away": ["EDUC 60 - Schooling, Democracy, and Justice (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 50A - CAL Teach 1: Science and Mathematics (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["EDUC 50B - CAL Teach 1: Mathematics (2.00)"], "home": [["No Course Articulated"]]}

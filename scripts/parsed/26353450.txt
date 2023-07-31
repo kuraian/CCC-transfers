@@ -1,0 +1,26 @@
+{"away": ["HIS 2A - The World to 1500 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 2B - The World since 1500 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 10A - United States History to 1877 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 10B - United States History 1877 to 1977 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 11A - Latin America: Colonial Period (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 11B - Latin America: National Period (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 12 - Introduction to Latino American History (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 13 - Introduction to American Religious Culture (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 30 - The Making of Modern Africa (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 40A - Early Modern East Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 40B - The Making of Modern East Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 41 - The Making of the Modern Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 44 - Modern South Asia, 1500 to Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 50 - When Pharaohs Reigned: The History of Ancient Eqypt (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 59 - The History of the English Language (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 60 - Medical and Scientific Terminology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 61 - Classical Mythology (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 62A - Classical World: Greece (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 62B - Classical World: Rome (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 70A - Modern European History, 1500-1815 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 70B - Modern European History, 1815-Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 74 - Introduction to Jewish History and Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 74A - Introduction To Middle Eastern and North African Jewish History: Ancient To Early Modern (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 74B - Introduction To Middle Eastern And North African Jewish History, 1500-2000 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 75 - Film and the Holocaust (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIS 76 - The Holocaust: A Global Perspective (5.00)"], "home": [["No Course Articulated"]]}

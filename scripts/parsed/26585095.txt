@@ -1,0 +1,122 @@
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["LDA 001 - Introduction to Environmental Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LDA 002 - Place, Culture & Community (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LDA 003 - Sustainable Development: Theory & Practice (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LDA 021 - Landscape Representation I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LDA 030 - History of Environmental Design (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LDA 050 - Site Ecology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["LDA 070 - Introduction to Spacemaking (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENL 003 - Introduction to Literature (4.00)"], "home": [["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1C - Literature and Composition (5.00)"]]}
+{"away": ["UWP 001 - Introduction to Academic Literacies (4.00)"], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 1A - Composition and Reading (5.00)"], ["EWRT 1AH - Composition and Reading - HONORS (5.00)"], ["EWRT 1B - Reading, Writing and Research (5.00)"], ["EWRT 1BH - Reading, Writing and Research - HONORS (5.00)"], ["EWRT 1AS - Intensive Composition and Reading Stretch: First Quarter (5.00)", "EWRT 1AT - Intensive Composition and Reading Stretch: Second Quarter (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"]]}
+{"away": ["UWP 048 - Style in the Essay (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["UWP 049 - Writing Research Papers (4.00)"], "home": [["COMM 9 - Argumentation: Analysis of Oral and Written Communication (5.00)"], ["COMM 9H - Argumentation: Analysis of Oral and Written Communication - HONORS (5.00)"], ["ESL 5 - Advanced Composition and Reading (5.00)"], ["EWRT 2 - Critical Reading, Writing and Thinking (5.00)"], ["EWRT 2H - Critical Reading, Writing and Thinking - HONORS (5.00)"], ["PHIL 3 - Critical Thinking and Writing (5.00)"]]}
+{"away": ["", "CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 003 - Major Works of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 004 - Major Works of the Contemporary World (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}
+{"away": ["NAS 005 - Introduction to Native American Literature (4.00)"], "home": [["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001AV - Principles of Microeconomics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001AY - Principles of Microeconomics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001BV - Principles of Macroeconomics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 002 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL 003 - International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL 004 - Basic Concepts in Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL 005 - Contemporary Problems of the American Political System (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 007 - Contemporary Issues in Law & Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011A - America Decides: Who Will Win This Year's Election? (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011B - Citizen Lawmaking: Direct Democracy, Public Policy & Political Representation in America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011C - Politics & Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011D - Political Persuasion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012A - Politics & Sports (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012B - Climate Change & Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012Y - Data Visualization in the Social Sciences (4.00) Same-As: CMN 012Y, PSC 012Y, SOC 012Y"], "home": [["No Course Articulated"]]}
+{"away": ["POL 051 - Scientific Study of Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 002 - Self & Society (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 003 - Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["SOC 004 - Immigration & Opportunity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 005 - Global Social Change: An Introduction to Macrosociology (4.00)"], "home": [["INTL 8 - Sociology of Globalization and Social Change (4.00) Same-As: SOC 5"], ["SOC 5 - Sociology of Globalization and Social Change (4.00) Same-As: INTL 8"]]}
+{"away": ["SOC 006 - Health & Illness (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 007 - Race & Ethnicity (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 011 - Sociology of Labor & Employment (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 012Y - Data Visualization in the Social Sciences (4.00) Same-As: CMN 012Y, POL 012Y, PSC 012Y"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 025 - Sociology of Popular Culture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 046 - Introduction to Social Research Methods (4.00)"], "home": [["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 14 - The Process of Social Research (4.00)"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["SOC 056 - Introduction to Social Statistics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 010 - Statistical Thinking (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 012 - Introduction to Discrete Probability (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["", "STA 013Y - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 015A - Introduction to Statistical Data Science I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 015B - Introduction to Statistical Data Science II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 015C - Introduction to Statistical Data Science III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 032 - Gateway to Statistical Data Science (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 035A - Statistical Data Science I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 035B - Statistical Data Science II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 035C - Statistical Data Science III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AST 010C - Introduction to Cosmology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AST 010G - Introduction to Stars, Galaxies, & the Universe (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AST 010S - Astronomy of the Solar System (3.00)"], "home": [["ASTR 4 - Solar System Astronomy (5.00)"]]}
+{"away": ["AST 025 - Introduction to Modern Astronomy & Astrophysics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": [""], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 002AH - Honors General Chemistry (5.00)"], "home": [["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002BH - Honors General Chemistry (5.00)"], "home": [["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002CH - Honors General Chemistry (5.00)"], "home": [["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 003A - Chemistry for Life Sciences: Determining Structure & Predicting Properties (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 003B - Chemistry for Life Sciences: Predicting & Characterizing Chemical Change (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 003C - Chemistry for Life Sciences: Controlling Processes & Synthetic Pathways (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 004A - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 004B - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 004C - General Chemistry for the Physical Sciences & Engineering (5.00)"], "home": [["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 010 - Concept of Chemistry (4.00)"], "home": [["CHEM 10 - Introductory Chemistry (5.00)"]]}
+{"away": ["GEL 001 - The Earth (4.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["GEL 002 - Earth System Science (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 003 - History of Life (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 004 - Evolution: Science & World View (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 010 - Modern & Ancient Global Environmental Change (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 016 - The Oceans (3.00)"], "home": [["GEOL 20 - General Oceanography (4.00)"]]}
+{"away": ["GEL 016V - The Oceans (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 018 - Energy & the Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 018V - Energy & the Environment (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 025 - Geology of National Parks (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 025V - Geology of National Parks (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 028 - Astrobiology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["GEL 032 - Volcanoes (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 035 - Rivers (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 036 - The Solar System (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 050 - Physical Geology (3.00)"], "home": [["GEOL 10 - Introductory Geology (5.00)"]]}
+{"away": ["GEL 053 - Introduction to Geobiology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 055 - Introduction to Geochemistry (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 056 - Introduction to Geophysics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEL 060 - Earth Materials: Introduction (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 001A - Principles of Physics (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 001B - Principles of Physics (3.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007C - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 009A - Classical Physics (5.00)"], "home": [["PHYS 4A - Physics for Scientists and Engineers: Mechanics (6.00)"]]}
+{"away": ["PHY 009B - Classical Physics (5.00)"], "home": [["PHYS 4C - Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics (6.00)"]]}
+{"away": ["PHY 009C - Classical Physics (5.00)"], "home": [["PHYS 4B - Physics for Scientists and Engineers: Electricity and Magnetism (6.00)"]]}
+{"away": ["PHY 009D - Modern Physics (4.00)"], "home": [["PHYS 4D - Physics for Scientists and Engineers: Modern Physics (6.00)"]]}
+{"away": ["PHY 009HA - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HB - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HC - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HD - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 009HE - Honors Physics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 010 - Topics in Physics for Nonscientists (4.00)"], "home": [["PHYS 10 - Concepts of Physics (5.00)"]]}
+{"away": ["PHY 010C - Physics of California (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 010CY - Physics of California (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 012 - Visualization in Science (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 030 - Fractals, Chaos & Complexity (3.00) Same-As: GEL 030"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["PHY 080 - Experimental Techniques (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SSC 010 - Soils in Our Environment (3.00)"], "home": [["No Course Articulated"]]}

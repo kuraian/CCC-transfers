@@ -1,0 +1,33 @@
+{"away": ["ARE 018 - Business Law (4.00)"], "home": [["BUS 18 - Business Law I (5.00)"]]}
+{"away": ["CMN 001 - Introduction to Public Speaking (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"], ["COMM 1H - Public Speaking - HONORS (5.00)"]]}
+{"away": ["CMN 003 - Interpersonal Communication Competence (4.00)"], "home": [["COMM 16 - Interpersonal Communication (5.00)"], ["COMM 16H - Interpersonal Communication - HONORS (5.00)"]]}
+{"away": ["CMN 003V - Interpersonal Communication Competence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CMN 003Y - Interpersonal Communication Competence (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001AV - Principles of Microeconomics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001BV - Principles of Macroeconomics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECS 032A - Introduction to Programming (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 021 - Application of Computers in Technology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PLS 021V - Application of Computers in Technology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MGT 011A - Elementary Accounting (4.00)"], "home": [["ACCT 1A - Financial Accounting I (5.00)"], ["ACCT 1AH - Financial Accounting I - HONORS (5.00)"]]}
+{"away": ["MGT 011B - Elementary Accounting (4.00)"], "home": [["ACCT 1B - Financial Accounting II (5.00)", "ACCT 1C - Managerial Accounting (5.00)"], ["ACCT 1B - Financial Accounting II (5.00)", "ACCT 1CH - Managerial Accounting - HONORS (5.00)"], ["ACCT 1BH - Financial Accounting II - HONORS (5.00)", "ACCT 1C - Managerial Accounting (5.00)"], ["ACCT 1BH - Financial Accounting II - HONORS (5.00)", "ACCT 1CH - Managerial Accounting - HONORS (5.00)"]]}
+{"away": ["MAT 016A - Short Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016C - Short Calculus (3.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016C - Short Calculus (3.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016C - Short Calculus (3.00)"], "home": [["MATH 1C - Calculus (5.00)"], ["MATH 1CH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 021B - Calculus (4.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 021A - Calculus (4.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 013Y - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}

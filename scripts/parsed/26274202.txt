@@ -1,0 +1,12 @@
+{"away": ["GEOG 40 - Introduction to Earth System Science (4.00)"], "home": [["GEO 1 - Physical Geography (4.00)"]]}
+{"away": ["ESPM 15 - Introduction to Environmental Sciences (3.00)"], "home": [["ESCI 1 - Environmental Science (4.00)"]]}
+{"away": ["Courses that satisfy the Physical Geography lower division major requirement for the Geography major:"], "home": [["GEO 1 - Physical Geography (4.00)"]]}
+{"away": ["GEOG 10AC - Worldlings: Regions, Peoples, and States (4.00)"], "home": [["GEO 10 - World Regional Geography (4.00)"]]}
+{"away": ["GEOG 20 - Globalization (4.00)"], "home": [["INTL 5 - Contemporary Global Issues (4.00)"]]}
+{"away": ["GEOG 31 - Justice, Nature, and the Geographies of Identity (3.00)"], "home": [["ICS 19 - Making a Difference: Transforming Relations of Nature, Community, and Power (4.00)"]]}
+{"away": ["Courses that satisfy the World Geography lower division major requirement for the Geography major:"], "home": [["ICS 19 - Making a Difference: Transforming Relations of Nature, Community, and Power (4.00)"]]}
+{"away": ["GEOG C32 - Introduction to Global Studies (4.00) Same-As: GLOBAL C10A"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 50AC - California (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG C55 - Introduction to Central Asia (3.00) Same-As: MELC C26"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 70AC - The Urban Experience (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 72AC - The Bay Area (3.00)"], "home": [["No Course Articulated"]]}

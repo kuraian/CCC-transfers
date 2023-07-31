@@ -1,0 +1,1 @@
+{"away": ["COGS 14B - Introduction to Statistical Analysis (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}

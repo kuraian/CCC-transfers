@@ -1,0 +1,93 @@
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["HIS 004C - History of Western Civilization (4.00)"], "home": [["HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"], ["HIST 6CH - History of Western Civilization: 1750 C.E. to Present - HONORS (4.00)"]]}
+{"away": ["HIS 010C - World History III (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"], ["HIST 3CH - World History from 1750 CE to the Present - Honors (4.00)"]]}
+{"away": ["POL 002 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL 003 - International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL 051 - Scientific Study of Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012Y - Data Visualization in the Social Sciences (4.00) Same-As: CMN 012Y, PSC 012Y, SOC 012Y"], "home": [["No Course Articulated"]]}
+{"away": ["SOC 056 - Introduction to Social Statistics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["ARB 001 - Elementary Arabic 1 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 002 - Elementary Arabic 2 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 003 - Elementary Arabic 3 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 021 - Intermediate Arabic 21 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 022 - Intermediate Arabic 22 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARB 023 - Intermediate Arabic 23 (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHN 001 - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 002 - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 003 - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 004 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 005 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 006 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 001A - Accelerated Intensive Elementary Chinese (15.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 004 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 005 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 006 - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 001CN - Mandarin for Cantonese Speakers I (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 002CN - Mandarin for Cantonese Speakers II (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 003CN - Mandarin for Cantonese Speakers III (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 001BL - Accelerated Written Chinese I (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 002BL - Accelerated Written Chinese II (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHN 003BL - Accelerated Written Chinese III (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["FRE 001 - Elementary French (5.00)"], "home": [["FREN 1 - Elementary French (First Quarter) (5.00)"]]}
+{"away": ["FRE 002 - Elementary French (5.00)"], "home": [["FREN 2 - Elementary French (Second Quarter) (5.00)"]]}
+{"away": ["FRE 003 - Elementary French (5.00)"], "home": [["FREN 3 - Elementary French (Third Quarter) (5.00)"]]}
+{"away": ["FRE 021 - Intermediate French (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FRE 022 - Intermediate French (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GER 001 - Elementary German (5.00)"], "home": [["GERM 1 - Elementary German (First Quarter) (5.00)"]]}
+{"away": ["GER 002 - Elementary German (5.00)"], "home": [["GERM 2 - Elementary German (Second Quarter) (5.00)"]]}
+{"away": ["GER 003 - Elementary German (5.00)"], "home": [["GERM 3 - Elementary German (Third Quarter) (5.00)"]]}
+{"away": ["GER 020 - Intermediate German (4.00)"], "home": [["GERM 4 - Intermediate German (First Quarter) (5.00)"]]}
+{"away": ["GER 021 - Intermediate German (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 001 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 002 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 003 - Elementary Hebrew (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 021 - Intermediate Modern Hebrew I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 022 - Intermediate Modern Hebrew II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HEB 023 - Intermediate Modern Hebrew III (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 001 - Elementary Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 002 - Elementary Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 003 - Elementary Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 021 - Intermediate Hindi/Urdu I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 022 - Intermediate Hindi/Urdu II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIN 023 - Intermediate Hindi/Urdu III (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 001 - Elementary Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)"]]}
+{"away": ["ITA 002 - Elementary Italian (5.00)"], "home": [["ITAL 2 - Elementary Italian (Second Quarter) (5.00)"]]}
+{"away": ["ITA 003 - Elementary Italian (5.00)"], "home": [["ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["ITA 021 - Intermediate Italian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 022 - Intermediate Italian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 001 - Elementary Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)"]]}
+{"away": ["ITA 002 - Elementary Italian (5.00)"], "home": [["ITAL 2 - Elementary Italian (Second Quarter) (5.00)"]]}
+{"away": ["ITA 003 - Elementary Italian (5.00)"], "home": [["ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["ITA 008A - Italian Conversation (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 008B - Italian Conversation (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JPN 001 - Elementary Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 002 - Elementary Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 003 - Elementary Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 004 - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 005 - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 006 - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 001A - Accelerated Intensive Elementary Japanese (15.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 004 - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 005 - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["JPN 006 - Intermediate Japanese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["POR 001 - Elementary Portuguese (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POR 002 - Elementary Portuguese (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POR 003 - Elementary Portuguese (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POR 021 - Intermediate Portuguese (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POR 022 - Intermediate Portuguese (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUS 001 - Elementary Russian (5.00)"], "home": [["RUSS 1 - Elementary Russian (First Quarter) (5.00)"]]}
+{"away": ["RUS 002 - Elementary Russian (5.00)"], "home": [["RUSS 2 - Elementary Russian (Second Quarter) (5.00)"]]}
+{"away": ["RUS 003 - Elementary Russian (5.00)"], "home": [["RUSS 3 - Elementary Russian (Third Quarter) (5.00)"]]}
+{"away": ["RUS 004 - Intermediate Russian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RUS 005 - Intermediate Russian (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 001 - Elementary Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)"]]}
+{"away": ["SPA 002 - Elementary Spanish (5.00)"], "home": [["SPAN 2 - Elementary Spanish (Second Quarter) (5.00)"]]}
+{"away": ["SPA 003 - Elementary Spanish (5.00)"], "home": [["SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPA 021 - Intermediate Spanish (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)", "SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)", "SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPA 022 - Intermediate Spanish (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)", "SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)", "SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPA 031 -  Intermediate Spanish for Native Speakers I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 032 - Intermediate Spanish for Native Speakers II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 033 - Intermediate Spanish for Native Speakers III (5.00)"], "home": [["No Course Articulated"]]}

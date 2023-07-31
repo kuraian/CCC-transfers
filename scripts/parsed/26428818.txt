@@ -1,0 +1,70 @@
+{"away": ["FAMST 46 - Introduction to Cinema (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FAMST 70 - Media Criticism (4.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["FAMST 96 - Advanced Film Analysis (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["AS AM 5 - Introduction to Asian American Literature (4.00)"], "home": [["ASAM 20 - Asian Pacific American Literature (4.00) Same-As: ELIT 24"], ["ELIT 24 - Asian Pacific American Literature (4.00) Same-As: ASAM 20"]]}
+{"away": ["BL ST 38A - Introduction to African-American Literature (Part I) (4.00)"], "home": [["No Course Articulated All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["www.filmandmedia.ucsb.edu"]]}
+{"away": ["PRE-MAJOR INFORMATION Students are admitted initially to Pre-Film and Media Studies"], "home": [[", not directly to the major. Students will be admitted to full Film and Media Studies major status only after they complete Film and Media Studies 46, 70, and 96 with no grade below C, and with a grade-point average of at least 2.0 in all pre-major courses completed at the University of California. (Only UC grades go into the pre-major GPA. Transfer courses taken outside of UC may"]]}
+{"away": ["satisfy pre-major requirements, but they are not part of the pre-major GPA.) PRE-MAJOR REQUIREMENTS: Film and Media Studies 46 and 70 and 96 One literature course from"], "home": [[": Asian American Studies 5; Black Studies 38A, 38B; Classics 40; Comparative Literature 30A, 30B, 30C, 35; English 25, 50;"]]}
+{"away": ["French 50AX, 50BX, 50CX; German 31, 43A; Theater 1 One history or culture course from"], "home": [[": Asian American Studies 1, 2, 4; Black Studies 1, 3, 5, 6, 7, 50; Chicana/o Studies 1A, 1B, 1C; German 43C; History 2C, 4C, 7, 8, 17B, 17C, 49B, 80, 87; Philosophy 1, 3, 4, 6, 20C; Religious Studies 1, 7, 9, 15, 80C"]]}
+{"away": ["One visual or performing arts course from"], "home": [[": Art 1A, 7A; Art History 6C, 6F, 6G; Black Studies 14, 45; Dance 35, 45; Music 15, 17"]]}
+{"away": ["BL ST 38B - Introduction to African-American Literature (Part II) (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CLASS 40 - Greek Mythology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["C LIT 30A - Major Works in European Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["C LIT 30B - Major Works in European Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["C LIT 30C - Major Works in European Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["C LIT 35 - The Making of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 25 - Literature and the Information, Media, and Communication Revolutions (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ENGL 50 - Introduction to Comparative Ethnic Literatures (4.00)"], "home": [["ELIT 41 - Ethnic Literature of the United States (4.00)"], ["ELIT 41H - Ethnic Literature of the United States - HONORS (4.00)"], ["ASAM 20 - Asian Pacific American Literature (4.00) Same-As: ELIT 24"], ["ELIT 24 - Asian Pacific American Literature (4.00) Same-As: ASAM 20"], ["ICS 35 - Chicano/a and Latino/a Literature (4.00)"], ["NAIS 15 - Native American Literature (4.00)"]]}
+{"away": ["FR 50AX - Tales of Love in the Western Tradition (4.00) Same-As: C LIT 50A"], "home": [["No Course Articulated"]]}
+{"away": ["FR 50BX - Tales of Love in the Western Tradition (4.00) Same-As: C LIT 50B"], "home": [["No Course Articulated"]]}
+{"away": ["FR 50CX - Tales of Love in the Western Tradition (4.00) Same-As: C LIT 50C"], "home": [["No Course Articulated"]]}
+{"away": ["GER 31 - Doubles: Film and Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GER 43A - Dreaming Revolutions: Introduction to Marx, Nietzsche and Freud (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 1 - Play Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AS AM 1 - Introduction to Asian American History, 1850-Present (4.00)"], "home": [["ASAM 1 - Asian American Experience Past and Present (4.00)"]]}
+{"away": ["AS AM 2 - American Migration Since 1965: Asians and Others in the United States (4.00)"], "home": [["ASAM 10 - Contemporary Asian American Communities (4.00)"]]}
+{"away": ["AS AM 4 - Introduction to Asian American Popular Culture (4.00)"], "home": [["ASAM 21 - Asian Pacific Americans Make Culture (4.00)"]]}
+{"away": ["BL ST 1 - Introduction to African-American Studies (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["BL ST 3 - Introduction to African Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 5 - Blacks and Western Civilization (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 6 - The Civil Rights Movement (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 7 - Introduction to Caribbean Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 50 - Blacks in the Media (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CH ST 1A - Introduction to Chicano/a Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"], ["CHLX 12 - Chicanx and Latinx History (4.00)"]]}
+{"away": ["CH ST 1B - Introduction to Chicano/a Studies (4.00)"], "home": [["CHLX 26 - La Mujer: Latina Life and Experience (4.00) Same-As: WMST 26"], ["WMST 26 - La Mujer: Latina Life and Experience (4.00) Same-As: CHLX 26"]]}
+{"away": ["CH ST 1C - Introduction to Chicano/a Studies (4.00)"], "home": [["CHLX 11 - Chicanx Culture (4.00)"], ["CHLX 13 - The Chicanx and Latinx and the Arts (4.00)"]]}
+{"away": ["GER 43C - Germany Today (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 2C - World History (4.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"], ["HIST 3CH - World History from 1750 CE to the Present - Honors (4.00)"]]}
+{"away": ["HIST 4C - Modern Europe (4.00)"], "home": [["HIST 6C - History of Western Civilization: 1750 C.E. to Present (4.00)"], ["HIST 6CH - History of Western Civilization: 1750 C.E. to Present - HONORS (4.00)"]]}
+{"away": ["HIST 7 - Great Issues in the History of Public Policy (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8 - Introduction to History of Latin America (4.00)"], "home": [["HIST 7A - Colonial Latin American History (4.00) Same-As: ICS 38A", "HIST 7B - Modern Latin American History (4.00) Same-As: ICS 38B"], ["ICS 38A - Colonial Latin American History (4.00) Same-As: HIST 7A", "ICS 38B - Modern Latin American History (4.00) Same-As: HIST 7B"]]}
+{"away": ["HIST 17B - The American People (4.00)"], "home": [["HIST 17B - History of the United States from 1800 to 1900 (4.00)"], ["HIST 17BH - History of the United States from 1800 to 1900 - HONORS (4.00)"]]}
+{"away": ["HIST 17C - The American People (4.00)"], "home": [["HIST 17C - History of the United States From 1900 to the Present (4.00)"], ["HIST 17CH - History of the United States From 1900 to the Present - HONORS (4.00)"]]}
+{"away": ["HIST 49B - Survey of African History (4.00) Same-As: BL ST 49B"], "home": [["HIST 16B - History of Africa From 1800 to the Present (4.00) Same-As: ICS 16B"], ["ICS 16B - History of Africa From 1800 to the Present (4.00) Same-As: HIST 16B"]]}
+{"away": ["HIST 80 - Chinese Civilization (4.00) Same-As: EACS 80"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 87 - Japanese History Through Art and Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHIL 1 - Short Introduction to Philosophy (4.00)"], "home": [["PHIL 1 - Introduction to Philosophy (4.00)"]]}
+{"away": ["PHIL 3 - Critical Thinking (4.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"], ["PHIL 7H - Deductive Logic - HONORS (4.00)"]]}
+{"away": ["PHIL 4 - Introduction to Ethics (4.00)"], "home": [["PHIL 8 - Ethics (4.00)"], ["PHIL 8H - Ethics - HONORS (4.00)"]]}
+{"away": ["PHIL 6 - Professional and Business Ethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHIL 20C - History of Philosophy (4.00)"], "home": [["PHIL 20C - History of Western Philosophy: 1800 - the Present (4.00)"]]}
+{"away": ["RG ST 1 - Introduction to the Study of Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 7 - Introduction to American Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 9 - Ethnicity and Religion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 15 - Religion and Psychology (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["RG ST 80C - Religion and Western Civilization III: Modern (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 1A - Visual Literacy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ART 7A - The Intersections of Art and Life (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6C - Art Survey III: Modern-Contemporary Art (4.00)"], "home": [["ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00)"]]}
+{"away": ["ARTHI 6F - Survey: Architecture and Planning (4.00)"], "home": [["ARTS 1B - Architecture Past and Present (4.00)"]]}
+{"away": ["ARTHI 6G - Survey: History of Photography (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["BL ST 14 - The History of Jazz (4.00)"], "home": [["MUSI 1B - Music Appreciation: Jazz Styles (4.00)"]]}
+{"away": ["BL ST 45 - Black Arts Expressions (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 35 - History and Appreciation of World Dance (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 45 - History and Appreciation of Dance (4.00)"], "home": [["DANC 38A - Appreciation of Dance (4.00)"]]}
+{"away": ["MUS 15 - Music Appreciation (4.00)"], "home": [["MUSI 1A - Music Appreciation: Music in Western Cultures (4.00)"]]}

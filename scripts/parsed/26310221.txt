@@ -1,0 +1,19 @@
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 002 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL 003 - International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL 004 - Basic Concepts in Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 002 - Introduction to Comparative Politics (4.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["POL 003 - International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL 004 - Basic Concepts in Political Theory (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POL 005 - Contemporary Problems of the American Political System (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 007 - Contemporary Issues in Law & Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011A - America Decides: Who Will Win This Year's Election? (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011B - Citizen Lawmaking: Direct Democracy, Public Policy & Political Representation in America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011C - Politics & Film (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 011D - Political Persuasion (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012A - Politics & Sports (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012B - Climate Change & Politics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 012Y - Data Visualization in the Social Sciences (4.00) Same-As: CMN 012Y, PSC 012Y, SOC 012Y"], "home": [["No Course Articulated"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 032 - Gateway to Statistical Data Science (4.00)"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,10 @@
+{"away": ["ITA 001 - Elementary Italian (5.00)"], "home": [["ITAL 1 - Elementary Italian (First Quarter) (5.00)"]]}
+{"away": ["ITA 002 - Elementary Italian (5.00)"], "home": [["ITAL 2 - Elementary Italian (Second Quarter) (5.00)"]]}
+{"away": ["ITA 003 - Elementary Italian (5.00)"], "home": [["ITAL 3 - Elementary Italian (Third Quarter) (5.00)"]]}
+{"away": ["ITA 031 - Beginning Italian for Spanish Speakers (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 032 - Beginning Italian for Spanish Speakers (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 031Y - Beginning Italian for Spanish Speakers (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 032Y - Beginning Italian for Spanish Speakers (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 021 - Intermediate Italian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 022 - Intermediate Italian (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ITA 023 - Intermediate Italian (5.00)"], "home": [["No Course Articulated"]]}

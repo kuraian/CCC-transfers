@@ -1,0 +1,49 @@
+{"away": ["INTL DEV 1 - Introduction to International Development Studies (5.00)"], "home": [["No Course Articulated Coursework may be completed at UCLA no later than fall"]]}
+{"away": ["after transferring."], "home": [["For more information regarding this major and UCLA's transfer selection process, visit h tt ps://international.ucla.edu /ids and"]]}
+{"away": ["https:// a dmission.ucla.edu ."], "home": [["The  AP Exam Scores listed below may be used to meet the major prep:"]]}
+{"away": ["A score of 3 or higher on the AP Statistics exam"], "home": [["can be used in place of the statistics course."]]}
+{"away": ["A score of 3 or higher on the AP Foreign language exam except Latin"], "home": [["can be used in place of the foreign language courses. Note, however, that additional foreign language courses may be required after you transfer to UCLA."]]}
+{"away": ["A score of 3 or higher on the AP Human Geography exam"], "home": [["can be used in place of the cultural geography course."]]}
+{"away": ["A score of 3 or higher on the AP World History exam"], "home": [["can be used in place of the contemporary world history course."]]}
+{"away": ["A score of 3 or higher on the AP Comparative Government exam"], "home": [["can be used in place of the comparative/world politics course."]]}
+{"away": ["A score of 4 or higher on the AP Microeconomics exam"], "home": [["is equivalent to Econ 1 and can be used in place of the microeconomics"]]}
+{"away": ["course. A score of 4 or higher on the AP Macroeconomics exam"], "home": [["is equivalent to Econ 2 and can be used in place of the macroeconomics"]]}
+{"away": ["course. ECON 1 - Principles of Economics(Microeconomics) (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 2 - Principles of Economics(Macroeconomics) (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["GEOG 4 - Globalization: Regional Development and World Economy (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 30 - Comparative Analysis of Wealth, Policy and Power (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 40 - Microeconomics for Public Affairs (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECON 41 - Probability and Statistics for Economists (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 96W - Introduction to Historical Practice (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["POL SCI 6R - Introduction to Data Analysis--Research Version (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL SCI 6 - Introduction to Data Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PUB AFF 60 - Using Data to Learn about Society: An Introduction to Empirical Research and Statistics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SOCIOL 20 - Introduction to Sociological Research Methods (5.00)"], "home": [["SOC 14 - The Process of Social Research (4.00)"]]}
+{"away": ["STATS 10 - Introduction to Statistical Reasoning (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["STATS 12 - Introduction to Statistical Methods for Geography and Environmental Studies (5.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"]]}
+{"away": ["ANTHRO 3 - CULTURE AND SOCIETY (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"]]}
+{"away": ["GEOG 3 - Cultural Geography (5.00)"], "home": [["GEO 4 - Cultural Geography (4.00)"]]}
+{"away": ["GEOG 5 - People and Earth's Ecosystems (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GEOG 6 - World Regions: Concepts and Contemporary Issues (5.00)"], "home": [["GEO 10 - World Regional Geography (4.00)"]]}
+{"away": ["HIST 8A - Colonial Latin America (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8B - Modern Latin America (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 8C - Latin American Social History (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9A - Introduction to Asian Civilizations: History of India (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9D - Introduction to Asian Civilizations: History of Middle East (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 9E - Introduction to Asian Civilizations: Southeast Asian Crossroads (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 10B - History of Africa, 1800 to Present (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 10BW - Introduction to Civilizations of Africa Since 1800 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 11B - History of China, circa 1000 to 2000 (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12B - Inequality: History of Neoliberalism (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 12C - Inequality: Global History of Anti-Colonial Thought and Struggle (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["HIST 22 - Contemporary World History, 1760 to Present (5.00)"], "home": [["HIST 3C - World History from 1750 CE to the Present (4.00)"]]}
+{"away": ["POL SCI 20 - World Politics (5.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL SCI 50 - Introduction to Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}
+{"away": ["GENDER 10 - Introduction to Gender Studies (5.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["COM LIT 4DW - Literature and Writing: Great Books from World at Large (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPAN 44 - Latin American Cultures (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GLBL ST 1 - Introduction to Globalization (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 1 - Introduction to International and Area Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 31 - Introduction to Southeast Asia (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["I A STD 33 - Introduction to East Asia (5.00)"], "home": [["No Course Articulated"]]}

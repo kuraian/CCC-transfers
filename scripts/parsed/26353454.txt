@@ -1,0 +1,7 @@
+{"away": ["PHIL 9 - Introductory Symbolic Logic (5.00)"], "home": [["This course must be taken at the university after transfer"]]}
+{"away": ["PHIL 11 - Introduction to Philosophy (5.00)"], "home": [["PHIL 1 - Introduction to Philosophy (4.00)"], ["PHIL 2 - Social and Political Philosophy (4.00)"]]}
+{"away": ["PHIL 22 - Introduction to Ethical Theory (5.00)"], "home": [["PHIL 8 - Ethics (4.00)"]]}
+{"away": ["PHIL 24 - Introduction to Ethics: Contemporary Moral Issues (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHIL 26 - Existentialism and After (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHIL 27 - Business Ethics (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHIL 28 - Environmental Ethics (5.00)"], "home": [["No Course Articulated"]]}

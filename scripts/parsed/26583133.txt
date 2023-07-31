@@ -1,0 +1,57 @@
+{"away": [], "home": [["In particular, it is highly recommended that students complete the equivalent to BIOLSCI 002A, a series in Chemistry and a series in Organic Chemistry"]]}
+{"away": ["courses before transferring. BIS 002A - Introduction to Biology: Essentials of Life on Earth (5.00)"], "home": [["BIOL 6B - Cell and Molecular Biology (6.00)"]]}
+{"away": ["BIS 002B - Introduction to Biology: Principles of Ecology & Evolution (5.00)"], "home": [["BIOL 6C - Ecology and Evolution (6.00)"], ["BIOL 6CH - Ecology and Evolution - HONORS (6.00)"]]}
+{"away": ["BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life (5.00)"], "home": [["BIOL 6A - Form and Function in the Biological World (6.00)"], ["BIOL 6AH - Form and Function in the Biological World - HONORS (6.00)"]]}
+{"away": ["CHE 002A - General Chemistry (5.00)"], "home": [["CHEM 1A - General Chemistry (5.00)"], ["CHEM 1AH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002B - General Chemistry (5.00)"], "home": [["CHEM 1B - General Chemistry (5.00)"], ["CHEM 1BH - General Chemistry - HONORS (5.00)"]]}
+{"away": ["CHE 002C - General Chemistry (5.00)"], "home": [["CHEM 1C - General Chemistry and Qualitative Analysis (5.00)"], ["CHEM 1CH - General Chemistry and Qualitative Analysis - HONORS (5.00)"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHE 008A - Organic Chemistry: Brief Course (2.00)", "CHE 008B - Organic Chemistry: Brief Course (4.00)"], "home": [["No Course Articulated"]]}
+{"away": [""], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 118B - Organic Chemistry for Health & Life Sciences (4.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 128A - Organic Chemistry (3.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 128B - Organic Chemistry (3.00)"], "home": [["CHEM 12B - Organic Chemistry (5.00)"]]}
+{"away": ["CHE 129A - Organic Chemistry Laboratory (2.00)"], "home": [["CHEM 12A - Organic Chemistry (5.00)"]]}
+{"away": ["NUT 010 - Discoveries & Concepts in Nutrition (3.00)"], "home": [["NUTR 10 - Contemporary Nutrition (4.00)"]]}
+{"away": ["NUT 010V - Discoveries & Concepts in Nutrition (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PSC 041 - Research Methods in Psychology (4.00)"], "home": [["PSYC 2 - Research Methods in Psychology (6.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["SOC 046 - Introduction to Social Research Methods (4.00)"], "home": [["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 14 - The Process of Social Research (4.00)"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["STA 013 - Elementary Statistics (4.00)"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 17 - Integrated Statistics 2 (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"], ["SOC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: PSYC 15"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 003 - Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["MAT 016A - Short Calculus (3.00)"], "home": [["MATH 1A - Calculus (5.00)"], ["MATH 1AH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 016B - Short Calculus (3.00)"], "home": [["MATH 1B - Calculus (5.00)"], ["MATH 1BH - Calculus - HONORS (5.00)"]]}
+{"away": ["MAT 017A - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MAT 017B - Calculus for Biology & Medicine (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 001A - Principles of Physics (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHY 001B - Principles of Physics (3.00)"], "home": [["PHYS 2A - General Introductory Physics (5.00)"]]}
+{"away": [""], "home": [["No Course Articulated"]]}
+{"away": ["PHY 007A - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["PHY 007B - General Physics (4.00)"], "home": [["PHYS 2B - General Introductory Physics (5.00)", "PHYS 2C - General Introductory Physics (5.00)"]]}
+{"away": ["ANT 002 - Cultural Anthropology (5.00)"], "home": [["ANTH 2 - Cultural Anthropology (4.00)"], ["ANTH 2H - Cultural Anthropology - HONORS (4.00)"]]}
+{"away": ["SOC 001 - Introduction to Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["SOC 003 - Social Problems (4.00)"], "home": [["SOC 20 - Social Problems (4.00)"]]}
+{"away": ["ECN 001A - Principles of Microeconomics (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["PSC 001 - General Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["AMS 055 - Food in American Culture (4.00) Same-As: FST 055"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 010 - Introduction to Chicana/o Studies (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"]]}
+{"away": ["CHI 021 - Chicana/o & Latina/o Health Care Issues (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 040 - Comparative Health: Top Leading Causes of Death (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CHI 042 - Food Justice: Chicana/o & Indigenous Communities (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRD 020 - Food Systems (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ECN 001B - Principles of Macroeconomics (4.00)"], "home": [["ECON 1 - Principles of Macroeconomics (4.00)"], ["ECON 1H - Principles of Macroeconomics - HONORS (4.00)"]]}
+{"away": ["ETX 010 - Introduction to Environmental Toxicology (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["FST 010 - Food Science, Folklore & Health (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["GSW 050 - Introduction to Critical Gender Studies (4.00)"], "home": [["WMST 1 - Introduction to Women's Studies (4.00)"]]}
+{"away": ["HDE 012 - Human Sexuality (3.00)"], "home": [["HUMA 10 - Human Sexuality (4.00)"], ["HUMA 10H - Human Sexuality - HONORS (4.00)"]]}
+{"away": ["IAD 010 - Introduction to International Agricultural Development (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["MIC 010 - Natural History of Infectious Diseases (3.00)"], "home": [["No Course Articulated"]]}
+{"away": ["NAS 001 - Introduction to Native American Studies (4.00)"], "home": [["NAIS 12 - Ethnic Studies and the Historical Experiences of Native Americans (4.00)"]]}
+{"away": ["NUT 011 - Current Topics & Controversies in Nutrition (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHI 015 - Introduction to Bioethics (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL 001 - American National Government (4.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"], ["POLI 1H - American Government and Politics - HONORS (5.00)"]]}
+{"away": ["POL 003 - International Relations (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POL 005 - Contemporary Problems of the American Political System (4.00)"], "home": [["No Course Articulated"]]}

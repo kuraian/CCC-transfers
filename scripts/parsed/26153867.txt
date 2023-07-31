@@ -1,0 +1,9 @@
+{"away": ["LING 20 - Introduction to Linguistics Analysis (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 31 - Logic, First Course (5.00)"], "home": [["PHIL 7 - Deductive Logic (4.00)"]]}
+{"away": ["PHILOS 7 - Introduction to Philosophy of Mind (5.00)"], "home": [["PHIL 1 - Introduction to Philosophy (4.00)"]]}
+{"away": ["PHILOS 8 - Introduction to Philosophy of Science (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 21 - Skepticism and Rationality (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS 23 - Meaning and Communication (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["PHILOS M24 - Language and Identity (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["Elementary and Intermediate Levels (Six Terms) Of One Foreign Language"], "home": [["No Course Articulated"]]}
+{"away": ["Equivalent of Level Three Of Two Foreign Languages"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,2 @@
+{"away": ["AF AMER 1 - Introduction to Black Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["AF AMER M5 - Social Organization of Black Communities (5.00) Same-As: SOCIOL M5"], "home": [["No Course Articulated"]]}

@@ -1,0 +1,2 @@
+{"away": ["CRES 68 - Approaches to Black Studies (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["CRES 10 - Critical Race and Ethnic Studies: An Introduction (5.00)"], "home": [["CETH 10 - Race, Ethnicity, and Inequality (4.00)"]]}

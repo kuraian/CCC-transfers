@@ -1,0 +1,43 @@
+{"away": [], "home": [["All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams. The Department of Theater and Dance offers two theater degrees at the undergraduate level: a Bachelor of Fine Arts in Theater-Acting"]]}
+{"away": ["Emphasis, and a Bachelor of Arts in Theater"], "home": [[". Both programs require completion of core courses in dramatic literature. The B.F.A. program prepares students for professional theater, professional conservatory programs, and Master of Fine Arts programs. Students must audition for admittance"]]}
+{"away": ["to the highly selective B.F.A. program"], "home": [["and are continually reevaluated on their demonstrated ability, commitment, and potential talent. The B.A. in Theater is a more broadly based degree, with a liberal arts orientation that allows students greater curricular choices . B.A. students will choose a concentration in Design, Directing, Playwriting, Theater and Community, or Theater and Performance Studies. Consult the Department of Theater and Dance website concerning additional requirements for the concentrations: www.theaterdance.ucsb.edu/academics/undergrad/degrees/theater-concentrations The Department of Theater and Dance evaluates transfer work to determine completion of lower division requirements for each major."]]}
+{"away": ["For more information, please see the department website:"], "home": [["www.theaterdance.ucsb.edu"]]}
+{"away": ["PREPARATION FOR THE MAJOR : Theater 1 Theater 5 One course from: Theater 2A-B-C-D Theater 10A-B-C* Theater 11A-B-C* Theater 15A-B-C* One unit Theater 29D and two additional units from 29A-B-C Theater 49** Two courses from: Dance 42A-B-C-D-E-F, 43A-B-C, 44A-B-C-D-E-F, 46 THTR 1 - Play Analysis (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 5 - Introduction to Acting (3.00)"], "home": [["THEA 20A - Theory and Technique of Acting (Introduction) (4.00)"]]}
+{"away": ["THTR 2A - Performance in Global Contexts: Africa and the Caribbean (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 2B - Performance in Global Contexts: Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 2C - Performance in Global Contexts: Europe (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 2D - Performance in Global Contexts: Latin America (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 10A - Movement for the Stage (2.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 10B - Movement for the Stage (2.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 10C - Movement for the Stage (2.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 11A - Voice Laboratory (2.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 11B - Voice Laboratory (2.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 11C - Voice Laboratory (2.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 15A - Fundamentals of Acting (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 15B - Fundamentals of Acting (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 15C - Fundamentals of Acting (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["THTR 29D - Run Crew Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29A - Scenic Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29B - Lighting Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 29C - Costume Practicum (1.00)"], "home": [["No Course Articulated"]]}
+{"away": ["THTR 49 - Theater Workshop (1.00 - 6.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 42A - Beginning Ballet (1.00)"], "home": [["DANC 22K - Theory and Technique of Ballet I (1.00)"]]}
+{"away": ["DANCE 42B - Beginning Ballet (1.00)"], "home": [["DANC 22L - Theory and Technique of Ballet II (1.00)"]]}
+{"away": ["DANCE 42C - Beginning Ballet (1.00)"], "home": [["DANC 22M - Theory and Technique of Ballet III (1.00)"]]}
+{"away": ["DANCE 42D - Continuing Ballet (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 42E - Continuing Ballet (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 42F - Continuing Ballet (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 43A - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23L - Theory and Technique of Hip-Hop I (Popular American Dance) (1.00)"]]}
+{"away": ["DANCE 43B - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23M - Theory and Technique of Hip-Hop II (Popular American Dance II) (1.00)"]]}
+{"away": ["DANCE 43C - Beginning Street Dance Forms (2.00)"], "home": [["DANC 23N - Theory and Technique of Hip-Hop III (Popular American Dance III) (1.00)"]]}
+{"away": ["DANCE 44A - Beginning Modern Dance (1.00)"], "home": [["DANC 23A - Theory and Technique of Contemporary (Modern) Dance I (1.00)"]]}
+{"away": ["DANCE 44B - Beginning Modern Dance (1.00)"], "home": [["DANC 23B - Theory and Technique of Contemporary (Modern) Dance II (1.00)"]]}
+{"away": ["DANCE 44C - Beginning Modern Dance (1.00)"], "home": [["DANC 23C - Theory and Technique of Contemporary (Modern) Dance III (1.00)"]]}
+{"away": ["DANCE 44D - Continuing Modern Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 44E - Continuing Modern Dance (2.00)"], "home": [["No Course Articulated"]]}
+{"away": ["DANCE 44F - Continuing Modern Dance (2.00)"], "home": [["No Course Articulated"]]}

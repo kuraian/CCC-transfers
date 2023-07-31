@@ -1,0 +1,12 @@
+{"away": ["COMM  1 - Principles of Oral Communication (4.00)"], "home": [["COMM 1 - Public Speaking (5.00)"]]}
+{"away": ["COMM  10 - Introduction to Communication Studies (5.00)"], "home": [["Course(s) Denied: COMM 10;"]]}
+{"away": ["ANTHRO 4 - Culture and Communication (5.00)"], "home": [["ANTH 6 - Linguistic Anthropology (4.00)"]]}
+{"away": ["LING 1 - Introduction to Study of Language (5.00)"], "home": [["LING 1 - Introduction to Linguistics (4.00)"]]}
+{"away": ["PHILOS 23 - Meaning and Communication (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["One Introductory Statistics Course"], "home": [["MATH 10 - Introductory Statistics (5.00)"], ["MATH 10H - Introductory Statistics - HONORS (5.00)"], ["MATH 23 - Engineering Statistics (5.00)"], ["PSYC 15 - Statistics and Research Methods in Social Science (4.00) Same-As: SOC 15"]]}
+{"away": ["POL SCI 40 - Introduction to American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"]]}
+{"away": ["SOCIOL 1 - Introductory Sociology (5.00)"], "home": [["SOC 1 - Introduction to Sociology (4.00)"]]}
+{"away": ["PSYCH 10 - Introductory Psychology (4.00)"], "home": [["PSYC 1 - General Psychology (4.00)"]]}
+{"away": ["ECON 1 - Principles of Economics(Microeconomics) (4.00)"], "home": [["ECON 2 - Principles of Microeconomics (4.00)"], ["ECON 2H - Principles of Microeconomics - HONORS (4.00)"]]}
+{"away": ["ECON 5 - Economics for Everyone (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["POL SCI 30 - Politics and Strategy (5.00)"], "home": [["No Course Articulated"]]}

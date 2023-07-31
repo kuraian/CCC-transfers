@@ -1,0 +1,3 @@
+{"away": ["CHINESE 1A - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHINESE 1B - Elementary Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["CHINESE 10A - Intermediate Chinese (5.00)"], "home": [["This Course is Never Articulated"]]}

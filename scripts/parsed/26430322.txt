@@ -1,0 +1,5 @@
+{"away": ["POSC 10 - American Politics (5.00)"], "home": [["POLI 1 - American Government and Politics (5.00)"]]}
+{"away": ["POSC 20 - World Politics (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POSC 5 - Modern Political Ideologies (4.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POSC 7 - Intro to Political Theory (5.00)"], "home": [["POLI 5 - Introduction to Political Thought and Theory (4.00)"]]}
+{"away": ["POSC 15 - Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}

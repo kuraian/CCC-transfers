@@ -1,0 +1,4 @@
+{"away": ["ETST 1 - Intro to the Study of Race and Ethnicity (4.00)"], "home": [["CETH 11 - Race and Ethnicity: Belonging and Exclusion in the U.S. (4.00)"]]}
+{"away": ["ETST 7 - Intro to Native American Studies in Comparative Perspective (4.00)"], "home": [["NAIS 11 - Native American Contemporary Society (4.00)"], ["NAIS 12 - Ethnic Studies and the Historical Experiences of Native Americans (4.00)"]]}
+{"away": ["ETST 2 - Intro to Chicano Studies in Comparative Perspective (4.00)"], "home": [["CHLX 10 - Introduction to Chicanx and Latinx Studies (4.00)"]]}
+{"away": ["ETST 3 - Intro to African American Studies in Comparative Perspective (4.00)"], "home": [["AFAM 10 - An Introduction to African American Studies (4.00)"], ["AFAM 11 - Sankofa: Roots of the African American Experience (4.00)"]]}

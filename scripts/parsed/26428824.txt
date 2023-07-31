@@ -1,0 +1,22 @@
+{"away": ["ARTHI 5B - Introduction to Museum Studies (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 5A - Introduction to Architecture and Environment (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6A - Art Survey I: Ancient-Medieval Art (4.00)"], "home": [["ARTS 2A - History of Art: Europe from Prehistory through Early Christianity (4.00)"]]}
+{"away": ["ARTHI 6B - Art Survey II: Renaissance-Baroque Art (4.00)"], "home": [["ARTS 2B - History of Art: Europe During the Middle Ages and the Renaissance (4.00)"]]}
+{"away": ["ARTHI 6C - Art Survey III: Modern-Contemporary Art (4.00)"], "home": [["ARTS 2C - History of Art: Europe from the Baroque Period through Impressionism (4.00)"]]}
+{"away": ["ARTHI 6DL - Survey: Landscape in China (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6DS - Survey: History of Art in China (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6DW - Survey: Art of Japan and Korea (4.00)"], "home": [["ARTS 2G - History of Art: Arts of Asia (4.00) Same-As: ASAM 40"], ["ASAM 40 - History of Art: Arts of Asia (4.00) Same-As: ARTS 2G"]]}
+{"away": ["ARTHI 6E - Survey: Arts of Africa, Oceania, and Native North America (4.00)"], "home": [["No Course Articulated All transfer applicants must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. All admission requirements must be completed by the end of spring prior to transfer. For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: www.admissions.ucsb.edu This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a"]]}
+{"away": ["specified GPA"], "home": [[", and completion or near completion of major preparatory courses will help students move more efficiently toward"]]}
+{"away": ["graduation after transfer."], "home": [["Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement."]]}
+{"away": ["Advanced Placement (AP) and International Baccalaureate (IB)"], "home": [["exams may or may not be used to meet course requirements, depending on the"]]}
+{"away": ["exam. Please refer to the AP Chart and IB Chart in the UCSB General Catalog"], "home": [["for information on how we use AP and IB exams."]]}
+{"away": ["Please visit the department's website to learn more about this major:"], "home": [["www.arthistory.ucsb.edu"]]}
+{"away": ["PREPARATION FOR THE MAJOR: A. Art History 5B B. Four courses from Art History"], "home": [["5A, 6A-B-C-DL-DS-DW-E-F-G-H-J-K-L-M, W 6R"]]}
+{"away": ["Art History 86 may be applied by petition ARTHI 6F - Survey: Architecture and Planning (4.00)"], "home": [["ARTS 1B - Architecture Past and Present (4.00)"]]}
+{"away": ["ARTHI 6G - Survey: History of Photography (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6H - Survey: Arts of the Ancient Americas (4.00)"], "home": [["ARTS 2H - History of Art: Native Arts of Mesoamerica and the Andes (4.00) Same-As: INTL 21"], ["INTL 21 - History of Art: Native Arts of Mesoamerica and the Andes (4.00) Same-As: ARTS 2H"]]}
+{"away": ["ARTHI 6J - Survey: Contemporary Architecture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6K - Survey: Islamic Art and Architecture (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6L - Playful Spaces: A Cultural History of Games (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["ARTHI 6M - Survey: Eccentric Images (4.00)"], "home": [["No Course Articulated"]]}

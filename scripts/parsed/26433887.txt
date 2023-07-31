@@ -1,0 +1,6 @@
+{"away": ["JPN 1 - First-Year Japanese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JPN 2 - First-Year Japanese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JPN 3 - First-Year Japanese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JPN 4 - Second-Year Japanese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JPN 5 - Second-Year Japanese (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["JPN 6 - Second-Year Japanese (4.00)"], "home": [["No Course Articulated"]]}

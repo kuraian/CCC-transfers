@@ -1,0 +1,1 @@
+{"away": ["MGT 4 - Financial Accounting (4.00) Same-As: ECON 4"], "home": [["ACCT 1A - Financial Accounting I (5.00)"], ["ACCT 1AH - Financial Accounting I - HONORS (5.00)"]]}

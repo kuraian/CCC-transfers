@@ -1,0 +1,25 @@
+{"away": ["SPA 001 - Elementary Spanish (5.00)"], "home": [["SPAN 1 - Elementary Spanish (First Quarter) (5.00)"]]}
+{"away": ["SPA 001S - Elementary Spanish (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["SPA 002 - Elementary Spanish (5.00)"], "home": [["SPAN 2 - Elementary Spanish (Second Quarter) (5.00)"]]}
+{"away": ["SPA 002S - Elementary Spanish (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["SPA 002V - Elementary Spanish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 002Y - Elementary Spanish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 003 - Elementary Spanish (5.00)"], "home": [["SPAN 3 - Elementary Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPA 003S - Elementary Spanish (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["SPA 003V - Elementary Spanish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 003Y - Elementary Spanish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 021 - Intermediate Spanish (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)", "SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)", "SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPA 021S - Intermediate Spanish (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["SPA 021V - Intermediate Spanish I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 021Y - Intermediate Spanish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 022 - Intermediate Spanish (5.00)"], "home": [["SPAN 4 - Intermediate Spanish (First Quarter) (5.00)", "SPAN 5 - Intermediate Spanish (Second Quarter) (5.00)", "SPAN 6 - Intermediate Spanish (Third Quarter) (5.00)"]]}
+{"away": ["SPA 022S - Intermediate Spanish (5.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["SPA 022V - Intermediate Spanish II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 022Y - Intermediate Spanish (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 023 - Spanish Composition I (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 023S - Spanish Composition I (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["SPA 024 - Spanish Composition II (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 024S - Spanish Composition II (4.00)"], "home": [["This Course is Never Articulated"]]}
+{"away": ["SPA 031 -  Intermediate Spanish for Native Speakers I (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 032 - Intermediate Spanish for Native Speakers II (5.00)"], "home": [["No Course Articulated"]]}
+{"away": ["SPA 033 - Intermediate Spanish for Native Speakers III (5.00)"], "home": [["No Course Articulated"]]}

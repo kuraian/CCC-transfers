@@ -1,0 +1,2 @@
+{"away": ["POSC 20 - World Politics (4.00)"], "home": [["POLI 3 - International Relations (4.00)"]]}
+{"away": ["POSC 15 - Comparative Politics (5.00)"], "home": [["POLI 2 - Comparative Politics (4.00)"]]}

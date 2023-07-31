@@ -1,0 +1,23 @@
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 003 - Major Works of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 004 - Major Works of the Contemporary World (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}
+{"away": ["COM 001 - Major Works of the Ancient World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 002 - Major Works of the Medieval & Early Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 003 - Major Works of the Modern World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 004 - Major Works of the Contemporary World (4.00)"], "home": [["ELIT 39 - Contemporary Literature (4.00)"]]}
+{"away": ["COM 005 - Fairy Tales, Fables, & Parables (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 006 - Myths & Legends (4.00)"], "home": [["ELIT 22 - Mythology and Folklore (4.00)"]]}
+{"away": ["COM 007 - Literature of Fantasy & the Supernatural (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 008 - Utopias & Their Transformations (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 009 - The Short Story & Novella (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 011 - Travel & the Modern World (4.00) Same-As: GER 011"], "home": [["No Course Articulated"]]}
+{"away": ["COM 012 - Introduction to Women Writers (4.00)"], "home": [["ELIT 21 - Women in Literature (4.00) Same-As: WMST 21"], ["WMST 21 - Women in Literature (4.00) Same-As: ELIT 21"]]}
+{"away": ["COM 013 - Dramatic Literature (3.00)"], "home": [["ELIT 12 - Introduction to Dramatic Literature (4.00)"]]}
+{"away": ["COM 014 - Introduction to Poetry (3.00)"], "home": [["ELIT 11 - Introduction to Poetry (4.00)"]]}
+{"away": ["COM 020 - Humans & Natural World (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 024 - Animals in Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 025 - Ethnic Minority Writers in World Literature (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 053A - Literature of East Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 053B - Literature of South Asia (4.00)"], "home": [["No Course Articulated"]]}
+{"away": ["COM 053C - Literatures of the Islamic World (4.00)"], "home": [["No Course Articulated"]]}
